@@ -1,0 +1,979 @@
+id,categoria,codigo,nombre,minimo,alicuota_num
+557,52,171200.2,"Acabado de textiles (incluye blanqueo, teñido y estampado)",577.00,7.00
+368,27,523952.1,Activación de líneas teléfonos celulares,783.00,15.80
+250,64,112000,"Actividades de servicios relacionadas con la extracción de petróleo y gas, excepto las actividades de prospección",733.00,7.00
+831,57,701090.4,"Administración de Consorcios, Urbanizaciones Residenciales Especiales, Barrios Cerrados y similares",564.00,8.40
+133,57,701090.2,"Administración, locación, sublocación y venta de inmuebles de terceros.",564.00,10.50
+677,51,632003,Agencias aéreas. Servicios conexos propios,577.00,7.00
+146,51,632004,Agencias aéreas. Servicios por comisión,577.00,15.80
+286,51,634110,Agencias de turismo y servicios conexos (por comisiones),577.00,15.80
+420,51,634100,Agencias de turismo y servicios conexos propios,577.00,7.00
+922,77,662040,Agente de seguros y servicios relacionados con seguros n.c.p.,532.00,13.70
+57,30,522120.3,Almacén de comestibles,373.00,7.00
+134,8,551222.8,"Alojamiento y/o alquiler  temporario de departamentos, casas amobladas y/o similar. Con un mínimo por cada departamento y/o habitación de $ 350.",0.00,10.50
+15,14,711400,Alquiler de automóviles sin chofer,471.00,9.30
+748,14,712300,Alquiler de computadoras y sus equipos y máquinas de oficina cálculo y contabilidad,749.00,11.60
+316,14,713009.1,Alquiler de cosas muebles n.c.p.,471.00,9.30
+852,36,455000,Alquiler de equipo de construcción o demolición,577.00,7.60
+531,14,711200,"Alquiler de equipo de transporte para vía acuática, sin operarios ni tripulación",471.00,9.30
+621,14,711300,"Alquiler de equipo de transporte para vía aérea, sin operarios ni tripulación",471.00,9.30
+817,14,711100,"Alquiler de equipo de transporte para vía terrestre, sin operarios ni tripulación",471.00,9.30
+550,14,713001,Alquiler de ropa en general (excepto ropa blanca),471.00,9.30
+483,14,713009.2,"Alquiler de vajilla, mobiliario y elemento de fiesta",471.00,9.30
+307,16,713009.3,Alquiler de video películas y video juegos,471.00,7.00
+744,14,712902,Alquiler y arrendamiento de maquinaria petrolera y minera (sin personal),471.00,9.30
+900,14,712100,Alquiler y arrendamiento de maquinaria y equipo agrícola (sin personal),471.00,9.30
+890,14,712909.2,Alquiler y arrendamiento de maquinaria y equipo n.c.p.,471.00,9.30
+591,14,712200,Alquiler y arrendamiento de maquinaria y equipo para la construcción y la industria (sin personal),471.00,9.30
+652,14,712909.1,Alquiler y arrendamiento de máquinas para salones de entretenimientos,471.00,9.30
+626,39,012230,"Apicultura (Incluye la producción de miel, jalea real, polen, propóleo).",577.00,7.00
+719,8,551229.4,"Appart-hotel, por unidad, departamento y casa. Con un mínimo por cada uno de $ 131,80.",0.00,10.50
+544,27,523999.2,Artesanos. Venta al por menor de artesanías,471.00,7.00
+120,27,524990,Artículos usados o reacondicionados,471.00,8.40
+568,77,662030,Aseguradora de riesgo de trabajo (A.R.T.),0.00,15.80
+263,2,201000,Aserraderos. Preparación y conservación de maderas (excepto las terciadas y conglomeradas),577.00,7.00
+258,16,921420,Autores compositores y artistas,315.00,7.00
+7,7,652130,"Bancos
+Con un mínimo por cada cuenta corriente y caja de ahorro (excluidas cuentas sueldos) de $ 5.",0.00,27.80
+301,62,552115.2,"Bar con música, sin espectáculo público, instalado dentro del perímetro y tramos establecidos por el Artículo 156° de la presente.",2785.00,22.00
+728,62,552115.1,"Bar con música, sin espectáculo público, instalado fuera del perímetro y tramos establecidos por el Artículo 156° de la presente.",1852.00,22.00
+435,62,552114.4,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2",1112.00,8.40
+882,62,552114.8,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:
+- Perímetro comprendido por las calles Av. Marcelo T. De Alvear, Av. Figueroa Alcorta; Humberto Primero, Sarmiento, Av. Maipú, Chacabuco, Corrientes y Av. Duarte Quirós, ambas aceras y ochavas, y los ubicados en Calles Chacabuco,  Ituzaingó, Buenos Aires e Independencia, entre las calles Bv. Arturo Illia y Corrientes, en ambas aceras; en Calles Independencia, Obispo Trejo, Av. Vélez Sarsfield y Marcelo T de Alvear, entre las calles Bv. San Juan y Av. Duarte Quirós, en ambas aceras.
+-  Perímetro comprendido por las calles: Rodríguez Peña; Isabel La Católica, Jujuy, Jerónimo Cortez, Fragueiro, Jerónimo Luis de Cabrera,  Lavalleja, Faustino Allende, ambas aceras y ochavas.
+- Perímetro comprendido por las calles: Catamarca, Viamonte, 25 De Mayo y Ovidio Lagos, ambas aceras y ochavas.
+- Sobre Avenida Rafael Nuñez entre el Nº 3700 hasta el Nº 5000, ambas aceras y ochavas.
+-  Sobre Av. Del Dante, ambas aceras y ochavas.
+- Sobre Av. Concepción Arenales, ambas aceras y ochavas.",2001.00,15.80
+196,62,552114.2,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada desde 101 m2 a 200 m2",749.00,8.40
+506,62,552114.6,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada desde 101 m2 a 200 m2. Ubicados dentro de los siguientes perímetros:
+- Perímetro comprendido por las calles Av. Marcelo T. De Alvear, Av. Figueroa Alcorta; Humberto Primero, Sarmiento, Av. Maipú, Chacabuco, Corrientes y Av. Duarte Quirós, ambas aceras y ochavas, y los ubicados en Calles Chacabuco,  Ituzaingó, Buenos Aires e Independencia, entre las calles Bv. Arturo Illia y Corrientes, en ambas aceras; en Calles Independencia, Obispo Trejo, Av. Vélez Sarsfield y Marcelo T de Alvear, entre las calles Bv. San Juan y Av. Duarte Quirós, en ambas aceras.
+- Perímetro comprendido por las calles: Rodríguez Peña; Isabel La Católica, Jujuy, Jerónimo Cortez, Fragueiro, Jerónimo Luis de Cabrera,  Lavalleja, Faustino Allende, ambas aceras y ochavas.
+-  Perímetro comprendido por las calles: Catamarca, Viamonte, 25 De Mayo y Ovidio Lagos, ambas aceras y ochavas.
+- Sobre Avenida Rafael Nuñez entre el Nº 3700 hasta el Nº 5000, ambas aceras y ochavas.
+- Sobre Av. Del Dante, ambas aceras y ochavas.
+- Sobre Av. Concepción Arenales, ambas aceras y ochavas.",1347.00,15.80
+442,62,552114.3,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada desde 201 m2 a 300 m2",934.00,8.40
+754,62,552114.7,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada desde 201 m2 a 300 m2. Ubicados dentro de los siguientes perímetros:
+- Perímetro comprendido por las calles Av. Marcelo T. De Alvear, Av. Figueroa Alcorta; Humberto Primero, Sarmiento, Av. Maipú, Chacabuco, Corrientes y Av. Duarte Quirós, ambas aceras y ochavas, y los ubicados en Calles Chacabuco,  Ituzaingó, Buenos Aires e Independencia, entre las calles Bv. Arturo Illia y Corrientes, en ambas aceras; en Calles Independencia, Obispo Trejo, Av. Vélez Sarsfield y Marcelo T de Alvear, entre las calles Bv. San Juan y Av. Duarte Quirós, en ambas aceras.
+- Perímetro comprendido por las calles: Rodríguez Peña; Isabel La Católica, Jujuy, Jerónimo Cortez, Fragueiro, Jerónimo Luis de Cabrera, Lavalleja, Faustino Allende, ambas aceras y ochavas.
+- Perímetro comprendido por las calles: Catamarca, Viamonte, 25 De Mayo y Ovidio Lagos, ambas aceras y ochavas.
+- Sobre Avenida Rafael Nuñez entre el Nº 3700 hasta el Nº 5000, ambas aceras y ochavas.
+- Sobre Av. Del Dante, ambas aceras y ochavas.
+- Sobre Av. Concepción Arenales, ambas aceras y ochavas.",1686.00,15.80
+184,62,552114.1,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada hasta 100 m2",564.00,8.40
+771,62,552114.5,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada hasta 100 m2. Ubicados dentro de los siguientes perímetros:
+- Perímetro comprendido por las calles Av. Marcelo T. De Alvear, Av. Figueroa Alcorta; Humberto Primero, Sarmiento, Av. Maipú, Chacabuco, Corrientes y Av. Duarte Quirós, ambas aceras y ochavas, y los ubicados en Calles Chacabuco, Ituzaingó, Buenos Aires e Independencia, entre las calles Bv. Arturo Illia y Corrientes, en ambas aceras; en Calles Independencia, Obispo Trejo y Av. Vélez Sarsfield y Marcelo T. de Alvear,  entre las calles Bv. San Juan y Av. Duarte Quirós, en ambas aceras.
+- Perímetro comprendido por las calles: Rodríguez Peña; Isabel La Católica, Jujuy, Jerónimo Cortez, Fragueiro, Jerónimo Luis de Cabrera,  Lavalleja, Faustino Allende, ambas aceras y ochavas.
+- Perímetro comprendido por las calles: Catamarca, Viamonte, 25 De Mayo y Ovidio Lagos, ambas aceras y ochavas.
+- Sobre Avenida Rafael Nuñez entre el Nº 3700 hasta el Nº 5000,  ambas aceras y ochavas.
+- Sobre Av. Del Dante, ambas aceras y ochavas.
+- Sobre Av. Concepción Arenales, ambas aceras y ochavas.",1011.00,15.80
+830,62,552114.9,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes. Ubicados dentro de shoppings, grandes centros comerciales y patios de comida.",1242.00,15.80
+321,62,552114.13,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría, y restaurantes con una superficie habilitada de mas de 300 m2. Ubicados dentro del perímetro comprendido por las calles: Bv. Illia, Tránsito Cáceres de Allende, Av. Poeta Lugones, Bv. Chacabuco, Bolivia, Ituzaingo, Venezuela, Richardson, Av. Vélez Sarsfield, Av. Pueyrredón, Av. Marcelo T. De Alvear, Bv San Juan, ambas aceras y ochavas.",4177.00,22.00
+611,62,552114.11,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría, y restaurantes con una superficie habilitada desde 101 m2 hasta 200 m2. Ubicados dentro del perímetro comprendido por las calles: Bv. Illia, Tránsito Cáceres de Allende, Av. Poeta Lugones, Bv. Chacabuco, Bolivia, Ituzaingo, Venezuela, Richardson, Av. Vélez Sarsfield, Av. Pueyrredón, Av. Marcelo T. De Alvear, Bv San Juan, ambas aceras y ochavas.",2219.00,22.00
+236,62,552114.12,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría, y restaurantes con una superficie habilitada desde 201 m2 hasta 300 m2. Ubicados dentro del perímetro comprendido por las calles: Bv. Illia, Tránsito Cáceres de Allende, Av. Poeta Lugones, Bv. Chacabuco, Bolivia, Ituzaingo, Venezuela, Richardson, Av. Vélez Sarsfield, Av. Pueyrredón, Av. Marcelo T. De Alvear, Bv San Juan, ambas aceras y ochavas.",3328.00,22.00
+402,62,552114.10,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría, y restaurantes con una superficie habilitada hasta 100 m2. Ubicados dentro del perímetro comprendido por las calles: Bv. Illia, Tránsito Cáceres de Allende, Av. Poeta Lugones, Bv. Chacabuco, Bolivia, Ituzaingo, Venezuela, Richardson, Av. Vélez Sarsfield, Av. Pueyrredón, Av. Marcelo T. De Alvear, Bv San Juan, ambas aceras y ochavas.",1299.00,22.00
+188,53,924910.4,"Bingo, quini-6 u otros similares",783.00,29.00
+548,35,642020.5,Cabinas telefónicas (por cabina Mínimo $ 60).,783.00,11.60
+845,41,930990.5,Cama solar,740.00,8.40
+130,41,930102,Cámaras frigoríficas y lugares destinados a la conservación de pieles.,934.00,15.80
+180,20,924920.2,"Cancha de bowling y minigolf, por cada una",315.00,12.60
+320,71,410020,"Captación, purificación y distribución de agua",577.00,0.00
+268,27,523960.1,Carbón y leña,471.00,7.00
+265,30,522210.1,Carnicería. Venta al por menor de carnes y sus preparados y derivados (excepto envasada y congelada),373.00,7.00
+350,8,551210,"Casas amuebladas o alojamiento por hora; el importe mínimo a tributar por mes por las actividades comprendidas en el presente código, surgirá de multiplicar la tarifa más alta fijada en el mes para el turno de 2 hs. por la cantidad de habitaciones construidas por el coeficiente 3. El régimen de tarifas que establezcan las casas amuebladas o alojamiento por hora deberá comunicarse a la Dirección General de Recursos tributarios con 10 días de anticipación y bajo declaración jurada especificando las tarifas de los distintos turnos incluido el de 2 hs. y el número de cada una de las habitaciones sujetas a las mismas. Las tarifas incluidas en la declaración jurada deberán exhibirse al usuario en el interior de la habitación mediante impresos avisados por la Dirección General de Recursos Tributarios. Cuando no se estableciera tarifa para los turnos de 2 hs. la Dirección General de Recursos Tributarios determinará su equivalente.",4617.00,26.30
+90,20,921990.2,"Centros de entretenimiento familiar, entendiendo por tales aquellos establecimientos con juegos de parque, mecánicos, electrónicos o similares que posean menos del 30% de los mismos en calidad de videojuegos",740.00,18.90
+849,16,921200.2,"Cinematógrafos, con más de dos salas de exhibición",1852.00,13.70
+131,16,921200.1,Cines. Exhibición de películas cinematográficas (excepto condicionadas),1852.00,13.70
+691,16,921200.3,Cines. Exhibición de películas condicionadas,4617.00,52.50
+242,20,924110.1,Club social y deportivo,471.00,10.50
+157,36,454100,"Colocación de carpintería y herrería de obra, vidrios y cerramientos",577.00,7.60
+417,36,452530,Colocación de cubiertas asfálticas y techos,577.00,7.60
+422,36,454200.3,Colocación de pisos y revestimientos n.c.p. (incluye plastificado de pisos),577.00,7.60
+322,36,454200.2,"Colocación y pulido de pisos y revestimientos de mosaicos, mármol, cerámicos y similares",577.00,7.60
+797,27,523960,Combustibles derivados del petróleo y Gas Natural Comprimido,934.00,7.00
+559,27,523963,"Combustibles derivados del petróleo y Gas Natural Comprimido, en estaciones de servicio y otras actividades reguladas por la Ordenanza Nº 9.748/97 y sus modificatorias como localizadas en zonas determinadas por el artículo 10° de dicha ordenanza",934.00,7.40
+563,17,513381,"Combustibles derivados del Petróleo y Gas natural Comprimido, en Estaciones de Servicios y otras actividades reguladas por la Ordenanza Nº 9.748/97 y sus modificatorias, localizadas en las zonas determinadas por el artículo 10° de dicha ordenanza",1029.00,5.00
+708,7,652201,Compañías de Ahorro para fines determinados                                                                                                                                                                                         Con un mínimo por persona que desarrolle actividad inherente al giro del establecimiento de $ 407.,0.00,15.10
+459,7,652202.1,"Compañías Financieras, Caja de Créditos, Sociedades de Crédito para consumo comprendidas en la Ley de Entidades Financieras y autorizadas por el Banco Central de la República Argentina. Con un mínimo por persona que desarrolle actividad inherente al giro del establecimiento de $ 521.",0.00,16.40
+742,57,702000.1,Compra Venta de Bienes Inmuebles,4932.00,9.30
+267,27,523590,Compra y venta de artículos del hogar y muebles,471.00,7.00
+37,27,523720.2,Compra y venta de oro,1852.00,15.80
+660,7,671910,Compra y Venta de títulos y Casas de Cambio. Con un mínimo por empleado de $ 521.,0.00,44.00
+775,35,642099.2,"Comunicaciones no clasificadas en otra parte                                                                                                                                                                                           Con un mínimo mensual por abonado conectado de $ 11,15.",0.00,15.10
+946,35,642020.1,"Comunicaciones por correo, telégrafo y télex",934.00,10.00
+47,35,642010.1,Comunicaciones por radio excepto radiodifusión y televisión (radioaficionados),934.00,10.00
+396,35,642020.4,"Comunicaciones telefónicas larga distancia no incluidos en código 642020.2. Con un mínimo mensual por cliente activo de $ 4,20.",0.00,21.70
+829,35,642020.2,"Comunicaciones telefónicas. Con un mínimo por abonado de $ 11,15. (Cuando exista dos o más empresas que presten servicios diversos al mismo abonado, el mínimo mensual se asignará en forma completa al prestador “abono básico”).",0.00,25.00
+59,18,182009.2,Confección de artículos de piel (excluidas las prendas de vestir),934.00,8.40
+288,69,181191,Confección de impermeables y pilotos,577.00,7.00
+810,69,181202,Confección de prenda de vestir de cuero y sucedáneos,733.00,8.40
+495,69,181199,"Confección de prendas de vestir (excepto las de piel, de cuero y sucedáneos, pilotos e impermeables). Incluye ropa interior, prendas de dormir y playa, indumentaria de trabajo, uniformes, guardapolvos, ropa de bebé y niño.",577.00,7.00
+872,69,182001,Confección de prendas de vestir de piel y sucedáneos,733.00,8.40
+100,10,352000,Construcción de maquinaria y equipo ferroviario (incluye locomotoras y material rodante),577.00,7.00
+255,10,351100,Construcción de motores y piezas para navíos,577.00,7.00
+780,36,452390,"Construcción o reparación de calles, puentes, aeropuertos, centrales hidroeléctricas y/u obras pesadas similares",577.00,7.60
+167,10,351200,"Construcción y reparación de embarcaciones, incluye buques, yates, veleros, botes,  Astilleros",577.00,7.00
+332,36,452100,"Construcción, reforma y reparación de edificios (incluye viviendas unifamiliares y multifamiliares; bungalows, cabañas, casas de campo, departamento, albergues para ancianos, estudiantes, niños)",577.00,7.60
+74,36,452900.1,Construcciones n.c.p.,577.00,7.60
+614,57,702000.2,Corredor inmobiliario,564.00,15.80
+262,35,642099.1,Correo electrónico - Provisión de Servicios de internet                                                                                                                                                            Con un mínimo mensual por abonado o conectado de $ 5.,0.00,15.10
+880,41,930202.2,Cosmetología,375.00,8.40
+115,52,173091,Costurera con superficie menor a 100 m2,264.00,7.00
+407,39,012242,Cría de animales para la obtención de pelos,577.00,7.00
+892,39,012241,Cría de animales para la obtención de pieles y cueros,577.00,7.00
+501,39,012243,Cría de animales para la obtención de plumas,577.00,7.00
+670,39,012290,"Cría de animales y obtención de productos de origen animal, n.c.p. (Incluye ciervo, conejo -excepto para pelos-, gato, gusano de seda, lombriz, pájaro, perro, rana, animales para experimentación, caracoles vivos, frescos, congelados y secos -excepto marino-, cera de insectos excepto la de abeja)",577.00,7.00
+212,39,012211,Cría de aves para producción de carne,577.00,7.00
+370,39,012212,Cría de aves para producción de huevos,577.00,7.00
+61,39,012111,"Cría de ganado (incluye ovino, bovino, equino, caprino)",577.00,7.00
+453,5,011411,Cultivo de algodón,577.00,7.00
+619,5,011111,"Cultivo de arroz, trigo, maíz, soja y cereales forrajeros,  oleaginosas, semillas",577.00,7.00
+679,5,011229,"Cultivo de bulbos, brotes, raíces y hortalizas de frutos n.c.p. (incluye ají, ajo, alcaparra, berenjena, cebolla, calabaza, espárrago, frutilla, melón, pepino, pimiento, sandía, zanahoria, zapallo, zapallito)",577.00,7.00
+382,5,011421,Cultivo de caña de azúcar,577.00,7.00
+695,5,011460,"Cultivo de especias (de hoja, de semilla, de flor y de fruto) y de plantas aromáticas y medicinales.",577.00,7.00
+574,5,011251,Cultivo de flores,577.00,7.00
+5,5,011330,"Cultivo de frutas cítricas. (Incluye bergamota, lima, limón, mandarina, naranja, pomelo, kinoto)",577.00,7.00
+895,5,011320,"Cultivo de frutas de carozo. (Incluye cereza, ciruela, damasco, durazno, melón)",577.00,7.00
+275,5,011319,"Cultivo de frutas de pepita n.c.p. (Incluye membrillo, níspero)",577.00,7.00
+40,5,011390,"Cultivo de frutas n.c.p. (Incluye ananá, banana, higo, kiwi, mamón, palta, uva de mesa)",577.00,7.00
+639,5,011230,"Cultivo de hortalizas de hoja y de otras hortalizas frescas (incluye acelga, apio, cebolla de verdeo, choclo, coles, espinaca, lechuga, perejil, radicheta, repollo)",577.00,7.00
+123,5,011241,"Cultivo de legumbres frescas (incluye arveja, chaucha, haba, lupino, poroto)",577.00,7.00
+545,5,011242,"Cultivo de legumbres secas. (Incluye arveja, garbanzo, haba, lenteja, poroto)",577.00,7.00
+91,5,011311,Cultivo de manzana y pera,577.00,7.00
+87,5,011340,"Cultivo de nueces y frutas secas. (Incluye almendra, avellana, castaña, nuez, pistacho)",577.00,7.00
+768,5,011210,"Cultivo de papa, batata y mandioca",577.00,7.00
+397,5,011252,Cultivo de plantas ornamentales,577.00,7.00
+174,5,011419,"Cultivo de plantas para la obtención de fibras n.c.p. (Incluye abacá, cáñamo, formio, lino textil, maíz de Guinea, ramio, yute)",577.00,7.00
+205,5,011429,Cultivo de plantas sacaríferas n.c.p. (Incluye remolacha azucarera),577.00,7.00
+732,5,011450,Cultivo de tabaco,577.00,7.00
+488,5,011440,"Cultivo de té, yerba mate y otras plantas cuyas hojas se utilizan p/preparar bebidas (infusiones)",577.00,7.00
+13,5,011221,Cultivo de tomate,577.00,7.00
+367,5,011430,Cultivo de vid para vinificar,577.00,7.00
+514,5,011490,"Cultivos industriales n.c.p. (Incluye olivo para conserva, palmitos)",577.00,7.00
+867,5,011530,Cultivos n.c.p.,577.00,7.00
+102,18,191100,"Curtido, acabado, repujado, charolado y terminado del cuero. Curtiembres y talleres de acabado",577.00,8.40
+755,41,930202.5,Depilación,375.00,8.40
+224,29,632000.4,"Depósitos , almacenamiento y venta  de  Pirotecnia, pólvora, armamento, explosivos",1139.00,9.30
+38,29,632000.3,Depósitos y almacenamientos de alimentos no refrigerados,934.00,7.00
+735,29,632000.2,Depósitos y almacenamientos de alimentos refrigerados,934.00,7.00
+927,29,632000.1,"Depósitos y almacenamientos en general, excepto alimentos",934.00,7.60
+48,36,452510.2,Desagotes de pozos negros y/o cámaras sépticas.,471.00,7.60
+916,27,525000,Desarmaderos de autos y venta al por menor de sus partes. Repuestos y accesorios usados,471.00,7.00
+221,31,373000,Desarrollo de software,373.00,8.40
+434,23,153120,"Descascaramiento, pulido, limpieza y molienda de arroz",733.00,7.00
+273,36,452510.3,Desobstrucción de cañerías.,471.00,7.60
+777,16,921220,Despachante de aduana y balanceadores,564.00,12.60
+934,19,155110,Destilación de alcohol etílico,733.00,8.40
+394,19,155120.1,Destilación de alcoholes excepto el etílico,733.00,7.00
+165,19,155120.2,"Destilación, rectificación y mezcla de bebidas alcohólicas (incluye whisky, coñac, ron)",733.00,8.40
+150,47,401300,Distribución de energía eléctrica. Por cada 10.000 Kw. $ 112.,0.00,0.00
+846,41,930990.3,Distribución de gacetillas,375.00,8.40
+419,72,513212,Distribución por mayor de diarios y revistas,373.00,7.00
+734,16,921120,Distribución y alquiler de películas cinematográficas,1852.00,7.00
+538,24,512299.2,Distribución y venta al por mayor de alimentos y suplementos dietarios.,373.00,7.00
+193,17,514199.2,Distribución y venta al por mayor de carbón y sus derivados,373.00,7.00
+873,24,512250,Distribución y venta al por mayor de pan y productos de panificación,373.00,7.00
+179,17,514990,Distribución y venta al por mayor de petróleo y sus derivados (excepto combustibles),373.00,4.00
+776,17,514932,Distribución y venta al por mayor de productos de caucho,373.00,7.00
+278,24,512279,Distribución y venta al por mayor de productos y subproductos de molinería,373.00,7.00
+44,33,221100,Edición de libros y publicaciones. Editoriales con talleres propios,264.00,7.00
+151,33,221900.2,Edición n.c.p.,264.00,7.00
+237,33,221200,"Editorial de diarios, periódicos y revistas",264.00,7.00
+433,33,221900.1,Editoriales sin imprenta,264.00,7.00
+379,28,743000.2,Ejecución de trabajos de artículos publicitarios (diseño gráfico),471.00,11.60
+939,36,453190,Ejecución y mantenimiento de instalaciones eléctricas n.c.p.,577.00,7.60
+467,23,152090.3,"Elaboración artesanal de alimentos sin local de atención, sin empleados",315.00,7.00
+279,23,152090.1,Elaboración artesanal de helados,733.00,7.00
+448,31,151191,Elaboración de aceites y grasas animales no comestibles,577.00,7.00
+520,23,151410,Elaboración de aceites y grasas vegetales y subproductos,733.00,7.00
+336,23,151203,Elaboración de aceites y harinas de pescado y otros animales marinos,733.00,7.00
+98,9,153131,Elaboración de alimentos de cereales,733.00,7.00
+141,23,153300,Elaboración de alimentos preparados para animales,733.00,7.00
+745,23,153200,Elaboración de almidones y productos derivados del almidón. (Incluye la elaboración de glucosa y gluten),733.00,7.00
+364,73,272010,Elaboración de aluminio primario y semielaborados de aluminio,577.00,7.00
+239,19,155499,Elaboración de bebidas n.c.p.,733.00,8.40
+704,19,155420,"Elaboración de bebidas no alcohólicas (incluye bebidas refrescantes, gaseosas, excepto jugos o jarabes para diluir)",733.00,9.50
+766,23,154301,"Elaboración de cacao, chocolate, bombones y otros productos similares a base de cacao",733.00,7.00
+562,23,154309,"Elaboración de caramelos, golosinas y otros productos de confiterías n.c.p.",733.00,7.00
+424,9,154999.2,"Elaboración de concentrados: café, te",733.00,7.00
+201,9,154912,Elaboración de especies,733.00,7.00
+821,9,154991,"Elaboración de extractos, jarabes y concentrados",733.00,7.00
+392,23,151340,"Elaboración de frutas, hortalizas y legumbres congeladas",733.00,7.00
+80,19,155490.2,Elaboración de jugos envasados para diluir,733.00,8.40
+315,19,155300,"Elaboración de malta, cerveza y bebidas malteadas",733.00,9.50
+767,23,154410,Elaboración de pastas frescas,733.00,7.00
+202,23,151201,"Elaboración de pescados de mar, crustáceos y otros productos marinos envasado y conservación",733.00,7.00
+429,23,151202,"Elaboración de pescados de río, lagunas y otros productos pluviales y lacustres. Envasado y conservación",733.00,7.00
+712,9,154999.5,"Elaboración de productos alimenticios n.c.p. (Incluye la elaboración de polvos para preparar postres y gelatinas, levadura, productos para copetín, sal de mesa, mayonesa, mostaza)",733.00,7.00
+254,23,154199,"Elaboración de productos de panadería n.c.p. (Incluye la elaboración de churros, prepizzas, masas fritas, de hojaldre, en establecimientos de hasta 10 ocupados)",733.00,7.00
+465,9,154999.4,Elaboración de productos dietéticos.,733.00,7.00
+28,3,242320,"Elaboración de productos medicinales para animales (incluye vacunas, sueros y similares de uso veterinario)",577.00,7.00
+22,19,155290,Elaboración de sidras y bebidas fermentadas excepto las malteadas,733.00,8.40
+427,19,155412,Elaboración de soda,367.00,8.40
+9,9,154920,Elaboración de té,733.00,7.00
+415,9,154992,Elaboración de vinagre,733.00,7.00
+508,19,155210,Elaboración de vinos,733.00,8.40
+16,15,269421,Elaboración de yeso,577.00,7.00
+81,23,154430,"Elaboración y comercialización al por mayor de alimentos, con planta industrial fuera del ejido municipal",733.00,7.00
+632,19,155500,"Elaboración y comercialización al por mayor de bebidas, con planta industrial fuera del ejido municipal",733.00,8.40
+622,54,160092,"Elaboración y comercialización al por mayor de cigarrillos, con planta industrial fuera del ejido municipal",1496.00,12.60
+208,23,151390.1,"Elaboración y envasado de conservas, caldos concentrados y otros alimentos deshidratados",733.00,7.00
+139,23,151330,"Elaboración y envasado de dulces, mermeladas y jaleas",733.00,7.00
+602,9,154930,Elaboración y molienda de yerba mate (incluye concentrados),733.00,7.00
+554,23,151310,"Elaboración, envasado y conservación de frutas y legumbres",733.00,7.00
+140,23,151390.2,"Elaboración, envasado y conservación de frutas, legumbres y hortalizas n.c.p. (Incluye la elaboración de sémola de hortalizas y legumbres)",733.00,7.00
+635,23,151320,"Elaboración, envasado y conservación de jugos de frutas naturales o artificiales",733.00,7.00
+615,23,152010,"Elaboración, pasteurización y homogeneización de leche (incluida la condensada y en polvo)",733.00,7.00
+879,23,151390.3,"Elaboración, precortado y envasado de hortalizas y/o frutas frescas.",733.00,7.00
+326,19,155411,Embotellamiento de aguas naturales y minerales,733.00,8.40
+116,53,924910.7,"Emisión u organización de rifas, bonos, cupones, billetes o similares",783.00,63.00
+276,16,921301,Emisora y productora de radio de AM,934.00,7.00
+756,16,921302,Emisora y productora de radio de FM,934.00,7.00
+190,35,602091.2,Emisora y productora de televisión abierta,3702.00,7.00
+629,35,602091.1,Emisora y productora de televisión por cable,1852.00,7.00
+874,41,930300.1,Empresa de pompas fúnebres (cochería servicios fúnebres),564.00,8.40
+147,41,930300.2,Empresa de pompas fúnebres (servicios por abono),564.00,8.40
+192,7,659920,Empresas o personas dedicadas a la negociación de órdenes y tarjetas de compras y créditos (Artículo 274 del C.T.M.). Con un mínimo por persona que desarrolle actividad inherente al giro del establecimiento de $ 527.,0.00,18.90
+209,21,801000.4,Enseñanza privada (otras),471.00,7.00
+117,21,801000.3,Enseñanza privada (únicamente planes oficiales),471.00,7.00
+788,21,809000.3,Escuela de conductores,471.00,7.00
+161,21,801000.1,Escuela de enseñanza privada pre-primaria,471.00,7.00
+67,21,801000.2,Escuela de enseñanza privada. Primaria (EGB),471.00,7.00
+510,21,802100.1,Escuela de enseñanza privada. Secundaria (Polimodal),471.00,7.00
+913,21,802100.2,Escuela de enseñanza privada. Terciaria,471.00,7.00
+915,21,809000.4,Escuela de natación,471.00,7.00
+143,21,809000.5,Escuela de yoga terapia,471.00,7.00
+409,21,809000.2,Escuela para discapacitados mentales y físicos,471.00,7.00
+943,35,642021,Estafeta postal,934.00,10.00
+95,28,749400.1,Estudio fotográfico. Laboratorio,740.00,11.60
+58,28,749400.2,Estudios fotográficos. Fotografía comercial,740.00,11.60
+764,36,451100,Excavación y Demolición de edificios y sus partes,577.00,7.60
+617,63,512330,Expendio de bebidas alcohólicas: entre las 24 Hs. y las 07 del día siguiente.,9237.00,10.50
+108,30,522520,Expendio de bebidas alcohólicas: Entre las 24 hs. y las 09 hs. del día siguiente,43292.00,31.50
+485,66,142900,"Explotación de minas y canteras n.c.p. (Incluye amianto, baritina, cuarzo, diatomita, piedra pómez, ágata, agua marina, amatista, cristal de roca, rodocrosita, topacio, corindón, feldespato, mica, zeolita, perlita, granulado volcánico, puzolana, toba, talco, vermiculita, tosca, grafito)",733.00,7.00
+238,13,141400,"Extracción de arcilla y caolín. (Incluye andalucita, arcillas, bentonita, caolín, pirofilita, silimanita, mulita, tierra de chamota o de dinas)",733.00,7.00
+391,13,141300,"Extracción de arenas, canto rodado y triturados pétreos. (Incluye arena para construcción, arena silícea, otras arenas naturales, canto rodado, dolomita triturada, granito triturado, piedra partida y otros triturados pétreos)",733.00,7.00
+546,75,131000,"Extracción de minerales de hierro. (Incluye hematitas, limonitas, magnetitas, siderita)",733.00,7.00
+789,75,132000,"Extracción de minerales metalíferos no ferrosos, excepto minerales de uranio y torio. (Incluye aluminio, cobre, estaño, manganeso, níquel, oro, plata, plomo, volframio, antimonio, bismuto, cinc, molibdeno, titanio, circonio, niobio, tántalo, vanadio, cromo, cobalto)",733.00,7.00
+504,66,142110,"Extracción de minerales para la fabricación de abonos excepto turba. (Incluye guano, silvita, silvinita y otras sales de potasio naturales)",733.00,7.00
+230,66,142120,"Extracción de minerales para la fabricación de productos químicos. (Incluye azufre, boracita e hidroboracita, calcita, celestina, colemanita, fluorita, litio y sales de litio naturales, sulfato de aluminio, sulfato de hierro, sulfato de magnesio, sulfato de sodio, ocres, tinkal, ulexita, asfaltita, laterita)",733.00,7.00
+608,75,120000,Extracción de minerales y concentrados de uranio y torio,733.00,7.00
+211,64,111000,"Extracción de petróleo crudo y gas natural (Incluye gas natural licuado y gaseoso, arenas alquitraníferas, esquistos bituminosos o lutitas, aceites de petróleo y de minerales bituminosos, petróleo, coque de petróleo)",733.00,7.00
+219,13,141200,"Extracción de piedra caliza y yeso. (Incluye caliza, castina, conchilla, riolita, yeso natural, anhidrita)",733.00,7.00
+45,13,141100,"Extracción de rocas ornamentales. (Incluye areniscas, cuarcita, dolomita, granito, mármol, piedra laja, pizarra, pórfido, serpentina)",733.00,7.00
+824,66,142200,Extracción de sal en salinas y de roca,733.00,7.00
+14,13,020130.1,Extracción de tierra,577.00,7.00
+647,64,101000,"Extracción y aglomeración de carbón (Incluye la producción de hulla no aglomerada, antracita, carbón bituminoso no aglomerado, briquetas, ovoides y combustibles sólidos análogos a base de hulla)",733.00,7.00
+352,65,241309.1,Fábrica de bolsas de polietileno,373.00,7.00
+522,23,151130,"Fábrica de chacinados. Elaboración de fiambres, embutidos y preparados a base de carne",733.00,7.00
+500,52,173092.1,Fábrica de estropajos,577.00,7.00
+616,9,154999.6,Fábrica de milanesas y hamburguesas,733.00,7.00
+126,9,154999.7,Fábrica de Sándwiches,733.00,7.00
+176,52,173092,Fábrica de textiles en general,577.00,7.00
+168,23,152030,Fábrica industrial de helados,733.00,7.00
+416,12,241200,Fabricación de abonos y fertilizantes (incluye los biológicos),577.00,7.00
+289,69,181201,Fabricación de accesorios de vestir de cuero,577.00,7.00
+592,69,181192,Fabricación de accesorios de vestir excepto de cuero,577.00,7.00
+690,68,361010.2,Fabricación de accesorios para muebles,373.00,7.00
+425,50,314000,Fabricación de acumuladores y pilas eléctricas,577.00,7.00
+304,10,353000,"Fabricación de aeronaves, planeadores y similares, sus componentes, repuestos y accesorios",733.00,4.00
+572,50,293099.2,Fabricación de aparatos y accesorios eléctricos de uso doméstico no clasificados en otra parte,577.00,7.00
+295,48,332001,Fabricación de aparatos y accesorios para fotografía,577.00,7.00
+244,50,293099.1,Fabricación de aparatos y suministros eléctricos no clasificados en otra parte (incluye accesorios eléctricos),577.00,7.00
+718,50,315000,Fabricación de artefactos eléctricos para la iluminación,577.00,7.00
+736,26,293095,"Fabricación de artefactos para iluminación metálicos, excepto los eléctricos",577.00,7.00
+479,45,269110,"Fabricación de artefactos sanitarios de barro, loza, porcelana y cerámica",577.00,7.00
+464,52,172109,Fabricación de artículos confeccionados con materiales textiles. n.c.p. (excepto prendas de vestir),577.00,7.00
+65,15,269591,Fabricación de artículos de cemento y fibrocemento (excepto ladrillos),577.00,7.00
+645,2,202901,"Fabricación de artículos de cestería, caña y mimbre",264.00,7.00
+445,52,172103,Fabricación de artículos de lona y sucedáneos de lona,577.00,7.00
+855,2,202903,Fabricación de artículos de madera en tornerías,373.00,7.00
+926,4,210990.1,Fabricación de artículos de papel y cartón n.c.p.,577.00,7.00
+454,4,210990.2,"Fabricación de artículos de pulpa, papel y cartón no clasificados en otra parte",577.00,7.00
+447,58,261099,Fabricación de artículos de vidrio y cristal excepto espejos y vitrales,577.00,7.00
+703,31,369999.2,Fabricación de artículos no clasificados en otra parte,577.00,7.00
+386,2,202902,Fabricación de ataúdes,577.00,7.00
+848,50,319000.1,"Fabricación de bobinas, arranques, bujías y otros equipos y aparatos eléctricos para motores de combustión interna",577.00,7.00
+335,52,172104,Fabricación de bolsas de materiales textiles para productos a granel,577.00,7.00
+43,32,289992,Fabricación de cajas de seguridad,577.00,7.00
+480,15,269422,Fabricación de cal,577.00,7.00
+77,32,281300,Fabricación de calderas y generadores de apor,577.00,7.00
+400,22,192020,Fabricación de calzado de caucho,577.00,7.00
+936,70,192010.1,"Fabricación de calzado de cuero, incluyendo el ortopédico",577.00,7.00
+463,70,192010.2,"Fabricación de calzado de tela y otros materiales (excluido de caucho vulcanizado o moldeado, de madera o de plásticos)",577.00,7.00
+648,22,251110,Fabricación de cámaras y cubiertas,577.00,7.00
+948,15,269410,Fabricación de cemento,577.00,7.00
+749,31,369920,"Fabricación de cepillos, pinceles y escobas",471.00,7.00
+302,32,289309,"Fabricación de cerraduras, llaves, herrajes y otros artículos de ferretería incluyendo clavos y bulones",577.00,7.00
+782,54,160091,Fabricación de cigarrillos,1496.00,12.60
+213,3,242903,"Fabricación de colas, adhesivos, aprestos y cemento (excepto los odontológicos) obtenidos de sustancias minerales y vegetales",577.00,7.00
+106,31,361030,"Fabricación de colchones, sommiers, almohadones y almohadas",577.00,7.00
+840,50,312000.2,Fabricación de conductores eléctricos,577.00,7.00
+266,52,172900,Fabricación de cortinas. Cortinerías,577.00,7.00
+630,32,289302,"Fabricación de cuchillería, vajilla, utensilios y baterías de cocina",577.00,7.00
+383,50,293093,"Fabricación de enceradoras, pulidoras, batidoras, licuadoras y otros aparatos semejantes",577.00,7.00
+4,4,210202,Fabricación de envases de cartón,577.00,7.00
+256,4,210201,Fabricación de envases de papel,577.00,7.00
+468,65,252010,Fabricación de envases de plástico,577.00,7.00
+600,32,289910,"Fabricación de envases metálicos, incluyendo bronce, latón, aluminio, hojalata",577.00,7.00
+461,2,202300,"Fabricación de envases, recipientes y embalajes de madera (barriles, tambores, caja)",577.00,7.00
+240,50,319000.2,Fabricación de equipos y aparatos de comunicaciones,577.00,7.00
+148,31,369300,"Fabricación de equipos y aparatos para deporte, atletismo y camping",373.00,7.00
+707,31,369999.1,Fabricación de equipos y artículos para gastronomía,577.00,7.00
+552,58,261091,Fabricación de espejos y vitrales,577.00,7.00
+474,32,281102,Fabricación de estructuras metálicas para la construcción,373.00,7.00
+398,3,242902,"Fabricación de explosivos, municiones y productos de pirotecnia",1139.00,9.50
+841,12,243000,Fabricación de fibras artificiales no clasificados en otra parte excepto vidrio,577.00,7.00
+497,31,369991,Fabricación de fósforos,577.00,7.00
+380,52,172101,"Fabricación de frazadas, mantas, colchas, cobertores, etc.",577.00,7.00
+371,23,154110,Fabricación de galletitas y bizcochos y otros productos secos de panaderías,733.00,7.00
+543,12,241110.2,Fabricación de gases comprimidos y licuados para uso doméstico,733.00,7.00
+571,12,241110.1,"Fabricación de gases comprimidos y licuados, excepto los de uso doméstico",733.00,7.00
+809,50,293020,"Fabricación de heladeras, freezers, lavarropas y secarropas",577.00,7.00
+372,32,289301,"Fabricación de herramientas manuales y sus accesorios (para uso general, plomería, albañilería, , incluyendo las de campo y jardín)",577.00,7.00
+155,19,155490.1,Fabricación de hielo natural y jugos envasados para diluir,733.00,8.40
+835,12,241130,Fabricación de hielo seco,367.00,7.00
+76,26,291400,"Fabricación de hornos, hogares, estufas y calefactores industriales (excluidos los eléctricos)",577.00,7.00
+41,31,369200,Fabricación de instrumentos de música,373.00,7.00
+937,48,332003,Fabricación de instrumentos de óptica,577.00,7.00
+792,3,242412,Fabricación de jabones y detergentes,577.00,7.00
+819,31,369101,Fabricación de joyas y artículos conexos,577.00,8.40
+720,31,369400,Fabricación de juegos y juguetes (excepto los de caucho y plástico),577.00,7.00
+884,22,251909.1,Fabricación de juegos y juguetes de caucho,373.00,7.00
+924,65,252090.1,"Fabricación de juguetes, juegos y calzados plásticos",373.00,7.00
+376,15,269301,Fabricación de ladrillos y bloques,577.00,7.00
+606,50,321000,Fabricación de lámparas y tubos eléctricos,577.00,7.00
+310,31,369910,"Fabricación de lápices, lapiceras, bolígrafos, plumas estilográficas y artículos similares para oficina",577.00,7.00
+204,48,332002,Fabricación de lentes y artículos oftálmicos,373.00,7.00
+579,2,202100,"Fabricación de maderas terciadas, enchapadas o conglomeradas, tableros o paneles",577.00,7.00
+529,23,154191,Fabricación de masas y demás productos de pastelería (confiterías),733.00,7.00
+10,10,359900.1,Fabricación de material de transporte no clasificado en otra parte,577.00,7.00
+699,15,269200,Fabricación de material refractario,577.00,7.00
+470,12,241309,Fabricación de materiales plásticos,577.00,7.00
+12,12,241180,Fabricación de materias químicas inorgánicas básicas n.c.p.,577.00,7.00
+578,12,241190,"Fabricación de materias químicas orgánicas básicas n.c.p. (Incluye la fabricación de alcoholes excepto el etílico, sustancias químicas para elaboración de sustancias plásticas, )",577.00,7.00
+618,52,173010,Fabricación de medias,577.00,7.00
+542,3,242310,"Fabricación de medicamentos para uso humano, productos farmacéuticos y medicinales (excepto productos veterinarios).",577.00,7.00
+717,15,269510,"Fabricación de mosaicos, baldosas, revestimientos de paredes y pisos (excluidos los cerámicos y plásticos)",577.00,7.00
+805,65,252090.2,"Fabricación de mosaicos, baldosas, revestimientos de paredes y pisos, de productos plásticos",577.00,7.00
+160,10,359100,"Fabricación de motocicletas, vehículos similares y sus partes, incluyendo el motor",577.00,10.50
+584,10,341000.1,"Fabricación de motores para automóviles, camiones y otros vehículos para transporte de carga y pasajeros (excluidos motos y similares)",577.00,7.00
+859,65,361020,"Fabricación de muebles de plástico, sus partes y accesorios",577.00,7.00
+281,68,361010.1,"Fabricación de muebles, sus partes y accesorios, excepto metálicos y plásticos",373.00,7.00
+84,45,269193,"Fabricación de objetos de barro, loza, porcelana y cerámica n.c.p. (excepto refractarios, ladrillos y revestimientos para pisos y paredes)",373.00,7.00
+785,45,269192,"Fabricación de objetos de barro, loza, porcelana y cerámica para uso doméstico (excepto artefactos sanitarios)",315.00,7.00
+813,45,269191,"Fabricación de objetos de barro, loza, porcelana y cerámica para uso industrial y de laboratorio",577.00,7.00
+166,31,369102,Fabricación de objetos de platería y enchapados,373.00,8.40
+122,54,160099,Fabricación de otros productos de tabaco,1496.00,12.60
+27,23,154120,Fabricación de pan y productos de panificación. Panificadoras,733.00,7.00
+519,4,210102,Fabricación de papel y cartón,577.00,7.00
+118,31,369992,Fabricación de paraguas,577.00,7.00
+567,70,192030,Fabricación de partes o accesorios del calzado,367.00,7.00
+436,23,154420,Fabricación de pastas secas,733.00,7.00
+293,3,242490,"Fabricación de perfumes, cosméticos y otros productos de higiene y tocador",577.00,7.00
+837,50,323000.3,Fabricación de piezas y suministros utilizados especialmente para aparatos de radio y televisión,577.00,7.00
+194,3,242200,"Fabricación de pinturas, barnices, lacas, esmaltes y productos similares y conexos (excepto tintas)",577.00,7.00
+253,3,242100,Fabricación de plaguicidas (incluye los biológicos),577.00,7.00
+272,50,293094,"Fabricación de planchas, calefactores, hornos eléctricos, microondas y otros aparatos generadores de calor",577.00,7.00
+804,15,269592,Fabricación de premoldeados para la construcción (incluye viviendas premoldeadas),577.00,7.00
+3,3,242411,"Fabricación de preparados para la limpieza, pulido y saneamiento",577.00,7.00
+570,15,269309,Fabricación de productos de arcilla y cerámica no refractaria para uso estructural,577.00,7.00
+938,32,281101,Fabricación de productos de carpintería metálica,373.00,7.00
+663,22,251901,Fabricación de productos de caucho destinados a la industria automotor (excepto cámaras y cubiertas),373.00,7.00
+613,22,251909.2,Fabricación de productos de caucho n.c.p.,577.00,7.00
+2,2,202904,Fabricación de productos de corcho,373.00,7.00
+524,18,191200,"Fabricación de productos de cuero y sucedáneos de cuero (excepto calzado y prendas vestir). Incluye maletas, bolsos de mano y similares, artículos de talabartería y de cuero n.c.p.",733.00,8.40
+235,2,202909,"Fabricación de productos de madera, de corcho, caña y mimbre no clasificados en otra parte",373.00,7.00
+79,15,269600,"Fabricación de productos de piedra, mármol y granito (incluye corte y tallado)",577.00,7.00
+341,44,232000,Fabricación de productos diversos derivados del petróleo y del carbón excepto la refinación de petróleo,733.00,7.00
+558,23,152090.2,"Fabricación de productos lácteos no clasificados en otra parte. (Incluye cremas, yogures, mantecas)",733.00,7.00
+183,32,289993,Fabricación de productos metálicos de Tornería y Matricería,577.00,7.00
+294,32,289999,Fabricación de productos metálicos n.c.p.,577.00,7.00
+521,15,269990,Fabricación de productos minerales no metálicos n.c.p.,577.00,7.00
+259,65,252090.3,Fabricación de productos plásticos n.c.p.,577.00,7.00
+458,3,242909,Fabricación de productos químicos n.c.p. (Incluye aceites esenciales),577.00,7.00
+725,2,202201,"Fabricación de puertas, ventanas y estructuras de madera para la construcción. Carpintería de obras",577.00,7.00
+482,4,210101,Fabricación de pulpa de madera,577.00,7.00
+669,23,152020,Fabricación de quesos,733.00,7.00
+653,50,323000.1,"Fabricación de receptores de radio, televisión, grabación y reproducción de imagen gravadas y sonido",577.00,7.00
+930,10,342000.1,Fabricación de remolques y semirremolques,577.00,7.00
+34,10,343000,"Fabricación de repuestos, piezas y accesorios para vehículos automotores",577.00,7.00
+498,12,241301,Fabricación de resinas y cauchos sintéticos,577.00,7.00
+903,15,269302,Fabricación de revestimientos cerámicos para pisos y paredes,577.00,7.00
+914,52,172102,Fabricación de ropa para cama y mantelería,577.00,7.00
+455,52,172300,"Fabricación de sogas, cables, cordeles y artículos conexos de cáñamo, sisal, lino y otras fibras naturales",577.00,7.00
+750,12,241120,Fabricación de tanino y curtientes naturales o sintéticos,577.00,7.00
+713,32,281200,Fabricación de tanques y depósitos metálicos,577.00,7.00
+560,52,172200,Fabricación de tapices y alfombras,577.00,7.00
+612,32,289991,Fabricación de tejidos de alambre,577.00,7.00
+555,52,173090,Fabricación de tejidos y artículos de punto,577.00,7.00
+826,3,242901,Fabricación de tintas y negro de humo (incluye tintas de imprenta),577.00,7.00
+603,50,322000,Fabricación de Transmisores de Radio y Televisión y aparatos de telefonía y telegrafía con hilos,577.00,7.00
+128,26,291200.2,"Fabricación de válvulas, grifos y accesorios de cañerías",577.00,7.00
+280,50,293092.1,"Fabricación de ventiladores y extractores de aire, aspiradoras y otros aparatos semejantes",577.00,7.00
+784,58,261020,Fabricación de vidrios planos y templados,577.00,7.00
+517,2,202202,Fabricación de viviendas prefabricadas de madera,577.00,7.00
+860,55,271009,"Fabricación en industrias básicas de productos de hierro y acero n.c.p. (Incluye alambre, cañerías, tuberías, )en general",577.00,7.00
+851,10,359200,Fabricación y armado de bicicletas y rodados similares,577.00,7.00
+404,10,342000.2,"Fabricación y armado de carrocerías para automóviles, camiones y otros vehículos para transporte de carga y pasajeros (incluye casas rodantes)",577.00,7.00
+206,31,374000,Fabricación y armado de letreros y anuncios publicitarios,577.00,7.00
+871,48,333000,Fabricación y armado de relojes (incluye Fabricación de piezas y cajas para relojes y mecanismos similares),577.00,7.00
+390,10,341000.2,Fabricación y armado de vehículos automotores,577.00,7.00
+374,52,173093,"Fabricación y comercialización al por mayor de artículos textiles, con planta industrial fuera del ejido municipal",716.00,7.00
+290,70,192010.3,"Fabricación y comercialización al por mayor de calzados, con planta industrial fuera del ejido municipal",716.00,7.00
+598,10,359900.3,"Fabricación y comercialización al por mayor de equipos de transporte, con planta industrial fuera del ejido municipal",716.00,7.00
+642,48,334000,"Fabricación y comercialización al por mayor de equipos, con planta industrial fuera del ejido municipal",716.00,7.00
+318,26,293096,"Fabricación y comercialización al por mayor de maquinaria, con planta industrial fuera del ejido municipal",716.00,7.00
+518,50,323000.4,"Fabricación y comercialización al por mayor de maquinarias eléctricas, con planta industrial fuera del ejido municipal",716.00,7.00
+825,73,273300,"Fabricación y comercialización al por mayor de metales no ferrosos y metales preciosos, con planta industrial fuera del ejido municipal",716.00,7.00
+610,68,361010.3,"Fabricación y comercialización al por mayor de muebles, con planta industrial fuera del ejido municipal",716.00,7.00
+692,45,269194,"Fabricación y comercialización al por mayor de objetos de barro, loza, porcelana y cerámica, con planta industrial fuera del ejido municipal",716.00,7.00
+716,31,375000,"Fabricación y comercialización al por mayor de otras manufacturas, con planta industrial fuera del ejido municipal",716.00,7.00
+577,15,269991,"Fabricación y comercialización al por mayor de otros productos minerales no metálicos, con planta industrial fuera del ejido municipal",716.00,7.00
+471,69,182002,"Fabricación y comercialización al por mayor de prendas de vestir, con planta industrial fuera del ejido municipal",716.00,7.00
+26,22,251909.3,"Fabricación y comercialización al por mayor de productos de caucho, con planta industrial fuera del ejido municipal",716.00,7.00
+869,18,191300,"Fabricación y comercialización al por mayor de productos de cuero, con planta industrial fuera del ejido municipal",716.00,8.40
+82,44,232001,"Fabricación y comercialización al por mayor de productos de diversos derivados de petróleo, con planta industrial fuera del ejido municipal",716.00,7.00
+348,55,271010,"Fabricación y comercialización al por mayor de productos de hierro y acero, con planta industrial fuera del ejido municipal",716.00,7.00
+828,2,202910,"Fabricación y comercialización al por mayor de productos de madera, corcho, caña y mimbre, con planta industrial fuera del ejido municipal",716.00,7.00
+901,4,210990.3,"Fabricación y comercialización al por mayor de productos de papel, con planta industrial fuera del ejido municipal",716.00,7.00
+227,65,252090.4,"Fabricación y comercialización al por mayor de productos de plástico, con planta industrial fuera del ejido municipal",716.00,7.00
+887,32,289999.1,"Fabricación y comercialización al por mayor de productos metálicos, con planta industrial fuera del ejido municipal",716.00,7.00
+156,12,244000,"Fabricación y comercialización al por mayor de sustancias químicas, con planta industrial fuera del ejido municipal",716.00,7.00
+144,58,261099.1,"Fabricación y comercialización al por mayor de vidrios y productos de vidrio, con planta industrial fuera del ejido municipal",716.00,7.00
+685,50,323000.2,Fabricación y grabación de discos y cintas magnetofónicas,577.00,7.00
+361,23,154200.2,Fabricación y refinación de azúcar no clasificada en otra parte,733.00,7.00
+223,26,291900.4,Fabricación y reparación de accesorios de máquinas y equipos n.c.p. (excepto los eléctricos),577.00,7.00
+437,50,293092.2,Fabricación y reparación de acondicionadores de aire,373.00,7.00
+674,26,292700,Fabricación y reparación de armas (excepto municiones),577.00,8.40
+861,26,291500,"Fabricación y reparación de ascensores, escaleras mecánicas, montacargas",577.00,7.00
+763,26,292909.1,"Fabricación y reparación de básculas, balanzas y dinamómetros, excepto los científicos para uso de laboratorio",577.00,7.00
+96,26,291200.1,"Fabricación y reparación de bombas, compresores y maquinaria o equipos similares",577.00,7.00
+324,26,293010,"Fabricación y reparación de cocinas, calefones, estufas y calefactores de uso doméstico, no eléctricos",577.00,7.00
+269,48,331200,"Fabricación y reparación de equipo profesional y científico, e instrumentos de medida y control no clasificados en otra parte",373.00,7.00
+469,50,293099.4,Fabricación y reparación de equipos de computación.,577.00,7.00
+496,50,312000.1,Fabricación y reparación de equipos de distribución y transmisión de electricidad,373.00,7.00
+300,10,359900.2,Fabricación y reparación de grúas y equipamiento de transporte mecánico,577.00,7.00
+733,26,292190,Fabricación y reparación de maquinaria agropecuaria y forestal (excepto tractores),577.00,7.00
+832,50,300000,"Fabricación y reparación de maquinaria de oficina, cálculo, contabilidad, máquinas de escribir, cajas registradoras,",373.00,7.00
+317,26,292500,"Fabricación y reparación de maquinaria para la elaboración y envases de productos alimenticios, bebidas y tabaco",577.00,7.00
+865,26,292400.2,Fabricación y reparación de maquinaria y equipo para la construcción,577.00,7.00
+129,26,292901,Fabricación y reparación de maquinaria y equipo para la industria del papel y las artes gráficas,577.00,7.00
+484,26,292400.1,"Fabricación y reparación de maquinaria y equipo para la industria minera, petrolera y canteras",577.00,7.00
+516,26,292600,"Fabricación y reparación de maquinaria y equipo para la industria textil, prendas de vestir y cuero",577.00,7.00
+466,26,292909.2,Fabricación y reparación de maquinaria y equipo para trabajar la madera,577.00,7.00
+32,26,292300,"Fabricación y reparación de maquinaria y equipo para trabajar los metales, incluyendo máquinas herramienta y máquinas para metalurgia",577.00,7.00
+373,26,291900.2,Fabricación y reparación de maquinaria y equipo para uso vial,577.00,7.00
+536,26,291900.1,Fabricación y reparación de maquinaria y equipos para la industria en general n.c.p.,577.00,7.00
+609,50,293091,Fabricación y reparación de máquinas de coser y tejer,373.00,7.00
+515,50,293099.3,Fabricación y reparación de máquinas y aparatos industriales eléctricos no clasificados en otra parte,577.00,7.00
+661,26,292909.3,Fabricación y reparación de máquinas y equipos de refrigeración,577.00,7.00
+650,26,291900.3,Fabricación y reparación de máquinas y equipos n.c.p. (excepto la maquinaria eléctrica),577.00,7.00
+109,50,311000,"Fabricación y reparación de motores eléctricos, transformadores y generadores",373.00,7.00
+252,26,291100,"Fabricación y reparación de motores y turbinas, incluyendo máquinas de vapor (excepto de motocicletas, automotores y naves)",577.00,7.00
+187,26,292110,Fabricación y reparación de tractores,577.00,7.00
+101,48,331100,"Fabricación y reparación e instrumentos y aparatos de cirugía, medicina, odontología, ortopedia, sus partes y accesorios",373.00,7.00
+599,20,921981,Ferias y exposiciones,564.00,10.50
+509,30,522112.2,Fiambrería. Venta al por menor de fiambres,373.00,7.00
+551,17,514191,Fraccionamiento y distribuidores al por mayor de gas licuado (incluye envasado de garrafas),373.00,4.00
+526,24,512271,Fraccionamiento y venta al por mayor de azúcar,373.00,7.00
+369,17,514110.2,"Fraccionamiento, distribución y venta al por mayor de aditivos y lubricantes",373.00,4.00
+94,24,512299.1,"Fraccionamiento, distribución y venta al por mayor de encurtidos",373.00,7.00
+198,63,512319,"Fraccionamiento, distribución y venta por mayor de alcoholes",373.00,7.00
+462,24,512299.5,"Fraccionamiento, distribución y venta por mayor de productos alimentarios n.c.p.",373.00,7.00
+89,23,151112,"Frigoríficos, matanza de ganado, preparación y conservación de sus carnes",733.00,7.00
+347,73,273100,Fundición de hierro y acero,577.00,7.00
+491,73,273200,Fundición de metales no ferrosos,577.00,7.00
+441,55,271001,"Fundición en hornos y acerías. Producción de lingotes, planchas o barras",577.00,7.00
+746,32,289100,"Galvanoplastia, esmaltado , y otros procesos similares en metales, incluyendo pulvimetalurgia, incluye estampado, prensado, forjado y laminado de metales",577.00,7.00
+893,47,401130,Generación de energía hidráulica. (Incluye la producción de energía eléctrica mediante centrales de bombeo). Por cada 10.000 Kw. $ 112.,0.00,0.00
+309,47,401190,"Generación de energía n.c.p. (Incluye la producción de energía eléctrica mediante fuentes de energía solar, biomasa, eólica, geotérmica, mareomotriz). Por cada 10.000 Kw. $ 112.",0.00,0.00
+931,47,401110,"Generación de energía térmica convencional. (Incluye la producción de energía eléctrica mediante máquinas turbo-gas, turbo vapor, ciclo combinado y turbo diesel). Por cada 10.000 Kw. $ 112.",0.00,0.00
+779,47,401120,Generación de energía térmica nuclear. (Incluye la producción de energía eléctrica mediante combustible nuclear). Por cada 10.000 Kw. $ 112.,0.00,0.00
+228,46,851120.1,Geriátricos,471.00,7.00
+410,20,924110.8,Gimnasios,471.00,10.50
+759,62,552271,Heladeras en la vía pública,471.00,7.00
+701,62,552120,Heladería,471.00,0.00
+330,52,171132,Hilados de algodón. Hilandería de algodón y sus mezclas,577.00,7.00
+533,52,171131,Hilados de lana. Hilandería de lana y sus mezclas,577.00,7.00
+233,52,171139,Hilandería de fibras textiles (excepto algodón y lana),577.00,7.00
+51,30,521110,Hipermercado,136662.00,15.80
+870,7,659909,"Holding de inversión, actividades de participación, renta y venta de acciones o títulos valores.",0.00,27.80
+607,36,452520,"Hormigonado, hincado de pilotes, cimentación y otros trabajos de hormigón armado",577.00,7.60
+909,23,154120.1,Horneado de pan,367.00,7.00
+8,8,551222.5,"Hostería categoría 2 y 1 estrellas. Con un mínimo por cada habitación de $ 39,50.",0.00,10.50
+333,8,551222.4,"Hostería categoría 3 estrellas. Con un mínimo por cada habitación de $ 50,30.",0.00,10.50
+64,8,551222.7,"Hotel categoría 1 estrella. Con un mínimo por cada habitación de $ 41,90.",0.00,10.50
+671,8,551222.3,"Hotel categoría 2 estrellas. Con un mínimo por cada habitación de $ 50,30.",0.00,10.50
+839,8,551222.6,"Hotel categoría 3 estrellas. Con un mínimo por cada habitación de $ 64,70.",0.00,10.50
+795,8,551222.2,Hotel categoría 4 estrellas. Con un mínimo por cada habitación de $ 90.,0.00,10.50
+586,8,551222.1,Hotel categoría 5 estrellas. Con un mínimo por cada habitación de $ 120.,0.00,10.50
+800,33,222101,Impresión de diarios y revistas,264.00,7.00
+214,33,222109,Impresión y encuadernación (excepto diarios y revistas),264.00,7.00
+638,6,014210,Inseminación artificial y servicios n.c.p. para mejorar la reproducción de los animales y el rendimiento de sus productos,577.00,7.00
+686,36,453110,"Instalación de ascensores, montacargas, escaleras mecánicas,",577.00,7.60
+353,36,453300,"Instalación de gas, agua, sanitarios y equipos de climatización, con sus artefactos conexos",577.00,7.60
+105,49,502300,"Instalación y reparación de lunetas y ventanillas, sistema de climatización, grabado de cristales de automotores, polarizados,",373.00,7.00
+760,36,453900,"Instalaciones para edificios y obras de ingeniería civil n.c.p. (incluye aislamiento término, acústico, antivibratorio, )",577.00,7.60
+423,21,809000.1,Instituto de enseñanza,471.00,7.00
+523,41,930910,Instituto de higiene y estética corporal,375.00,8.40
+428,7,659908,Intermediarios financieros que perciban comisiones u otras retribuciones análogas o porcentajes.,934.00,27.80
+328,21,801090,Jardín de infantes primer ciclo. Guardería,471.00,7.00
+25,21,801040,Jardín de infantes segundo ciclo,471.00,7.00
+731,20,921989,Jardín zoológico.,471.00,10.50
+889,20,924920.1,"Juego de pool, minipool y otros juegos de mesa y por cada mesa",315.00,12.60
+822,20,921990.1,"Juegos Mecánicos, con capacidad mayor a 2 personas                                                                                                                                                           Con un mínimo por juego de $ 405.",405.00,15.80
+414,30,521190.1,"Kioscos instalados dentro del perímetro señalado en el código 633120.1, shoppings y grandes centros comerciales",577.00,7.00
+492,30,521190.2,Kioscos instalados fuera del perímetro señalado en el código 633120.2.,373.00,7.00
+783,16,921130,Laboratorios cinematográficos,1852.00,7.00
+125,55,271002,"Laminación y estirado. Laminadoras. Cortes, doblado y plegado de chapas /o aceros",577.00,7.00
+329,49,502700,Lavadero de autos,373.00,7.00
+917,52,171120,Lavado y limpieza de lana. Lavadero,577.00,7.00
+246,67,930100.2,Lavandería automática. Alquiler de máquinas lavadoras y secadoras de ropa en general,315.00,7.00
+857,52,171121,Lavandería y Tintorería industrial,577.00,7.00
+395,57,701090.3,"Locación de bienes inmuebles propios – Excepto locación temporaria con fines turísticos, descanso o similares de la Ley Nacional Nº  27.221.",564.00,10.50
+636,53,924910.3,Lotería,783.00,29.00
+137,53,924910.6,Lotería instantánea,783.00,29.00
+911,49,505000.1,Lubricentros,471.00,7.40
+297,41,930202.3,Manicura,315.00,8.40
+682,49,502920,Mantenimiento y reparación de frenos de automotores,373.00,7.00
+54,23,151111,Matanza de ganado,733.00,7.00
+912,23,151199,"Matanza, preparación y conservación de animales de la caza",733.00,7.00
+668,23,151120,"Matanza, preparación, elaboración y conservación de carnes de aves",733.00,7.00
+659,34,511912,Matarifes,577.00,17.40
+93,46,851300.1,Mecánico dental,471.00,7.00
+78,30,521130,Minimercado,934.00,7.00
+408,23,153139,"Molienda de cereales (excepto trigo), legumbres, otras preparaciones y moliendas n.c.p.",733.00,7.00
+920,23,153110,Molienda de trigo,733.00,7.00
+199,32,281109,Montajes industriales,577.00,7.00
+721,8,551229.2,"Motel categoría 1 y 2 estrellas. Con un mínimo por cada habitación de $ 98,25.",0.00,10.50
+49,8,551229.1,"Motel categoría 3 estrellas. Con un mínimo por cada habitación de $ 131,80.",0.00,10.50
+283,36,451900,"Movimiento de suelos y preparación de terrenos para obras n.c.p. (Incluye el drenaje, remoción de rocas, excavación de zanjas para servicios públicos, alcantarillado urbano y para construcciones diversas, movimientos de tierras para hacer terraplenes o desmontes previos a la construcción de vías, autopistas, FF.CC.)",577.00,7.60
+486,20,924110.7,Natatorios,471.00,10.50
+88,20,924922,"Negocios con juegos electrónicos, mecánicos o similares por local habilitado, conforme a las siguientes escalas y mínimos:
+Hasta 5 juegos
+De 6 a 10 juegos
+De 11 a 20 juegos
+De 21 a 33 juegos
+Más de 33 juegos; por juego:",0.00,31.50
+656,36,452900,Obras de ingeniería civil n.c.p.,373.00,7.60
+325,46,851700.2,"Obras Sociales por Servicios relacionados con la salud humana – Afiliados Adherentes. Con un mínimo por afiliado de $ 7,80.",0.00,7.00
+739,46,851700.1,Obras Sociales por Servicios relacionados con la salud humana – Afiliados dentro de marco legal obligatorio,0.00,0.00
+345,20,921982,Ocupantes de stands o puestos de venta en eventos temporales o transitorios pagaran por día y por anticipado $ 219.,219.00,0.00
+918,34,511121.1,Operaciones de intermediación de ganado en pie de terceros. Consig.  de hacienda,577.00,17.40
+687,34,511121.2,Operaciones de intermediación de ganado en pie en remates ferias,577.00,17.40
+836,7,652202.2,"Operaciones de préstamos que se efectúan a  Empresas Comerciales, Industriales, Agropecuarias o Servicios que no sean los otorgados por las entidades involucradas en los apartados anteriores. Con un mínimo por persona que desarrolle actividad inherente al giro del establecimiento de $ 521.",0.00,44.00
+935,7,659900,"Operaciones de préstamos y demás operaciones detalladas en el artículo 301 incisos 14, 15 y 16 del CTMV, efectuadas por asociaciones profesionales, Entidades Mutuales, gremiales o sindicales.",619.00,18.90
+796,7,659890,Operaciones o préstamos no involucrados en los apartados anteriores,783.00,44.00
+405,74,999999,Otras actividades n.c.p.,934.00,12.70
+389,53,924910.5,Otros juegos de azar,783.00,29.00
+476,20,921993,"Otros servicios de esparcimiento, ubicados dentro del perímetro comprendido por las calles Bv. San Juan, Bv. Illia, Tránsito Cáceres de Allende, Av. Poeta Lugones, Bv. Chacabuco, Bolivia, Ituzaingó, Venezuela, Richardson, Av. Vélez Sársfield, Av. Pueyrredón, Marcelo T de Alvear .-",6166.00,18.90
+110,51,633110,Peajes,9237.00,7.00
+705,41,930202.4,Pedicura,315.00,8.40
+673,41,852000.2,Peluquería canina,471.00,7.00
+305,41,930201.2,Peluquerías instaladas dentro del perímetro y tramos establecidos por el Artículo 156° de la presente,471.00,7.00
+925,41,930201.1,Peluquerías instaladas fuera del perímetro y tramos establecidos por el Artículo 156° de la presente,375.00,7.00
+292,36,452510.1,Perforación de pozo negro,373.00,7.60
+876,36,452510,Perforación de pozos de agua,577.00,7.60
+460,36,451200,"Perforación y sondeo (excepto perforación de pozos de petróleo, de gas, de minas e hidráulicos y prospección de yacimientos de petróleo).",934.00,7.60
+340,30,522910,Pescadería,471.00,7.00
+257,36,454400,"Pintura, empapelado y trabajos de decoración",577.00,7.60
+676,27,525900.1,Pirotecnia por menor,783.00,8.40
+287,30,522220,Pollería. Venta al por menor de aves evisceradas y huevos,373.00,7.00
+24,20,921912,Por cada cabina individual de exhibición condicionada.,1498.00,10.50
+547,76,633120.3,"Por cada espacio destinado a estacionamiento en la vía pública, otorgado por la Municipalidad de Córdoba bajo el régimen de concesión, ubicado dentro del perímetro señalado en el código 633120.1. Con un mínimo por espacio de $ 11,15.",0.00,10.50
+773,76,633120.4,"Por cada espacio destinado a estacionamiento en la vía pública, otorgado por la Municipalidad de Córdoba bajo el régimen de concesión, ubicado dentro del perímetro señalado en el código 633120.2. Con un mínimo por espacio de $ 4,25.",0.00,10.50
+758,76,633120.1,"Por cada espacio destinado a garajes, playas de estacionamiento, guardacoches, ubicados dentro del perímetro comprendido por las calles: Figueroa Alcorta, Marcelo T. de Alvear, Av. Pueyrredón, Manuel Estrada, Av. Poeta Lugones, Bv Perón, Sarmiento, Humberto Primo ambas aceras y ochavas. Con un mínimo por espacio de $ 164.",0.00,42.00
+778,76,633120.5,"Por cada espacio destinado a garajes, playas de estacionamiento, guardacoches, ubicados dentro del perímetro comprendido por las calles: Intendente Mestre (S), La Tablada, Oncativo, Bv. Guzmán, Bv. Mitre, Intendente Mestre (S), Rodriguez Peña, Mariano Moreno, Av. Pueyrredón, Escutti, Ayacucho, Duarte Quirós, Bolívar, 27 de Abril, Arturo M. Bas, Deán Funes, Fragueiro ambas aceras y ochavas, y los ubicados en Calles Jujuy, Sucre, Tucuman, Av. Gral. Paz, Rivera Indarte y San Martín, entre las calles Humberto Primo y La Tablada; en Calles San Martín, Salta, Pje. Scabuzzo; Maipú, Alvear y Rivadavia, Republica de Israel y San Martin, entre las calles Sarmiento y Oncativo; en Calles Fructuoso Rivera, Achaval Rodríguez y Laprida, entre calles Pje. Rafael Escuti y Marcelo T. de Alvear; en Calles San Luis, Montevideo y Bv. San Juan, entre calles Ayacucho y Marcelo T. de Alvear; Calle Dean Funes, entre A. M. Bas - Lavalleja y Marcelo T. de Alvear – Figueroa Alcorta; en Calle Lavalleja entre Deán Funes y Figueroa Alcorta; en Calles 9 de Julio, Av. Colón, Santa Rosa, La Rioja y Humberto Primo, entre calles Fragueiro y Figueroa Alcorta; y en Calle Pje. Comercio, entre La Rioja y Humberto Primo en ambas aceras. Con un mínimo por espacio de $ 91.",0.00,31.50
+906,76,633120.2,"Por cada espacio destinado a garajes, playas de estacionamiento, guardacoches, ubicados fuera del perímetro señalado en el código 633120.1 y 633120.5.  Con un mínimo por espacio de $ 72.",0.00,21.00
+757,52,171111,Preparación de fibras de algodón (incluye desmotado),577.00,7.00
+641,52,171112,Preparación de fibras textiles vegetales excepto algodón,577.00,7.00
+21,18,182009.1,"Preparación, decoloración y teñido de pieles",577.00,8.40
+388,9,154999.3,"Procesadores de papas (peladero, lavadero, incluyendo elaboración de puré, harina y escamas)",733.00,7.00
+489,53,924910.2,Prode,783.00,12.00
+56,20,924120,Producción de espectáculos deportivos,471.00,10.50
+477,39,012220,Producción de huevos,577.00,7.00
+802,73,272090,Producción de metales no ferrosos n.c.p. y sus semielaborados,577.00,7.00
+850,5,011520,"Producción de otras formas de propagación de cultivos agrícolas. (Incluye gajos, bulbos, estacas enraizadas o no, esquejes, plantines)",577.00,7.00
+29,16,921110,Producción de películas cinematográficas y de televisión,1852.00,7.00
+19,5,011519,Producción de semillas de cultivos agrícolas n.c.p.,577.00,7.00
+393,5,011513,"Producción de semillas de hortalizas y legumbres, flores y plantas ornamentales y árboles frutales",577.00,7.00
+806,5,011511,Producción de semillas híbridas de cereales y oleaginosas,577.00,7.00
+138,5,011512,"Producción de semillas varietales o autofecundadas de cereales, oleaginosas y forrajeras",577.00,7.00
+886,47,402001,Producción y distribución de gas natural,934.00,7.00
+541,47,402009,Producción y distribución de gases no clasificados en otra parte,934.00,7.00
+658,62,552210,"Provisión de comidas preparadas, racionamiento de alimentos en cocido (incluye el servicio de catering, el suministro de confituras y comidas para banquetes, bodas, fiestas y otras celebraciones).",471.00,10.50
+644,28,743000.7,"Publicidad realizada por medio de carteles, pantallas y letreros electrónicos. Importe por metro cuadrado: $ 30.",36.00,35.00
+834,28,743000.5,"Publicidad realizada por medio de carteles, pantallas y paneles luminosos, iluminados, mecánicos, y/o por cualquier otro espacio publicitario. Con una superficie de 10,01 hasta 25 metros cuadrados por cartel o espacio publicitario. La cantidad de metros a declarar en éste subrubro, se refiere a la sumatoria de los metros cuadrados en uso de los carteles que se encuentran en esta categoría. Importe por metro cuadrado: $ 11.",13.00,35.00
+153,28,743000.4,"Publicidad realizada por medio de carteles, pantallas y paneles luminosos, iluminados, mecánicos, y/o por cualquier otro espacio publicitario. Con una superficie de 2,01 hasta 10 metros cuadrados por cartel o espacio publicitario. La cantidad de metros a declarar en este subrubro, se refiere a la sumatoria de los metros cuadrados en uso de los carteles que se encuentran en esta categoría. Importe por metro cuadrado $ 8.",10.00,35.00
+346,28,743000.3,"Publicidad realizada por medio de carteles, pantallas y paneles luminosos, iluminados, mecánicos, y/o por cualquier otro espacio publicitario. Con una superficie de hasta 2 metros cuadrados por cartel o espacio publicitario. La cantidad de metros a declarar en este subrubro, se refiere a la sumatoria de los metros cuadrados en uso de los carteles que se encuentran en esta categoría. Importe por metro cuadrado $ 7.",8.00,35.00
+135,28,743000.6,"Publicidad realizada por medio de carteles, pantallas y paneles luminosos, iluminados, mecánicos, y/o por cualquier otro espacio publicitario. Con una superficie de más de 25 metros cuadrados por cartel o espacio publicitario. La cantidad de metros a declarar en este subrubro, se refiere a la sumatoria de los metros cuadrados en uso de los carteles que se encuentran en esta categoría. Importe por metro cuadrado: $ 16.",19.00,35.00
+537,24,512212.2,Queserías. Venta al por mayor de quesos,373.00,7.00
+149,53,924910.1,Quiniela,783.00,29.00
+226,27,523966,Recarga y venta al por menor de garrafas y combustibles sólidos y líquidos,471.00,7.00
+740,27,523965,Recarga y venta al por menor de gas carbónico p/matafuegos y gasificadores,471.00,7.00
+864,22,251120,Recauchutaje y vulcanización de cubiertas,373.00,7.00
+585,67,930100.3,Receptoría de lavandería tintorería,532.00,7.00
+430,31,371000,Reciclamiento de desperdicios y desechos metálicos,373.00,7.00
+684,31,372000,Reciclamiento de desperdicios y desechos no metálicos,373.00,7.00
+18,10,343001,Rectificación de motores,577.00,7.00
+816,23,154200.1,Refinación y fraccionamiento de azúcar,733.00,7.00
+23,9,154999.1,Refinación y molienda de sal,733.00,7.00
+378,41,930103,"Rematadoras y sociedades dedicadas al remate que no sean remates-ferias, excepto de arte",934.00,21.00
+502,11,526200,Reparación de aparatos eléctricos de uso doméstico y personal,471.00,7.00
+657,49,502220,"Reparación de automotores y motocicletas (amortiguadores, alineación de dirección, balanceo de ruedas, llantas)",373.00,7.00
+481,49,502990,"Reparación de automotores y motocicletas (motores y mecánica integral; incluidos carburador, radiador,  y Servicio de Auxilio y Remolque de automotores). Incluye instalación de equipos de G.N.C.",373.00,7.60
+182,49,504020,Reparación de bicicletas y rodados infantiles,373.00,7.00
+623,11,526100,Reparación de calzado y otros artículos de cuero,315.00,7.00
+261,11,526909.2,Reparación de muebles de madera (carpintería de madera),471.00,7.00
+68,11,526909.1,Reparación de muebles metálicos (carpintería),471.00,7.00
+675,11,526901,Reparación de relojes y joyas,471.00,7.00
+722,11,526201,Reparación y mantenimiento de ascensores,471.00,7.00
+593,11,526909.4,Reparaciones de armas de fuego,471.00,7.00
+493,49,502500,"Reparaciones eléctricas de automotores (incluyendo tableros, instrumental y reparación o recarga de baterías)",373.00,7.00
+11,11,526909.3,Reparaciones y afinaciones de instrumentos musicales,471.00,7.00
+928,8,551229.3,"Residenciales, hospedajes y otros lugares de alojamiento sin discriminar rubros, no clasificados en otra parte. Con un mínimo por habitación de $ 40,70.",0.00,10.50
+899,36,454200.1,Revoque y enyesado de paredes y cielorrasos,577.00,7.60
+426,20,924990,Sala de entretenimiento,595.00,10.50
+787,23,151113,Salado y pelado de cueros. Saladeros y peladeros de cuero,733.00,7.00
+640,41,930300.3,Salas velatorias,564.00,8.40
+730,41,930202.1,Salón de belleza,375.00,8.40
+633,62,701010.1,Salón de Fiestas (expendio de confituras y comidas para consumo en el lugar),471.00,8.40
+358,62,701010.2,Salón de Fiestas Infantiles con expendio de confituras y comidas,471.00,7.00
+627,20,924920.3,Salón de juegos infantiles,471.00,10.50
+418,62,552290.3,"Sandwichería, elaboración y ventas por menor, sin servicios de mesas",471.00,8.40
+620,77,662020,"Seguros (Cooperativa, Mutual y compañía privada) . Reaseguros Con un mínimo por persona que desarrolle actividad inherente al giro del establecimiento de $ 521.",0.00,15.80
+338,49,502921,Servicio de cerrajería,373.00,7.00
+319,28,749910.1,Servicio de Consultaría en Informática y suministro programas de informática (software),934.00,16.80
+549,20,924992,"Servicio de diversión. Alquiler de botes, kayaks, bicicletas para el agua",471.00,10.50
+216,28,749600,Servicio de fotocopiado. Fotocopiadoras,471.00,7.60
+162,28,749910.3,Servicio de Informática n.c.p.,934.00,16.80
+124,28,749300,Servicio de limpieza,934.00,16.80
+413,28,911004,"Servicio de logística, conservación  y/o depósito de alimentos y/o bebidas.",934.00,12.00
+710,28,911003,"Servicio de logística, guarda y custodia de archivos.",934.00,12.00
+838,28,749800,Servicio de mantenimiento de espacios verdes. Parquización.,934.00,15.80
+215,28,743009,Servicio de mensajería y cadetería,471.00,12.10
+191,38,602110,Servicio de mudanzas,471.00,7.00
+203,28,743002,Servicio de oficina de cobranzas,471.00,13.70
+356,28,749700,"Servicio de organización integral de eventos y servicios conexos propios (catering, propalación, )",934.00,16.80
+431,20,924110.6,Servicio de práctica deportiva n.c.p.,471.00,10.50
+798,20,924110.2,"Servicio de prácticas deportivas, canchas de paddle y tenis",471.00,10.50
+643,20,924110.3,Servicio de prácticas deportivas. Canchas de fútbol,471.00,10.50
+210,20,924110.4,Servicio de prácticas deportivas. Canchas de golf,934.00,10.50
+513,20,924110.5,Servicio de prácticas deportivas. Polígonos de tiro,471.00,10.50
+910,28,749910.2,Servicio de Procesamiento de datos y/o relacionados con base de datos,934.00,16.80
+296,38,602220,Servicio de radiotaxi,1496.00,10.50
+71,42,900010.1,Servicio de recolección y transporte de residuos convencionales (domiciliarios - orgánicos e inorgánicos reciclables - generados por actividad comercial o industrial que no deriven de procesos productivos),471.00,7.00
+334,42,900010.2,Servicio de recolección y transporte de residuos no convencionales (industriales – peligrosos),471.00,7.40
+343,42,900010.3,Servicio de recolección y transporte de residuos no convencionales (patógenos),471.00,7.40
+103,42,900010.4,Servicio de recolección y transporte de residuos no convencionales (restos de obras y demoliciones),471.00,7.40
+539,11,526909.5,Servicio de reparación n.c.p.,471.00,7.00
+282,41,930409,Servicio de reparto a domicilio (Delivery). Siempre que sea accesorio de rubro de actividad principal.,0.00,0.00
+564,28,749290,Servicio de seguridad,934.00,16.80
+583,49,502400.2,Servicio de tapicería (excluido p/automotores),471.00,7.00
+799,28,749910,Servicio de Web Hosting,934.00,16.80
+662,6,014190,Servicios agropecuarios no clasificados en otra parte,577.00,7.00
+234,28,749930,"Servicios brindados para terceros por call center, contact center, y Atención al Cliente. Servicios brindados mediante tecnología perteneciente al área de comunicaciones. Se incluyen todos los servicios relacionados con el asesoramiento y auxilio técnico de venta de productos y servicios y de captura, procesamiento y comunicación de transacciones nacionales e internacionales",934.00,17.00
+99,35,642070,Servicios complementarios de antena comunitaria de TV y circuito cerrado comunitario de TV - como la televisión satelital y por cable - regulados por Ley Nº 22285                                                                                                                                                                                                                  Con un mínimo por abonado de $ 5.,0.00,27.50
+844,51,633190,Servicios complementarios para el transporte terrestre n.c.p.,577.00,7.00
+6,6,014220,"Servicios contratistas de mano de obra pecuaria (incluye arreo, castración de aves, esquila de ovejas, recolección de estiércol)",577.00,7.00
+803,21,809050,"Servicios de acceso a navegación y otros canales de uso de internet. Entretenimientos; juegos en red y en consolas (cyber y similares) con un mínimo por puesto conectado a un sistema de red con o sin acceso a internet de $ 32,35.",0.00,10.50
+815,41,930990.1,Servicios de agencias de matrimonio,375.00,8.40
+646,46,851210,"Servicios de atención ambulatoria. (Incluye las actividades de consultorios médicos de establecimientos sin internación, consultorios de guardia para resolver urgencias médicas, vacunatorios, centros del primer nivel de atención,  Los servicios de cirugía ambulatoria, tales como cirugía plástica, oftalmológica, artroscopia, electrocoagulación, lipoaspiración).",471.00,7.00
+856,46,851220,Servicios de atención domiciliaria programada. (Incluye las actividades llevadas a cabo en establecimientos que ofrecen atención por módulos a domicilio y actividades de agentes sanitarios relacionados con la prevención y educación para la salud).,471.00,7.00
+941,42,900020,"Servicios de depuración de aguas residuales, alcantarillado y cloacas",471.00,7.00
+472,46,851400,"Servicios de diagnósticos. (Incluye las actividades de laboratorios de análisis clínicos y patológicos, centros de diagnóstico por imágenes, centros de endoscopía, de electrodiagnóstico, consultorios de hemodinamia)",471.00,7.00
+714,20,921983,Servicios de diversión prestados en bares nocturnos.,3702.00,14.00
+601,20,921990,Servicios de diversión y esparcimiento n.c.p.,3328.00,10.50
+363,62,552290.1,"Servicios de elaboración propia o por terceros y venta para llevar y entrega a domicilio de alimentos perecederos calientes, fríos o congelados, sin sucursales, con superficie habilitada de hasta 50 m2",315.00,7.00
+847,62,552290.4,"Servicios de elaboración propia o por terceros y venta para llevar y entrega a domicilio de alimentos perecederos calientes, fríos o congelados, sin sucursales, con superficie habilitada de hasta 50 m2. Ubicados dentro del perímetro comprendido por las calles: Bv. San Juan, Bv. Illía, Tránsito Cáceres de Allende, Av. Poeta Lugones, Bv. Chacabuco, Bolivia, Ituzaingó, Venezuela, Richardson, Av. Vélez Sársfield, Av. Pueyrredón, Marcelo T. De Alvear.",1299.00,8.40
+540,62,552290.2,"Servicios de elaboración propia o por terceros y venta para llevar y entrega a domicilio de alimentos perecederos calientes, fríos o congelados, sin sucursales, con superficie habilitada de más de 50 m2",471.00,7.00
+452,62,552290.5,"Servicios de elaboración propia o por terceros y venta para llevar y entrega a domicilio de alimentos perecederos calientes, fríos o congelados, sin sucursales, con superficie habilitada de más de 50 m2. Ubicados dentro del perímetro comprendido por las calles: Bv. San Juan, Bv. Illía, Tránsito Cáceres de Allende, Av. Poeta Lugones, Bv. Chacabuco, Bolivia, Ituzaingó, Venezuela, Richardson, Av. Vélez Sársfield, Av. Pueyrredón, Marcelo T. De Alvear.",1852.00,8.40
+651,62,552290.6,"Servicios de elaboración propia y venta de milanesas, sin sucursales, con superficie habilitada de hasta 50 m2.",315.00,7.00
+697,46,851600,Servicios de emergencias y traslados,471.00,7.00
+456,59,622001,Servicios de explotación en terminal aeroportuaria,3454.00,8.00
+225,7,659990.1,Servicios de financiación y actividades financieras n.c.p.,1496.00,27.80
+854,28,911002,Servicios de gestión y administración de fideicomisos.,934.00,16.80
+587,51,635000,Servicios de gestión y logística para el transporte de mercaderías,577.00,12.60
+530,41,930990.2,Servicios de gestoría del automotor,375.00,8.40
+790,41,852000.1,Servicios de guardería de animales (excepto caballerizas y studs),471.00,7.00
+944,46,851120.2,"Servicios de hospital de día. (Incluye las actividades de tratamiento que no necesitan hospitalización a tiempo completo, tales como tratamientos oncológicos; infectológicos; dialíticos; atención de la salud mental; atención pediátrica; atención gerontológica)",471.00,7.00
+111,46,851110,Servicios de internación,471.00,7.00
+590,46,851800,Servicios de Medicina Laboral,731.00,8.40
+940,28,743000.1,Servicios de publicidad,1198.00,14.00
+532,35,642010.2,"Servicios de radiodifusión y servicios complementarios de radiodifusión, excepto “los servicios complementarios de antena comunitaria de TV y circuito cerrado comunitario de TV” regulado por la Ley",1852.00,7.00
+566,42,900090,Servicios de saneamiento n.c.p.,471.00,7.00
+311,35,642099,"Servicios de transmisión de sonido, imágenes, datos u otra información",934.00,11.40
+354,46,851500,"Servicios de tratamiento. (Incluye las actividades de centros de cobaltoterapia, de radiología convencional, de acelerador lineal de rehabilitación física, de psicoterapia, de hemoterapia, de rehabilitación psíquica, unidades de hemodiálisis, centros de medicina nuclear)",471.00,7.00
+511,37,020310,Servicios forestales,733.00,7.00
+724,46,851190,Servicios hospitalarios n.c.p.,471.00,7.00
+69,41,852000.4,Servicios médicos para animales,471.00,7.00
+119,46,851300,Servicios odontológicos.,471.00,7.00
+169,41,930990.4,Servicios personales diversos n.c.p.,375.00,8.40
+35,28,911000,Servicios prestados a las empresas no clasificados en otra parte,934.00,16.80
+285,28,911001,"Servicios prestados a las empresas por profesionales liberales organizados en forma de sociedad regulada por ley, o cuando posean sucursal",1246.00,16.80
+904,41,809090,Servicios prestados al público no clasificados en otra parte,471.00,7.00
+605,41,809092,Servicios prestados por monotributistas de manera habitual al Estado Municipal.,198.00,7.00
+902,41,809093,Servicios prestados por monotributistas de manera no habitual al Estado Municipal.,237.00,16.00
+197,41,809091,"Servicios prestados por profesionales en el ejercicio individual de su profesión, organizados en forma de sociedad regulada por ley, o cuando posean sucursal.",515.00,7.00
+359,41,852000.3,Servicios profesionales relacionados con la agronomía (sociedad de profesionales),471.00,7.00
+897,51,633390,Servicios relacionados con el transporte aéreo n.c.p.,577.00,7.00
+339,16,921430,Servicios relacionados con espectáculos teatrales - por honorarios y comisiones,315.00,7.00
+694,33,222200,"Servicios relacionados con la imprenta (electrotipia, composición de tipo, grabado)",264.00,7.00
+823,46,851900,Servicios relacionados con la salud humana n.c.p.,471.00,7.00
+528,27,525901,Sex shop (conforme a la tipificación que fije el DEM),783.00,8.40
+595,47,403000,Suministro de vapor y agua caliente,934.00,7.00
+387,30,521120.2,Supermercado con una superficie total de 301 m2 hasta 600 m2,5670.00,8.40
+39,30,521120.3,Supermercado con una superficie total de 601 m2 hasta 2.000 m2,6166.00,8.40
+868,30,521120.1,Supermercado con una superficie total hasta 300 m2,4932.00,7.00
+807,30,521120.4,Supermercado una superficie total superior a 2.001 m2,7402.00,8.40
+702,49,502600,Taller de chapa y pintura de automotores,373.00,7.00
+827,4,210991,"Taller de enrollado, bobinado y enfardado de papel",577.00,7.00
+260,49,502210,Taller de gomería. Incluye las que poseen anexos de recapados,373.00,7.00
+862,49,502400.1,Tapizado y retapizado de automotores,373.00,7.00
+17,16,921410,Teatro. Espectáculos teatrales y musicales,315.00,7.00
+680,52,171142,Tejido de algodón. Tejeduría de algodón,577.00,7.00
+218,52,171143,Tejido de fibras sintéticas y seda (excluido fabricación de medias. Tejeduría),577.00,7.00
+112,52,171149,Tejido de fibras textiles no clasificados en otra parte,577.00,7.00
+366,52,171141,Tejido de lana. Tejeduría de lana,577.00,7.00
+923,52,173090.1,"Tejidos artesanales sin local de atención, sin empleados",264.00,7.00
+349,35,642020.3,"Telefonía celular. Con un mínimo mensual por línea abonado de $ 8,60. En el caso de líneas corporativas se debe contabilizar a estos efectos a cada una de las líneas que integran el grupo.",0.00,25.00
+581,36,454900,"Terminación de edificios y obras de ingeniería civil n.c.p. (Incluye trabajos de ornamentación, limpieza exterior de edificios con vapor, chorro de arena u otros métodos)",577.00,7.60
+666,52,171200.1,"Terminado artesanal de textiles y calzados sin local de atención, sin empleados",264.00,7.00
+811,67,930100.1,Tintorería,471.00,7.00
+556,9,154911,"Tostado, torrado y molienda de café",733.00,7.00
+152,59,622000,"Transporte aéreo, de pasajeros y cargas",9237.00,7.40
+597,38,602190,"Transporte automotores de carga y encomienda a corta, media y larga distancia",934.00,7.90
+97,47,401200,Transporte de energía eléctrica. Por cada 10.000 Kw. $ 112.,0.00,0.00
+136,38,602250,Transporte de pasajeros de larga distancia,471.00,2.00
+877,38,602220.1,Transporte de pasajeros por Remises. La agencia tributará,1496.00,10.50
+375,28,749210,"Transporte de valores, documentación y similares",934.00,12.10
+808,38,602230,Transporte escolar,341.00,2.00
+399,38,601100,Transporte ferroviario,9237.00,2.00
+604,38,602210.2,Transporte interurbano de pasajeros,3702.00,2.00
+175,38,603100,Transporte por oleoductos y gasoductos,471.00,7.00
+53,38,602240,"Transporte privado n.c.p. (excepto taxis, remis, transporte escolar, alquiler de auto)",577.00,8.00
+942,38,602180,Transporte urbano de cargas n.c.p. (incluye fletes),471.00,7.00
+172,38,602210.1,Transporte urbano de pasajeros,4313.00,2.00
+36,21,803200,Universidad privada,471.00,7.00
+432,60,504010,Venta  por menor de motocicletas nuevas y usadas,934.00,12.60
+248,60,501110.1,Venta  por menor de vehículos automotores nuevos,4932.00,7.00
+573,60,501210.1,Venta  por menor de vehículos automotores usados,1852.00,7.00
+801,40,513420,"Venta al por mayor  de joyas, relojes y artículos conexos",1290.00,15.80
+527,34,511990.7,Venta al por mayor  por contrato de concesión n.c.p.,2396.00,43.00
+381,25,514310,"Venta al por mayor de aberturas (puertas, ventanas, armazones)",577.00,7.00
+20,17,514931,Venta al por mayor de abonos y plaguicidas,373.00,7.00
+30,24,512272,"Venta al por mayor de aceites y grasas comestibles, vinagres",373.00,7.00
+770,40,513410,Venta al por mayor de aparatos fotográficos e instrumentos de óptica,577.00,7.00
+298,40,513532,Venta al por mayor de artículos de bazar y menaje,577.00,7.00
+178,25,513531,Venta al por mayor de artículos de cristal y vidrio,577.00,7.00
+589,72,513223,Venta al por mayor de artículos de librería y papelería,373.00,7.00
+624,40,513910,Venta al por mayor de artículos de limpieza y saneamiento,577.00,7.00
+681,43,513149,Venta al por mayor de artículos de marroquinería,577.00,7.00
+154,43,513122,"Venta al por mayor de artículos de mercería, medias y artículos de punto",577.00,7.00
+842,17,514933,Venta al por mayor de artículos de plástico,373.00,7.00
+881,25,514391,"Venta al por mayor de artículos de plomería, electricidad, iluminación, calefacción, obras sanitarias y similares",577.00,7.00
+277,43,513115,"Venta al por mayor de artículos de tapicería, tapices y alfombras",577.00,7.00
+933,40,513320,"Venta al por mayor de artículos de tocador, jabones, perfumes, cosméticos",577.00,8.40
+446,40,513940,Venta al por mayor de artículos para deportes y camping,577.00,7.00
+761,40,513992,Venta al por mayor de artículos para kiosco y para salones de venta,577.00,7.00
+634,25,514399.2,Venta al por mayor de artículos para la construcción n.c.p.,577.00,7.00
+525,25,514392,"Venta al por mayor de artículos y objetos de barro, loza y porcelana",577.00,7.00
+580,78,501210.2,Venta al por mayor de automotores nuevos y  usados,7402.00,7.00
+222,24,512229,Venta al por mayor de aves y huevos,373.00,7.00
+625,63,512312,Venta al por mayor de bebidas alcohólicas y energizantes,373.00,7.90
+594,63,512320,"Venta al por mayor de bebidas no alcohólicas, aguas, gaseosas",471.00,7.00
+251,40,513930,Venta al por mayor de bicicletas y rodados similares,577.00,8.40
+185,17,514934,Venta al por mayor de Bolsas y/o productos de Polietileno,373.00,7.00
+487,24,512273,"Venta al por mayor de café, té y yerba mate (incluye Fraccionamiento, y venta al por mayor de sal), (Fraccionamiento, y venta al por mayor de té y especias)",373.00,7.00
+385,43,513130,Venta al por mayor de calzados (incluye zapatos y zapatillas),577.00,7.00
+247,40,513999.4,Venta al por mayor de cámaras y cubiertas,577.00,7.00
+693,79,513918,Venta al por mayor de chatarra,577.00,7.00
+762,24,512260,"Venta al por mayor de chocolate y sus preparados, caramelos y otros derivados del azúcar",373.00,7.00
+688,17,514110.1,Venta al por mayor de combustibles y lubricantes para automotores,373.00,4.00
+313,17,514199.1,"Venta al por mayor de combustibles y lubricantes, excepto para automotores y gas en garrafas",373.00,4.00
+303,40,515150,"Venta al por mayor de descartables de uso médico, paramédico, odontológico y ortopédico",577.00,7.00
+794,40,513551.2,"Venta al por mayor de discos, cassettes, DVD, videojuegos. Disquerías",783.00,8.40
+217,61,515921,"Venta al por mayor de equipo informático y máquinas de oficina, cálculo y contabilidad",577.00,7.00
+181,61,515110,"Venta al por mayor de equipos e implementos de uso en los sectores agropecuario, jardinería, silvicultura, pesca y caza",577.00,7.00
+747,40,513552,"Venta al por mayor de equipos y aparatos de radio, televisión, comunicaciones y sus componentes",577.00,7.00
+85,24,512212.1,"Venta al por mayor de fiambres, embutidos y chacinados",373.00,7.00
+113,43,513111,"Venta al por mayor de fibras, hilados e hilos",577.00,7.00
+576,24,512240,"Venta al por mayor de frutas, hortalizas y verduras en el Mercado de Abasto",4193.00,7.00
+751,79,513916,"Venta al por mayor de hierros, aceros, metales no ferrosos y subproductos, excepto chatarra",577.00,7.00
+727,40,513551.1,Venta al por mayor de instrumentos musicales,577.00,7.00
+723,40,513920,Venta al por mayor de juguetes y artículos de cotillón,577.00,7.00
+596,25,514399.1,"Venta al por mayor de ladrillos, cemento, cal, arena, piedra, mármol y similares",577.00,7.00
+655,24,512121,"Venta al por mayor de lanas, cueros y frutos del país",373.00,7.00
+843,24,512291,Venta al por mayor de legumbres y cereales,373.00,7.00
+164,25,514320,"Venta al por mayor de madera y productos de madera, excepto muebles",577.00,7.00
+323,43,513114,Venta al por mayor de mantelería y ropa de cama,577.00,7.00
+107,40,513999.3,"Venta al por mayor de máquinas, equipos y aparatos de uso doméstico (incluidos los eléctricos)",577.00,8.40
+271,24,512129,"Venta al por mayor de materias primas pecuarias, incluye animales vivos",373.00,7.00
+631,78,501110.2,Venta al por mayor de motocicletas nuevas y usadas,934.00,10.50
+665,79,513917,Venta al por mayor de muebles de metal y sus accesorios,577.00,7.00
+896,40,515420,Venta al por mayor de muebles y accesorios excepto los metálicos,577.00,7.00
+331,72,513221,Venta al por mayor de papel y productos de papel y cartón,373.00,7.00
+753,40,513950,"Venta al por mayor de papeles para pared, revestimiento para pisos de goma, plástico y textiles, y artículos similares para la decoración",577.00,7.00
+494,24,512230,Venta al por mayor de pescados y productos marinos,471.00,7.00
+72,43,513141,Venta al por mayor de pieles y cueros,783.00,8.40
+793,25,514340,"Venta al por mayor de pinturas, barnices, lacas y esmaltes",577.00,7.00
+104,40,513999.6,Venta al por mayor de Pirotecnia,934.00,8.40
+406,43,513129,Venta al por mayor de prendas de vestir (excepto de cuero y calzado),577.00,7.00
+883,43,513121,Venta al por mayor de prendas de vestir de cuero (excepto calzado),783.00,8.40
+535,17,513310.1,Venta al por mayor de productos farmacéuticos y veterinarios,783.00,7.00
+449,24,512211,Venta al por mayor de productos lácteos (excepto quesos),373.00,7.00
+444,40,513999.5,Venta al por mayor de productos n.c.p.,577.00,7.00
+765,27,503100.2,"Venta al por mayor de repuestos y accesorios para vehículos automotores, incluido equipos de G.N.C.",577.00,7.00
+743,17,515160,Venta al por mayor de sustancias químicas industriales y materias primas para la elaboración de plásticos,373.00,4.00
+875,63,512400,Venta al por mayor de tabacos y cigarrillos,1139.00,26.30
+63,40,513999.2,Venta al por mayor de tarjetas magnéticas de telefonía,577.00,7.00
+698,40,513999.1,Venta al por mayor de tarjetas magnéticas de transporte,577.00,7.00
+421,43,513112,Venta al por mayor de tejidos,577.00,7.00
+503,72,513211.1,Venta al por mayor de textos nuevos,373.00,7.00
+709,72,513211.2,Venta al por mayor de textos usados,373.00,7.00
+270,25,514350,Venta al por mayor de vidrios planos y templados,577.00,7.00
+569,63,512311,Venta al por mayor de vinos sin fraccionamiento,373.00,7.00
+588,34,511919.1,Venta al por mayor en comisión o consignación de alimentos y bebidas no alcohólicas,577.00,19.00
+885,34,511919.2,Venta al por mayor en comisión o consignación de bebidas alcohólicas,577.00,19.00
+73,34,511940.1,"Venta al por mayor en comisión o consignación de energía eléctrica, gas y combustibles",934.00,17.40
+245,34,511990.5,"Venta al por mayor en comisión o consignación de frutas, hortalizas y verduras en el Mercado de Abasto",1005.00,17.40
+186,34,511930,Venta al por mayor en comisión o consignación de madera y materiales para la construcción,577.00,17.40
+726,34,511960.2,"Venta al por mayor en comisión o consignación de maquinaria, equipo profesional industrial y comercial, embarcaciones y aeronaves",577.00,17.40
+220,34,511960.1,"Venta al por mayor en comisión o consignación de máquinas, equipos y aparatos de uso doméstico, incluidos los electrónicos",373.00,17.40
+781,34,511990.4,Venta al por mayor en comisión o consignación de mercaderías n.c.p.,373.00,19.00
+457,34,511950,"Venta al por mayor en comisión o consignación de minerales, metales y productos químicos industriales",373.00,17.40
+833,34,511970,"Venta al por mayor en comisión o consignación de papel, cartón, libros, revistas, diarios, materiales de embalaje y artículos de librería",577.00,17.40
+145,34,511990.1,Venta al por mayor en comisión o consignación de productos medicinales,373.00,20.80
+791,34,511920,Venta al por mayor en comisión o consignación de productos textiles,577.00,17.40
+786,34,511919.3,Venta al por mayor en comisión o consignación de tabaco,577.00,19.00
+31,25,514330,Venta al por mayor en ferreterías,577.00,7.00
+411,34,511122,"Venta al por mayor o consignación de lanas, cueros y frutos del país",577.00,17.40
+299,56,523610,"Venta al por menor de aberturas (puertas, ventanas, armazones)",373.00,7.00
+355,27,523999.9,Venta al por menor de alarmas y otros artículos de seguridad,471.00,7.00
+812,30,522120.2,Venta al por menor de alimentos y suplementos dietarios.,297.00,7.00
+189,27,524910,"Venta al por menor de antigüedades, objetos de arte, cuadros, marcos, filatelia y numismática",471.00,10.50
+42,27,523710.1,"Venta al por menor de aparatos fotográficos, artículos de fotografía",471.00,8.40
+945,27,523560.3,"Venta al por menor de aparatos para videojuegos; cassettes, DVD; reproductores; videograbadoras y similares",471.00,7.00
+534,27,523530,Venta al por menor de aparatos y artefactos eléctricos para la iluminación,471.00,7.00
+907,27,523942,Venta al por menor de armas y artículos de cuchillería. Armería. Cuchillería. Venta al por menor de artículos de caza y pesca,471.00,8.40
+475,27,523540,Venta al por menor de artículos de bazar y menaje,471.00,7.00
+654,27,524000,Venta al por menor de artículos de camping,471.00,7.00
+772,27,523510,Venta al por menor de artículos de caña y mimbre. Venta de muebles. Mueblería,471.00,7.00
+344,27,523930.2,Venta al por menor de artículos de cotillón,471.00,7.00
+384,56,523630,Venta al por menor de artículos de ferretería. Ferretería,373.00,7.00
+377,1,523310,Venta al por menor de artículos de lencería,373.00,7.00
+412,27,523830,"Venta al por menor de artículos de librería, papelería y para oficina",471.00,7.00
+241,27,523620,Venta al por menor de artículos de madera n.c.p.,471.00,7.00
+439,1,523210.2,Venta al por menor de artículos de mercería,373.00,7.00
+62,27,523710.2,Venta al por menor de artículos de óptica y ortopedia,471.00,7.00
+132,27,523120,Venta al por menor de artículos de perfumería y cosmética,471.00,7.90
+55,27,523999.6,Venta al por menor de artículos de plástico,471.00,7.00
+207,56,523670,Venta al por menor de artículos de revestimiento y decoración,373.00,7.00
+159,27,523999.13,Venta al por menor de artículos de santería,471.00,7.00
+905,27,523952,Venta al por menor de artículos de telefonía - celulares y sus accesorios,471.00,7.00
+264,27,523550,Venta al por menor de artículos del hogar,471.00,7.40
+342,27,523999.11,"Venta al por menor de artículos electrónicos, sus repuestos y accesorios (excepto del hogar)",471.00,7.00
+582,27,525900,Venta al por menor de artículos n.c.p.,471.00,7.40
+92,27,523999.7,Venta al por menor de artículos para publicidad,471.00,7.00
+752,27,523999.3,Venta al por menor de artículos para regalos. Regalería,471.00,7.00
+878,27,523999.4,Venta al por menor de artículos regionales,471.00,7.00
+565,27,525900.2,Venta al por menor de artículos varios. Polirubros,577.00,7.40
+60,27,523920,"Venta al por menor de artículos, productos y insumos de limpieza",471.00,7.00
+820,30,522500.1,"Venta al por menor de bebidas no alcohólicas, gaseosas y jugos",373.00,7.00
+274,27,523999.5,"Venta al por menor de bicicletas y rodados infantiles, sus repuestos y accesorios",471.00,7.00
+308,27,523999.14,Venta al por menor de bolsas y/o productos de polietileno,471.00,7.00
+929,30,522420,"Venta al por menor de bombones y golosinas. Caramelería, galletitería",373.00,8.40
+450,30,522999.4,"Venta al por menor de café, te, yerba mate y especias",373.00,7.00
+114,1,523420,Venta al por menor de calzado. Zapaterías y zapatillerías,373.00,7.00
+314,27,503210,Venta al por menor de cámaras y cubiertas.,471.00,7.00
+575,30,522210.2,Venta al por menor de carne envasada y congelada,373.00,7.00
+443,1,523490,Venta al por menor de carteras y demás artículos de marroquinería,373.00,7.00
+738,27,523520,"Venta al por menor de colchones, almohadas y accesorios",471.00,7.00
+33,27,523820,Venta al por menor de diarios y revistas,471.00,7.00
+291,27,523560.2,"Venta al por menor de discos, cassettes, DVD, DVC, videos juegos y similares. Disquerías",471.00,7.00
+706,27,523993,"Venta al por menor de equipo profesional, científico e instrumentos de medida y de control",471.00,7.00
+891,27,523911,Venta al por menor de flores y plantas naturales y artificiales,471.00,7.00
+667,27,523913,Venta al por menor de forrajes,471.00,7.00
+451,27,523110.2,Venta al por menor de herboristería,471.00,7.00
+490,27,523999.1,Venta al por menor de herrajes en general,471.00,7.00
+357,1,523941,Venta al por menor de indumentaria deportiva y sus accesorios,373.00,7.00
+814,27,523560.1,Venta al por menor de instrumentos musicales,471.00,7.00
+163,27,523999.10,Venta al por menor de insumos médicos,471.00,7.00
+75,27,523720.1,"Venta al por menor de joyas, relojes y artículos conexos",934.00,15.80
+898,27,523930.1,Venta al por menor de juguetes. Jugueterías,471.00,7.00
+683,1,523210.1,"Venta al por menor de lanas, hilos y artículos afines",373.00,7.00
+306,27,523999.12,Venta al por menor de lanchas y embarcaciones deportivas,471.00,7.00
+229,30,522111,Venta al por menor de leche y productos lácteos,373.00,7.00
+678,30,522300,"Venta al por menor de legumbres, frutas, cereales secos y en conservas",373.00,7.00
+243,27,505000,Venta al por menor de lubricantes líquidos y sólidos,471.00,7.00
+232,27,523950,"Venta al por menor de máquinas de oficina, computadoras, cálculo, sus componentes y repuestos",471.00,7.40
+818,27,523992.2,"Venta al por menor de máquinas n.c.p. y motores, incluidos sus repuestos",471.00,7.40
+360,30,522999.2,Venta al por menor de masas y demás productos de pastelerías. Confiterías,373.00,7.00
+127,56,523690.2,Venta al por menor de materiales de construcción,373.00,7.00
+737,27,523992.1,"Venta al por menor de motores, maquinarias, equipos y aparatos industriales (incluidos los eléctricos)",471.00,7.00
+664,27,523330.1,Venta al por menor de pañales,471.00,7.00
+628,30,522410,Venta al por menor de panificadoras y panaderías,373.00,7.00
+86,27,523831,Venta al por menor de papel y productos de papel y cartón,471.00,7.00
+351,30,522999.3,Venta al por menor de pastas frescas,373.00,7.00
+1,1,523380,Venta al por menor de pieles naturales y sintéticas. Peletería,471.00,8.40
+284,56,523640,"Venta al por menor de pinturas, barnices, lacas, esmaltes y artículos de pinturería",373.00,7.00
+70,27,523914,Venta al por menor de plaguicidas,471.00,7.00
+894,1,523391,Venta al por menor de prendas de vestir de cuero y sucedáneos,471.00,8.40
+908,1,523399.2,"Venta al por menor de prendas de vestir, excepto las de cuero",373.00,7.00
+327,27,523991,Venta al por menor de productos de caucho n.c.p.,471.00,7.00
+440,30,522999.1,Venta al por menor de productos de repostería,373.00,7.00
+171,30,522120.1,Venta al por menor de productos dietéticos.,297.00,7.00
+66,30,522430,"Venta al por menor de productos varios realizada en puestos, debidamente autorizados n.c.p.",72.00,7.00
+337,1,523399.1,Venta al por menor de productos y artículos confeccionados con materiales textiles n.c.p.,373.00,7.00
+312,30,522112.1,Venta al por menor de quesos,373.00,7.00
+362,27,503100.1,"Venta al por menor de repuestos y accesorios para vehículos automotores, incluido equipos de G.N.C.",577.00,7.00
+438,1,523330,Venta al por menor de ropa y accesorios para bebés y niños,373.00,7.00
+711,56,523690.1,Venta al por menor de sanitarios,373.00,7.00
+52,27,523912,"Venta al por menor de semillas, abonos, fertilizantes y otros productos de vivero",471.00,7.00
+888,27,525040,Venta al por menor de sustancias químicas industriales,471.00,7.00
+700,53,522991,Venta al por menor de tabacos y cigarrillos,577.00,19.80
+919,1,523290,Venta al por menor de tapices y alfombras,373.00,7.00
+741,27,523999.8,Venta al por menor de tarjetas magnéticas de transporte de pasajeros y de telefonía,471.00,7.00
+478,1,523210.3,Venta al por menor de tejidos de punto,373.00,7.00
+858,1,523360,Venta al por menor de telas. Tiendas,373.00,7.00
+715,27,523810,Venta al por menor de textos nuevos,471.00,7.00
+866,27,524200,Venta al por menor de textos usados,471.00,8.40
+729,56,523660,"Venta al por menor de vidrios, cristales, espejos, mamparas y cerramientos (incluye su colocación). Vidrierías",373.00,7.00
+200,30,522500.2,Venta al por menor de vinos y otras bebidas alcohólicas y bebidas energizantes. V|inotecas. Vinerías,373.00,7.00
+932,27,523110.1,Venta al por menor en farmacias de productos medicinales,471.00,7.00
+947,27,525903,Venta al por menor por contrato de concesión n.c.p.,4792.00,43.00
+863,27,523560.4,"Venta al por menor y colocación de equipos de audio; de radiollamado, alarmas; cierre centralizado; levanta cristales para automotores",471.00,7.00
+672,27,525900.3,Venta ambulante de productos no alimenticios,471.00,7.00
+46,34,511990.2,"Venta de antigüedades, por comisiones o consignaciones",373.00,17.40
+853,27,523720,"Venta de artículos de fantasías, bijouterie, platería, alhajas y orfebrería",471.00,10.50
+177,34,511990.3,Venta de automotores nuevos por comisiones o consignaciones. Incluye planes de ahorro,934.00,19.00
+403,34,511990.6,Venta de automotores usados por comisiones o consignaciones. Incluye planes de ahorro,934.00,19.00
+921,30,522999.5,"Venta de choripán, hamburguesas y panchos",373.00,7.00
+561,34,511940.2,Venta de combustibles al por menor (por comisiones),934.00,17.40
+774,27,523961,Venta de GNC,934.00,7.00
+507,30,522120.4,Venta de helados envasados,471.00,7.00
+512,57,701090.1,Venta de inmuebles Propios,564.00,9.90
+231,27,525902,Venta de materiales de rezago y chatarra,471.00,9.30
+365,43,513123,Venta de pañales por mayor,577.00,7.00
+158,53,523000,Venta de viaje/s por recarga de tarjeta/s de colectivo al por menor. Por la comisión,373.00,7.00
+769,60,501210.5,Venta por  enor de automotores nuevos por contrato de concesión,4792.00,43.00
+83,41,930410,"Venta por cuenta y orden de terceros que se  ejerza percibiendo comisiones, bonificaciones, porcentajes y/u otras retribuciones análogas – Excepto concesión de vehículos.",154.00,30.00
+401,24,512111,Venta por mayor de cereales,373.00,7.00
+689,17,513310.2,Venta por mayor de productos farmacéuticos y veterinarios (medicamentos),1029.00,7.60
+696,24,512292,Venta por mayor de productos para animales incluidos medicamentos y mascotas,373.00,7.00
+473,24,512112,Venta por mayor de semillas,373.00,7.00
+173,60,501210.3,Venta por menor de  motocicletas nuevas y usadas en consignación,934.00,21.00
+649,60,501210.4,Venta por menor de automotores  nuevos y  usadas en consignación,934.00,21.00
+553,27,523950.1,Venta por menor de Insumos de computación,471.00,7.00
+170,27,523971,Venta por menor de medicamentos para animales y mascotas,471.00,7.00
+499,27,523970,Venta por menor de productos para animales excluidos medicamentos y mascotas,471.00,7.00
+637,24,512221,Venta y abastecimiento de carne y derivados,373.00,7.00
+249,24,512299.4,Venta y distribución al por mayor de otros productos y subproductos ganaderos y agrícolas,373.00,7.00
+505,34,511111,Venta y distribución por mayor en comisión o consignación de cereales,577.00,17.40
+195,34,511119,Venta y distribución por mayor en comisión o consignación de productos y subproductos ganaderos y agrícolas n.c.p.,577.00,17.40
+142,24,512299.3,"Venta, distribución y fraccionamiento al por mayor de productos dietéticos.",373.00,7.00
+121,30,522191,Verdulería y Frutería,373.00,7.00
+50,37,020130,Viveros,315.00,7.00
