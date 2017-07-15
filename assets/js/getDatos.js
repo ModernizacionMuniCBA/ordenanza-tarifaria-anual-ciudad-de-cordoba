@@ -77,7 +77,7 @@ function importDataCategorias(ramaID){
     // console.log(categoriasIDs);
   });
   d3.csv("assets/data/ActividadesOTA-2017.csv", function(error, data) {
-      var da = ["a"];
+      var da = [];
       var i = 0;
       data.forEach(function(d) {
         d.categoria = +d.categoria;
@@ -99,6 +99,9 @@ function importDataCategorias(ramaID){
 }
 
 function importDataActividadesporCat(catID){
+  if(catID==0){
+    importDataCategorias($("#selectRamas").val());
+  }else{
   d3.csv("assets/data/RamasDeActividad-2017.csv", function(error, data) {
     data.forEach(function(d) {
       d.id = +d.id;
@@ -116,9 +119,10 @@ function importDataActividadesporCat(catID){
     });
     categoriasIDs = data;
     // console.log(categoriasIDs);
+
   });
   d3.csv("assets/data/ActividadesOTA-2017.csv", function(error, data) {
-      var da = ["a"];
+      var da = [];
       var i = 0;
       data.forEach(function(d) {
         d.categoria = +d.categoria;
@@ -137,6 +141,7 @@ function importDataActividadesporCat(catID){
       // console.log(da);
       interfaceDibujar(null,null,null,da);
     });
+  }
 }
 
 function importDataRamaPrueba(){

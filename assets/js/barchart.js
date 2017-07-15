@@ -40,11 +40,18 @@ function actualizarCategorias(ramaID){
       d.id = +d.id;
       d.rama = +d.rama;
       d.nombre = d.nombre;
-      if(d.rama == ramaID){
+      if(ramaID==0){
         $('#selectCategorias').append($('<option>', {
             value: d.id,
             text: d.nombre
         }));
+      }else{
+        if(d.rama == ramaID){
+          $('#selectCategorias').append($('<option>', {
+              value: d.id,
+              text: d.nombre
+          }));
+        }
       }
     });
     $('#selectCategorias').val(0);
