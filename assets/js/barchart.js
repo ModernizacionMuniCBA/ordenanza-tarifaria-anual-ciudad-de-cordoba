@@ -48,7 +48,11 @@ function actualizarCategorias(ramaID){
       }
     });
     $('#selectCategorias').val(0);
-    importDataCategorias(ramaID);
+    if(ramaID==0){
+      importDataRama();
+    }else{
+      importDataCategorias(ramaID);
+    }
   });
 }
 var dataset = importDataRama();
