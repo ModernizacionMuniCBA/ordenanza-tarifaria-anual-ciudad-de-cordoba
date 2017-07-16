@@ -105,31 +105,39 @@ with open(fActividades) as csvfile:
 
 def getMinimoTotalRama(rama):
     total = 0
+    contador = 0
     for act in fjson3:
         if(int(act["ramaID"]) == rama):
             total += act["minimo"]
-    return total
+            contador += 1
+    return total/contador
 
 def getAlicuotaTotalRama(rama):
     total = 0
+    contador = 0
     for act in fjson3:
         if(int(act["ramaID"]) == rama):
             total += act["alicuota"]
-    return total
+            contador += 1
+    return total/contador
 
 def getMinimoTotalCategoria(categoria):
     total = 0
+    contador = 0
     for act in fjson3:
         if(int(act["categoriaID"]) == categoria):
             total += act["minimo"]
-    return total
+            contador += 1
+    return total/contador
 
 def getAlicuotaTotalCategoria(categoria):
     total = 0
+    contador = 0
     for act in fjson3:
         if(int(act["categoriaID"]) == categoria):
             total += act["alicuota"]
-    return total
+            contador += 1
+    return total/contador
 #
 # i = 0
 # j = 0

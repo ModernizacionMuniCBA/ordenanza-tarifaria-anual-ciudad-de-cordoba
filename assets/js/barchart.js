@@ -121,6 +121,19 @@ function initBarChart(){
   });
 }
 
+function getTooltipWidth(){
+  var wWidth = $( window ).width();
+  if (wWidth < 480){
+    return $( window ).width()-50;
+  }else if(wWidth < 768){
+    return 500;
+  }else if(wWidth < 1200){
+    return 700;
+  }else{
+    return 700;
+  }
+}
+
 function drawBarChart(data){
   currentDataset = data;
   $("#bar-chart").empty();
@@ -142,6 +155,34 @@ function drawBarChart(data){
           return "<p class=\"d3plus_tooltip_footer_custom\">Click para Ampliar</p>";
         }
       }})
+      .tooltip({"large":getTooltipWidth(), "small":getTooltipWidth()})
+      .format({
+          "number": function(number, key) {
+            var formatted = number;
+            if (key.key === "alicuota") {
+              var formatted = d3plus.number.format(number/10, key)
+              if($("#selectRamas").val()==0){
+                return "Promedio %" + formatted.replace("B", " Mm");
+              }else if($("#selectCategorias").val()==0){
+                return "Promedio %" + formatted.replace("B", " Mm");
+              }else{
+                return "%" + formatted.replace("B", " Mm");
+              }
+            }
+            else if (key.key === "minimo") {
+              // var formatted = d3plus.number.format(number, key)
+              if($("#selectRamas").val()==0){
+                return "Promedio $" + number.toFixed(2);
+              }else if($("#selectCategorias").val()==0){
+                return "Promedio $" + number.toFixed(2);
+              }else{
+                return "$" + number.toFixed(2);
+              }
+            }else{
+              return number
+            }
+          }
+      })
       .mouse({
         "click" : function(dp, d3viz) {
             console.log(dp);
@@ -170,50 +211,51 @@ function drawBarChart(data){
 }
 
 function updateBarChart(){
-  $("#bar-chart").empty();
-  tipoDato = $('input[type=radio][name=radioTipoDato]:checked').val();
-  if(tipoDato == "ali"){
-    y = "alicuota";
-  }else{
-    y = "minimo";
-  }
-  // console.log(data);
-  // console.log(y);
-  var visualization = d3plus.viz()
-  .container("#bar-chart")
-  .format("es_ES")
-  .tooltip({"footer": function(dp, d3viz) {
-    if($("#selectRamas").val()!=0 && $("#selectCategorias").val()!=0){
-      return "<p class=\"d3plus_tooltip_footer_custom\">Click para Cerrar</p>"
-    }else{
-      return "<p class=\"d3plus_tooltip_footer_custom\">Click para Ampliar</p>";
-    }
-  }})
-  .mouse({
-    "click" : function(dp, d3viz) {
-        console.log(dp);
-        var color = $("#d3plus_group_"+dp.d3plus.id+" rect").attr("fill");
-        $(".atras-button").attr("style", "color:"+ColorLuminance(color,-0.2)+"!important;");
-        console.log(color);
-        if($("#selectRamas").val()==0){
-          $("#selectRamas").val(dp.ID);
-          actualizarCategorias(dp.ID);
-        }else if($("#selectCategorias").val()==0){
-          $("#selectCategorias").val(dp.ID);
-          actualizarActividades(dp.ID);
-        }else{
-          $("#selectRamas").val(dp.ramaID);
-          $("#selectCategorias").val(0);
-          actualizarCategorias(dp.ramaID);
-        }
-      }
-    })
-  .data(currentDataset)
-  .type("bar")
-  .id("nombre")
-  .x("nombre")
-  .y(y)
-  .draw()
+  // $("#bar-chart").empty();
+  // tipoDato = $('input[type=radio][name=radioTipoDato]:checked').val();
+  // if(tipoDato == "ali"){
+  //   y = "alicuota";
+  // }else{
+  //   y = "minimo";
+  // }
+  // // console.log(data);
+  // // console.log(y);
+  // var visualization = d3plus.viz()
+  // .container("#bar-chart")
+  // .format("es_ES")
+  // .tooltip({"footer": function(dp, d3viz) {
+  //   if($("#selectRamas").val()!=0 && $("#selectCategorias").val()!=0){
+  //     return "<p class=\"d3plus_tooltip_footer_custom\">Click para Cerrar</p>"
+  //   }else{
+  //     return "<p class=\"d3plus_tooltip_footer_custom\">Click para Ampliar</p>";
+  //   }
+  // }})
+  // .mouse({
+  //   "click" : function(dp, d3viz) {
+  //       console.log(dp);
+  //       var color = $("#d3plus_group_"+dp.d3plus.id+" rect").attr("fill");
+  //       $(".atras-button").attr("style", "color:"+ColorLuminance(color,-0.2)+"!important;");
+  //       console.log(color);
+  //       if($("#selectRamas").val()==0){
+  //         $("#selectRamas").val(dp.ID);
+  //         actualizarCategorias(dp.ID);
+  //       }else if($("#selectCategorias").val()==0){
+  //         $("#selectCategorias").val(dp.ID);
+  //         actualizarActividades(dp.ID);
+  //       }else{
+  //         $("#selectRamas").val(dp.ramaID);
+  //         $("#selectCategorias").val(0);
+  //         actualizarCategorias(dp.ramaID);
+  //       }
+  //     }
+  //   })
+  // .data(currentDataset)
+  // .type("bar")
+  // .id("nombre")
+  // .x("nombre")
+  // .y(y)
+  // .draw()
+  drawBarChart(currentDataset);
 }
 
 function filterData(dataset, filterType, filterValue){ //Si recibe filterValue 0 devuelve lo que recibe en dataset

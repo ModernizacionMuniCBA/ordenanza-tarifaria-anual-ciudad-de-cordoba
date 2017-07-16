@@ -1,39 +1,39 @@
 [
     {
         "name": "ACTIVIDADES COMERCIALES POR MAYOR", 
-        "size": 87291.0
+        "size": 715.5
     }, 
     {
         "name": "ACTIVIDADES COMERCIALES POR MENOR", 
-        "size": 289185.0
+        "size": 1967.2448979591836
     }, 
     {
         "name": "ACTIVIDADES FINANCIERAS", 
-        "size": 3832.0
+        "size": 348.3636363636364
     }, 
     {
         "name": "ACTIVIDADES INDUSTRIALES", 
-        "size": 189144.0
+        "size": 600.4571428571429
     }, 
     {
         "name": "ACTIVIDADES PRIMARIAS", 
-        "size": 36121.0
+        "size": 612.2203389830509
     }, 
     {
         "name": "BIENES MUEBLES E INMUEBLES", 
-        "size": 33123.0
+        "size": 649.4705882352941
     }, 
     {
         "name": "COMUNICACIONES", 
-        "size": 11925.0
+        "size": 851.7857142857143
     }, 
     {
         "name": "CONSTRUCCI\u00d3N", 
-        "size": 18630.0
+        "size": 503.5135135135135
     }, 
     {
         "name": "ELECTRICIDAD, GAS Y SIMILARES", 
-        "size": 3379.0
+        "size": 337.9
     }, 
     {
         "name": "OTRAS ACTIVIDADES", 
@@ -41,23 +41,23 @@
     }, 
     {
         "name": "SEGUROS", 
-        "size": 532.0
+        "size": 177.33333333333334
     }, 
     {
         "name": "SERVICIOS", 
-        "size": 113127.0
+        "size": 744.2565789473684
     }, 
     {
         "name": "TRANSPORTE", 
-        "size": 53888.0
+        "size": 2072.6153846153848
     }, 
     {
         "name": "AGRICULTURA", 
-        "size": 17310.0
+        "size": 577.0
     }, 
     {
         "name": "ALQUILER Y ARRENDAMIENTO DE M\u00c1QUINAS, AUTOS Y EQUIPOS", 
-        "size": 6401.0
+        "size": 492.38461538461536
     }, 
     {
         "name": "CAPTACI\u00d3N, PURIFICACI\u00d3N Y DISTRIBUCI\u00d3N DE AGUA", 
@@ -65,195 +65,195 @@
     }, 
     {
         "name": "COMUNICACIONES_", 
-        "size": 11925.0
+        "size": 851.7857142857143
     }, 
     {
         "name": "CONSTRUCCI\u00d3N PESADA Y EDIFICIOS, REFORMA, REPARACI\u00d3N Y PRESTACIONES RELACIONADAS CON LA CONSTRUCCI\u00d3N", 
-        "size": 13585.0
+        "size": 566.0416666666666
     }, 
     {
         "name": "CR\u00cdA DE ANIMALES", 
-        "size": 5193.0
+        "size": 577.0
     }, 
     {
         "name": "DEP\u00d3SITO Y ALMACENAMIENTO", 
-        "size": 3941.0
+        "size": 985.25
     }, 
     {
         "name": "DEP\u00d3SITO Y VENTA POR MAYOR DE MADERA, PAPEL Y DERIVADOS", 
-        "size": 1865.0
+        "size": 373.0
     }, 
     {
         "name": "DEP\u00d3SITO Y VENTA POR MAYOR DE TEXTILES, PRENDAS DE VESTIR Y CUERO; ACCESORIOS DE VESTIR", 
-        "size": 6759.0
+        "size": 614.4545454545455
     }, 
     {
         "name": "DEP\u00d3SITO, DISTRIBUCI\u00d3N Y VENTA POR MAYOR DE OTROS ART\u00cdCULOS", 
-        "size": 13393.0
+        "size": 637.7619047619048
     }, 
     {
         "name": "DEP\u00d3SITO, DISTRIBUCI\u00d3N Y VENTA POR MAYOR DE PRODUCTOS MET\u00c1LICOS", 
-        "size": 1731.0
+        "size": 577.0
     }, 
     {
         "name": "DEP\u00d3SITO, DISTRIBUCI\u00d3N Y VENTA POR MAYOR DE SUSTANCIAS QU\u00cdMICAS INDUSTRIALES; PRODUCTOS QU\u00cdMICOS Y DERIVADOS DEL PETR\u00d3LEO", 
-        "size": 6944.0
+        "size": 496.0
     }, 
     {
         "name": "DEP\u00d3SITO, DISTRIBUCI\u00d3N Y VENTA POR MENOR DE MATERIALES PARA LA CONSTRUCCI\u00d3N", 
-        "size": 2611.0
+        "size": 373.0
     }, 
     {
         "name": "ELABORACI\u00d3N DE PRODUCTOS ALIMENTARIOS DIVERSOS", 
-        "size": 10262.0
+        "size": 733.0
     }, 
     {
         "name": "ELECTRICIDAD, GAS Y VAPOR", 
-        "size": 2802.0
+        "size": 311.3333333333333
     }, 
     {
         "name": "ESTABLECIMIENTOS Y SERVICIOS FINANCIEROS", 
-        "size": 3832.0
+        "size": 348.3636363636364
     }, 
     {
         "name": "EXPENDIO DE COMIDAS Y BEBIDAS EN RESTAURANTE, CAF\u00c9S Y CON SERVICIO DE MESA Y MOSTRADOR", 
-        "size": 33384.0
+        "size": 1284.0
     }, 
     {
         "name": "EXPLOTACI\u00d3N DE CANTERAS Y EXTRACCI\u00d3N DE MINERALES NO MET\u00c1LICOS NO CLASIFICADOS EN OTRA PARTE", 
-        "size": 2932.0
+        "size": 733.0
     }, 
     {
         "name": "EXPLOTACI\u00d3N DE MINAS DE CARB\u00d3N, PETR\u00d3LEO CRUDO Y GAS NATURAL", 
-        "size": 2199.0
+        "size": 733.0
     }, 
     {
         "name": "EXTRACCI\u00d3N DE MINERALES MET\u00c1LICOS", 
-        "size": 2199.0
+        "size": 733.0
     }, 
     {
         "name": "EXTRACCI\u00d3N DE PIEDRA, PIEDRA CALIZA, ARCILLA Y ARENA", 
-        "size": 3509.0
+        "size": 701.8
     }, 
     {
         "name": "FABRICACI\u00d3N DE CALZADO EXCEPTO EL DE CAUCHO VULCANIZADO O MOLDEADOS O DE PL\u00c1STICO", 
-        "size": 2237.0
+        "size": 559.25
     }, 
     {
         "name": "FABRICACI\u00d3N DE EQUIPOS DE TRANSPORTE", 
-        "size": 8950.0
+        "size": 596.6666666666666
     }, 
     {
         "name": "FABRICACI\u00d3N DE MUEBLES Y ACCESORIOS DE MADERA, CA\u00d1A, MIMBRE Y OTROS, EXCEPTO LOS QUE SON MET\u00c1LICOS O DE PL\u00c1STICO", 
-        "size": 1462.0
+        "size": 487.3333333333333
     }, 
     {
         "name": "FABRICACI\u00d3N DE OBJETOS DE BARRO, LOZA, PORCELANA Y CER\u00c1MICA", 
-        "size": 2558.0
+        "size": 511.6
     }, 
     {
         "name": "FABRICACI\u00d3N DE OTROS PRODUCTOS MINERALES NO MET\u00c1LICOS", 
-        "size": 7640.0
+        "size": 587.6923076923077
     }, 
     {
         "name": "FABRICACI\u00d3N DE PAPEL Y PRODUCTOS DE PAPEL", 
-        "size": 4755.0
+        "size": 594.375
     }, 
     {
         "name": "FABRICACI\u00d3N DE PRENDAS DE VESTIR EXCEPTO CALZADOS", 
-        "size": 4490.0
+        "size": 641.4285714285714
     }, 
     {
         "name": "FABRICACI\u00d3N DE PRODUCTOS ALIMENTARIOS EXCEPTO BEBIDAS", 
-        "size": 28536.0
+        "size": 713.4
     }, 
     {
         "name": "FABRICACI\u00d3N DE PRODUCTOS DE CAUCHO", 
-        "size": 3566.0
+        "size": 509.42857142857144
     }, 
     {
         "name": "FABRICACI\u00d3N DE PRODUCTOS DIVERSOS DERIVADOS DEL PETR\u00d3LEO Y CARB\u00d3N", 
-        "size": 1449.0
+        "size": 724.5
     }, 
     {
         "name": "FABRICACI\u00d3N DE PRODUCTOS MET\u00c1LICOS EXCEPTO MAQUINARIA Y EQUIPOS", 
-        "size": 8386.0
+        "size": 559.0666666666667
     }, 
     {
         "name": "FABRICACI\u00d3N DE PRODUCTOS PL\u00c1STICOS DIVERSOS", 
-        "size": 3770.0
+        "size": 538.5714285714286
     }, 
     {
         "name": "FABRICACI\u00d3N DE PRODUCTOS QU\u00cdMICOS DIVERSOS", 
-        "size": 6909.0
+        "size": 628.0909090909091
     }, 
     {
         "name": "FABRICACI\u00d3N DE SUSTANCIAS QU\u00cdMICAS INDUSTRIALES B\u00c1SICAS", 
-        "size": 6588.0
+        "size": 598.9090909090909
     }, 
     {
         "name": "FABRICACI\u00d3N DE TEXTILES", 
-        "size": 15356.0
+        "size": 548.4285714285714
     }, 
     {
         "name": "FABRICACI\u00d3N DE VIDRIO Y PRODUCTOS DE VIDRIO", 
-        "size": 2447.0
+        "size": 611.75
     }, 
     {
         "name": "FABRICACI\u00d3N Y REPARACI\u00d3N DE EQUIPOS PROFESIONALES Y CIENT\u00cdFICOS, INSTRUMENTOS DE MEDIDA Y CONTROL, FOTOGR\u00c1FICOS Y DE \u00d3PTICA, RELOJES", 
-        "size": 3566.0
+        "size": 509.42857142857144
     }, 
     {
         "name": "FABRICACI\u00d3N Y REPARACI\u00d3N DE MAQUINARIA EXCEPTO LA EL\u00c9CTRICA", 
-        "size": 13987.0
+        "size": 582.7916666666666
     }, 
     {
         "name": "FABRICACI\u00d3N Y REPARACI\u00d3N DE MAQUINARIAS, APARATOS, ACCESORIOS Y SUMINISTROS EL\u00c9CTRICOS Y ELECTR\u00d3NICOS", 
-        "size": 12967.0
+        "size": 540.2916666666666
     }, 
     {
         "name": "FRACCIONAMIENTO Y VENTA POR MAYOR DE BEBIDAS Y TABACOS", 
-        "size": 11966.0
+        "size": 1994.3333333333333
     }, 
     {
         "name": "FRACCIONAMIENTO, VENTA AL POR MAYOR DE MATERIAS PRIMAS AGROPECUARIAS, DE ANIMALES VIVOS Y ALIMENTOS (EXCEPTO COMISI\u00d3N O CONSIGNACI\u00d3N)", 
-        "size": 12870.0
+        "size": 536.25
     }, 
     {
         "name": "IMPRENTAS, EDITORIALES E INDUSTRIAS CONEXAS", 
-        "size": 1848.0
+        "size": 264.0
     }, 
     {
         "name": "INDUSTRIA DE LA MADERA Y PRODUCTOS DE MADERA, DE CORCHO, PAJA Y MATERIALES TRENZABLES, EXCEPTO MUEBLES", 
-        "size": 5561.0
+        "size": 505.54545454545456
     }, 
     {
         "name": "INDUSTRIA DEL CUERO, PRODUCTOS Y SUCED\u00c1NEOS DE CUERO Y PIELES (EXCEPTO CALZADOS Y PRENDAS DE VESTIR)", 
-        "size": 3537.0
+        "size": 707.4
     }, 
     {
         "name": "INDUSTRIA DEL TABACO", 
-        "size": 4488.0
+        "size": 1496.0
     }, 
     {
         "name": "INDUSTRIAS B\u00c1SICAS DE HIERRO Y ACERO", 
-        "size": 2447.0
+        "size": 611.75
     }, 
     {
         "name": "INDUSTRIAS B\u00c1SICAS DE METALES NO FERROSOS INCLUYENDO METALES PRECIOSOS", 
-        "size": 3024.0
+        "size": 604.8
     }, 
     {
         "name": "INDUSTRIAS DE BEBIDAS", 
-        "size": 9163.0
+        "size": 704.8461538461538
     }, 
     {
         "name": "INSTRUCCI\u00d3N Y ENSE\u00d1ANZA", 
-        "size": 6594.0
+        "size": 439.6
     }, 
     {
         "name": "MANTENIMIENTO Y REPARACI\u00d3N DE AUTOMOTORES Y MOTOCICLETAS", 
-        "size": 5045.0
+        "size": 388.0769230769231
     }, 
     {
         "name": "OTRAS ACTIVIDADES_", 
@@ -261,7 +261,7 @@
     }, 
     {
         "name": "OTRAS INDUSTRIAS MANUFACTURERAS", 
-        "size": 9195.0
+        "size": 510.8333333333333
     }, 
     {
         "name": "PLAYAS DE ESTACIONAMIENTO", 
@@ -269,103 +269,103 @@
     }, 
     {
         "name": "SEGUROS_", 
-        "size": 532.0
+        "size": 177.33333333333334
     }, 
     {
         "name": "SERVICIO DE ALOJAMIENTO, COMIDA Y HOSPEDAJE EN HOTELES Y OTROS LUGARES DE ALOJAMIENTO", 
-        "size": 4617.0
+        "size": 355.15384615384613
     }, 
     {
         "name": "SERVICIO DE LAVANDER\u00cdA, ESTABLECIMIENTOS DE LIMPIEZA Y TE\u00d1IDO", 
-        "size": 1318.0
+        "size": 439.3333333333333
     }, 
     {
         "name": "SERVICIO DE REPARACI\u00d3N DE ART\u00cdCULOS PERSONALES Y DEL HOGAR Y/U OTROS", 
-        "size": 4083.0
+        "size": 453.6666666666667
     }, 
     {
         "name": "SERVICIOS AGR\u00cdCOLAS Y PECUARIOS", 
-        "size": 1731.0
+        "size": 577.0
     }, 
     {
         "name": "SERVICIOS CONEXOS CON LOS DE TRANSPORTE", 
-        "size": 13276.0
+        "size": 1659.5
     }, 
     {
         "name": "SERVICIOS DE DIVERSI\u00d3N, ESPARCIMIENTO, CULTURAL Y DEPORTIVOS", 
-        "size": 23962.0
+        "size": 998.4166666666666
     }, 
     {
         "name": "SERVICIOS DE SANEAMIENTO Y SIMILARES", 
-        "size": 2826.0
+        "size": 471.0
     }, 
     {
         "name": "SERVICIOS INMOBILIARIOS", 
-        "size": 7752.0
+        "size": 1292.0
     }, 
     {
         "name": "SERVICIOS PERSONALES N.C.P.", 
-        "size": 12235.0
+        "size": 436.9642857142857
     }, 
     {
         "name": "SERVICIOS RELACIONADOS CON LA SALUD HUMANA", 
-        "size": 6383.0
+        "size": 425.53333333333336
     }, 
     {
         "name": "SERVICIOS RELACIONADOS CON PEL\u00cdCULAS, RADIO, TV, OBRAS Y ESPECT\u00c1CULOS TEATRALES Y MUSICALES", 
-        "size": 17725.0
+        "size": 1363.4615384615386
     }, 
     {
         "name": "SERVICIOS T\u00c9CNICOS Y EMPRESARIALES, EXCEPTO LOS SOCIALES Y COMUNALES", 
-        "size": 18970.0
+        "size": 702.5925925925926
     }, 
     {
         "name": "SILVICULTURA, EXTRACCI\u00d3N DE MADERA Y VIVEROS", 
-        "size": 1048.0
+        "size": 524.0
     }, 
     {
         "name": "TRANSPORTE A\u00c9REO", 
-        "size": 12691.0
+        "size": 6345.5
     }, 
     {
         "name": "TRANSPORTE TERRESTRE", 
-        "size": 23980.0
+        "size": 1998.3333333333333
     }, 
     {
         "name": "VENTA AL POR MAYOR DE AUTOMOTORES,  MOTONETAS Y MOTOCICLETAS", 
-        "size": 8336.0
+        "size": 4168.0
     }, 
     {
         "name": "VENTA AL POR MAYOR EN COMISI\u00d3N O CONSIGNACI\u00d3N", 
-        "size": 16503.0
+        "size": 687.625
     }, 
     {
         "name": "VENTA AL POR MENOR DE ART\u00cdCULOS DIVERSOS", 
-        "size": 46017.0
+        "size": 582.493670886076
     }, 
     {
         "name": "VENTA AL POR MENOR DE PRODUCTOS ALIMENTICIOS Y BEBIDAS", 
-        "size": 214330.0
+        "size": 6697.8125
     }, 
     {
         "name": "VENTA AL POR MENOR DE TEXTILES, PRENDAS Y ACCESORIOS DE VESTIR, Y PRODUCTOS DE CUERO", 
-        "size": 5418.0
+        "size": 387.0
     }, 
     {
         "name": "VENTA AL POR MENOR EN CIGARRER\u00cdAS. AGENCIAS DE LOTER\u00cdA Y OTROS JUEGOS DE AZAR", 
-        "size": 6431.0
+        "size": 714.5555555555555
     }, 
     {
         "name": "VENTA DE AUTOMOTORES,  MOTONETAS Y MOTOCICLETAS", 
-        "size": 14378.0
+        "size": 2396.3333333333335
     }, 
     {
         "name": "VENTA POR MAYOR DE MATERIALES PARA LA CONSTRUCCI\u00d3N", 
-        "size": 5770.0
+        "size": 577.0
     }, 
     {
         "name": "VENTA POR MAYOR DE MOTORES, M\u00c1QUINAS Y EQUIPOS", 
-        "size": 1154.0
+        "size": 577.0
     }, 
     {
         "name": "Acabado de textiles (incluye blanqueo, te\u00f1ido y estampado)", 

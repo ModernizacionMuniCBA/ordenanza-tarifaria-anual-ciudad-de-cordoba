@@ -1,56 +1,56 @@
 [
     {
         "ID": 7, 
-        "alicuota": 1168.5999999999997, 
-        "minimo": 87291.0, 
+        "alicuota": 9.578688524590161, 
+        "minimo": 715.5, 
         "nombre": "ACTIVIDADES COMERCIALES POR MAYOR"
     }, 
     {
         "ID": 1, 
-        "alicuota": 1407.4999999999995, 
-        "minimo": 289185.0, 
+        "alicuota": 9.574829931972786, 
+        "minimo": 1967.2448979591836, 
         "nombre": "ACTIVIDADES COMERCIALES POR MENOR"
     }, 
     {
         "ID": 4, 
-        "alicuota": 312.50000000000006, 
-        "minimo": 3832.0, 
+        "alicuota": 28.409090909090914, 
+        "minimo": 348.3636363636364, 
         "nombre": "ACTIVIDADES FINANCIERAS"
     }, 
     {
         "ID": 2, 
-        "alicuota": 2259.2000000000003, 
-        "minimo": 189144.0, 
+        "alicuota": 7.172063492063493, 
+        "minimo": 600.4571428571429, 
         "nombre": "ACTIVIDADES INDUSTRIALES"
     }, 
     {
         "ID": 3, 
-        "alicuota": 413.0, 
-        "minimo": 36121.0, 
+        "alicuota": 7.0, 
+        "minimo": 612.2203389830509, 
         "nombre": "ACTIVIDADES PRIMARIAS"
     }, 
     {
         "ID": 6, 
-        "alicuota": 797.1999999999996, 
-        "minimo": 33123.0, 
+        "alicuota": 15.6313725490196, 
+        "minimo": 649.4705882352941, 
         "nombre": "BIENES MUEBLES E INMUEBLES"
     }, 
     {
         "ID": 9, 
-        "alicuota": 203.4, 
-        "minimo": 11925.0, 
+        "alicuota": 14.528571428571428, 
+        "minimo": 851.7857142857143, 
         "nombre": "COMUNICACIONES"
     }, 
     {
         "ID": 10, 
-        "alicuota": 274.4, 
-        "minimo": 18630.0, 
+        "alicuota": 7.416216216216216, 
+        "minimo": 503.5135135135135, 
         "nombre": "CONSTRUCCI\u00d3N"
     }, 
     {
         "ID": 11, 
-        "alicuota": 21.0, 
-        "minimo": 3379.0, 
+        "alicuota": 2.1, 
+        "minimo": 337.9, 
         "nombre": "ELECTRICIDAD, GAS Y SIMILARES"
     }, 
     {
@@ -61,20 +61,20 @@
     }, 
     {
         "ID": 13, 
-        "alicuota": 45.3, 
-        "minimo": 532.0, 
+        "alicuota": 15.1, 
+        "minimo": 177.33333333333334, 
         "nombre": "SEGUROS"
     }, 
     {
         "ID": 5, 
-        "alicuota": 1522.300000000001, 
-        "minimo": 113127.0, 
+        "alicuota": 10.015131578947376, 
+        "minimo": 744.2565789473684, 
         "nombre": "SERVICIOS"
     }, 
     {
         "ID": 8, 
-        "alicuota": 193.4, 
-        "minimo": 53888.0, 
+        "alicuota": 7.438461538461539, 
+        "minimo": 2072.6153846153848, 
         "nombre": "TRANSPORTE"
     }
 ]
