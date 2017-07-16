@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Ordenanza Tarifaria Anual - Ciudad de Córdoba</title>
+    <title>Presupuesto 2017</title>
 
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
@@ -17,17 +17,16 @@
 
 	<!-- Custom CSS -->
 	<link href="assets/css/basic.css" rel="stylesheet">
-  <link href="assets/css/font-awesome/css/font-awesome.css" rel="stylesheet">
-
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <link href="assets/css/ingresos-tm.css" rel="stylesheet">
 
   </head>
-  <body class="no-title-tooltips-on-bars">
+  <body>
     <nav class="navbar navbar-muni navbar-fixed-top">
       <div class="container">
        <div class="navbar-header">
@@ -56,12 +55,16 @@
             <div>
               <!-- Tab panes -->
               <div class="tab-content">
-                <div role="tabpanel" class="tab-pane fade in active" id="barras"><span style="color:#FFF">.</span>
+                <div role="tabpanel" class="tab-pane fade in active" id="nodos">
+                  Nodos
+                  <div id="tree-chart"></div>
+                </div>
+                <div role="tabpanel" class="tab-pane fade" id="barras"><span style="color:#FFF">.</span>
                   <div class="select-categoria pull-left form-inline">
                     <select class="form-control input-tamano" id="selectRamas" name="obj0" onchange="actualizarCategorias(this.value);">
                       <option value="0" selected="">Todas las ramas</option>
                     </select>
-                    <select class="form-control input-tamano inline" id="selectCategorias" name="obj0" onchange="actualizarActividades(this.value)">
+                    <select class="form-control input-tamano inline" id="selectCategorias" name="obj0" onchange="interfaceDibujar(null,null,this.value)">
                       <option value="0" selected="">Todas las categorias</option>
                     </select>
                   </div>
@@ -73,29 +76,13 @@
                       <input type="radio" name="radioTipoDato" id="minimo" value="min"> Mínimo
                     </label>
                   </div>
-                  <div class="atras-button">
-                    <p><a id="atras-bar-button" href="#">
-                      <i class="fa fa-angle-left" aria-hidden="true"></i> Atrás
-                    </a></p>
-                    <p><span class="title-categoria"></span></p></div>
                   <div id="bar-chart"></div>
-                </div>
-                <div role="tabpanel" class="tab-pane fade" id="arbol">
-                  <div class="radio-eleccion-datos pull-right">
-                    <label class="radio-inline">
-                      <input type="radio" name="radioTipoDatoTM" id="alicuota" value="ali" checked> Alicuota
-                    </label>
-                    <label class="radio-inline">
-                      <input type="radio" name="radioTipoDatoTM" id="minimo" value="min"> Mínimo
-                    </label>
-                  </div>
-                  <div id="tree-chart"></div>
                 </div>
               </div>
               <!-- Nav tabs -->
               <ul class="nav nav-tabs" role="tablist">
-                <li role="presentation" class="active"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab" class="tab-left" id="barra-tab">Gráfico de Barras</a></li>
-                <li role="presentation"><a href="#arbol" aria-controls="arbol" role="tab" data-toggle="tab" class="tab-right" id="arbol-tab">Gráfico de Árbol</a></li>
+                <li role="presentation" class="active"><a href="#nodos" aria-controls="nodos" role="tab" data-toggle="tab" class="tab-left">Gráfico de Nodos</a></li>
+                <li role="presentation"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab" class="tab-right">Gráfico de Barras</a></li>
               </ul>
 
             </div>
@@ -112,30 +99,29 @@
     <!-- <script src="assets/js/d3.v3.min.js"></script> -->
     <script src="assets/js/d3.js"></script>
     <script src="assets/js/d3plus.js"></script>
-    <script src="assets/js/barchart.js"></script>
+    <script src="assets/js/getDatos.js"></script>
+    <script src="assets/js/barchartPruebaTM.js"></script>
     <script>
     $(document).ready(function() {
-        initBarChart();
         $('input[type=radio][name=radioTipoDato]').change(function() {
-            updateBarChart();
+            if (this.value == 'ali') {
+                // dibujarD3("ali");
+                interfaceDibujar("ali",null,null);
+            }
+            else if (this.value == 'min') {
+                interfaceDibujar("min",null,null);
+            }
         });
         $('input[type=radio][name=radioTipoDatoTM]').change(function() {
-            drawTM();
+            if (this.value == 'ali') {
+                // dibujarD3("ali");
+                interfaceDibujar("ali",null,null);
+            }
+            else if (this.value == 'min') {
+                interfaceDibujar("min",null,null);
+            }
         });
-
-        $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
-          var activeTab = $(e.target).attr('id');
-          if(activeTab == "arbol-tab"){
-            // interfaceDibujar(null,null,null,null);
-            drawTM();
-          }else{
-            drawBarChart(currentDataset);
-            // interfaceDibujar(null,null,null,null);
-          }
-        })
-
-
-    });
+      });
     </script>
   </body>
 </html>

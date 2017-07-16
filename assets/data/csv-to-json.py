@@ -25,6 +25,7 @@ fjson1 = []  # json final para lista de Ramas
 fjson2 = []  # json final para lista de Categorias
 fjson3 = []  # json final para lista de Actividades
 
+
 fjsonDataNodesMin = []  # json final para lista de Actividades (tamaño y nombre) para Minimos
 fjsonDataNodesAli = []  # json final para lista de Actividades (tamaño y nombre) para Alicuotas
 fjsonPositionNodes = [] # json final para lista de posiciones de nodos

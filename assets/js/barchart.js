@@ -240,6 +240,29 @@ function filterData(dataset, filterType, filterValue){ //Si recibe filterValue 0
   drawBarChart(da);
 }
 
+function drawTM(){
+  d3.json("assets/data/listaActividades.json", function(error, actividades) {
+    $("#tree-chart").empty();
+    tipoDato = $('input[type=radio][name=radioTipoDatoTM]:checked').val();
+    var size;
+    if(tipoDato == "ali"){
+      size = "alicuota";
+    }else{
+      size = "minimo";
+    }
+    var visualization = d3plus.viz()
+        .container("#tree-chart")
+        // .legend({"size": 30})
+        .data(actividades)
+        .type("treemap")
+        .id(["rama_nombre", "categoria_nombre", "nombre"])
+        .format("es_ES")
+        .size(size)
+        .draw();
+  });
+
+}
+
 function drawActivities(filterValue){
   d3.json("assets/data/listaActividades.json", function(error, data) {
     // console.log(data);

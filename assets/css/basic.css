@@ -156,15 +156,20 @@ body {
 	height: 500px;
 	margin-top: 15px;
 }
-#node-chart{
+#node-chart, #tree-chart{
 	width: 100%;
-	height: 600px;
-	margin-top: 15px;
+	height: 500px;
+	padding-top: 20px;
+	margin-bottom: 30px;
 }
 
-.d3plus_tooltip_data_title{
-	display: none;
+.no-title-tooltips-on-bars #d3plus_tooltip_id_bar .d3plus_tooltip_data_title{
+	display: none!important;
 }
+
+/*#d3plus_tooltip_id_tree_map .d3plus_tooltip_data_title{
+	display: inline!important;
+}*/
 
 .D3Plus_Tooltip_Footer_Custom{
 	color: #999;
