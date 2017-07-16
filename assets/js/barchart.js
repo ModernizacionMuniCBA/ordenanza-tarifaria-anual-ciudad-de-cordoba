@@ -1,7 +1,27 @@
 var ramaIDs;
 var categoriasIDs;
 var currentDataset;
+
+function ColorLuminance(hex, lum) {
+    // validate hex string
+    hex = String(hex).replace(/[^0-9a-f]/gi, '');
+    if (hex.length < 6) {
+        hex = hex[0]+hex[0]+hex[1]+hex[1]+hex[2]+hex[2];
+    }
+    lum = lum || 0;
+    // convert to decimal and change luminosity
+    var rgb = "#", c, i;
+    for (i = 0; i < 3; i++) {
+        c = parseInt(hex.substr(i*2,2), 16);
+        c = Math.round(Math.min(Math.max(0, c + (c * lum)), 255)).toString(16);
+        rgb += ("00"+c).substr(c.length);
+    }
+    return rgb;
+}
+
+
 function llenarSelects(){
+  $(".atras-button").hide();
   d3.json("assets/data/listaRamas.json", function(error, dataRamas) {
     d3.json("assets/data/listaCategorias.json", function(error, data) {
       dataRamas.forEach(function(d) {
@@ -30,6 +50,18 @@ function actualizarCategorias(ramaID){
         value: 0,
         text: "Todas las categorias"
     }));
+  if(ramaID==0){
+    $(".atras-button").hide();
+  }else{
+    $(".atras-button").show();
+    for (var i = 0; i < ramasIDs.length; i++){
+      if(ramaID == ramasIDs[i].ID){
+        $(".title-categoria").text(ramasIDs[i].nombre);
+      }
+    }
+    $("#atras-bar-button").attr("onclick","actualizarCategorias(0)");
+  }
+  $('#selectRamas').val(ramaID);
     var cat;
 
   for (var i = 0; i < categoriasIDs.length; i++){
@@ -60,112 +92,27 @@ function actualizarCategorias(ramaID){
 
 function actualizarActividades(catID){
   var ramaID = $('#selectRamas').val();
+  $('#selectCategorias').val(catID);
+
   if(catID==0){
+    $("#atras-bar-button").attr("onclick","actualizarCategorias(0)");
     if(ramaID==0){
-      drawBarChart(ramasIDs);
+      actualizarCategorias(0);
     }else{
         filterData(categoriasIDs, "categorias", ramaID)
     }
+    $("#atras-bar-button").attr("onclick","actualizarCategorias(0)");
   }else{
+    $("#atras-bar-button").attr("onclick","actualizarActividades(0)");
+    for (var i = 0; i < categoriasIDs.length; i++){
+      if(catID == categoriasIDs[i].ID){
+        $(".title-categoria").text(categoriasIDs[i].nombre);
+      }
+    }
     drawActivities(catID);
   }
 
 }
-
-// var dataset = importDataRama();
-
-// function dibujarD3Ramas(tipoDato, data) {
-//   if(data!=null){
-//     dataset = data;
-//   }
-//   $("#bar-chart").empty();
-//   var y = "";
-//   if(tipoDato == "ali"){
-//     y = "alicuota_num";
-//   }else{
-//     y = "minimo";
-//   }
-//
-//     var visualization = d3plus.viz()
-//         .container("#bar-chart")
-//         .data(dataset)
-//         .type("bar")
-//         .id("rama_nombre")
-//         .x({"value":"rama", "scale":"discrete"})
-//         .y(y)
-//         .draw()
-// }
-//
-// function dibujarD3Categorias(tipoDato, data) {
-//   if(data!=null){
-//     dataset = data;
-//   }
-//   $("#bar-chart").empty();
-//   var y = "";
-//   if(tipoDato == "ali"){
-//     y = "alicuota_num";
-//   }else{
-//     y = "minimo";
-//   }
-//     var visualization = d3plus.viz()
-//         .container("#bar-chart")
-//         .data(dataset)
-//         .type("bar")
-//         .id("categoria_nombre")
-//         .x({"value":"categoria", "scale":"discrete"})
-//         .y(y)
-//         .draw()
-// }
-//
-// function dibujarD3Actividades(tipoDato, data) {
-//   if(data!=null){
-//     dataset = data;
-//   }
-//   $("#bar-chart").empty();
-//   var y = "";
-//   if(tipoDato == "ali"){
-//     y = "alicuota_num";
-//   }else{
-//     y = "minimo";
-//   }
-//     var visualization = d3plus.viz()
-//         .container("#bar-chart")
-//         .data(dataset)
-//         .type("bar")
-//         .id("nombre")
-//         .x({"value":"id", "scale":"discrete"})
-//         .y(y)
-//         .draw()
-// }
-//
-// function interfaceDibujar(tipoDato, ramaID, categoriaID,data){
-//   if(data!=null){
-//     dataset = data;
-//   }
-//   // console.log(dataset);
-//   // console.log(data);
-//   if (tipoDato == null){
-//     tipoDato = $('input[type=radio][name=radioTipoDato]:checked').val();
-//     console.log("Tipo Dato: " + tipoDato);
-//   }
-//   if (ramaID == null){
-//     ramaID = $("#selectRamas").val();
-//     console.log("Rama Dato: " +ramaID);
-//   }
-//   if (categoriaID == null){
-//     categoriaID = $("#selectCategorias").val();
-//     console.log("Cat Dato: " + categoriaID);
-//   }
-//   if(ramaID!=0){
-//     if(categoriaID==0){
-//       dibujarD3Categorias(tipoDato,null);
-//     }else{
-//       dibujarD3Actividades(tipoDato,null);
-//     }
-//   }else{
-//     dibujarD3Ramas(tipoDato,null);
-//   }
-// }
 
 function initBarChart(){
   llenarSelects();
@@ -187,6 +134,33 @@ function drawBarChart(data){
   // console.log(y);
   var visualization = d3plus.viz()
       .container("#bar-chart")
+      .format("es_ES")
+      .tooltip({"footer": function(dp, d3viz) {
+        if($("#selectRamas").val()!=0 && $("#selectCategorias").val()!=0){
+          return "<p class=\"d3plus_tooltip_footer_custom\">Click para Cerrar</p>"
+        }else{
+          return "<p class=\"d3plus_tooltip_footer_custom\">Click para Ampliar</p>";
+        }
+      }})
+      .mouse({
+        "click" : function(dp, d3viz) {
+            console.log(dp);
+            var color = $("#d3plus_group_"+dp.d3plus.id+" rect").attr("fill");
+            $(".atras-button").attr("style", "color:"+ColorLuminance(color,-0.2)+"!important;");
+            console.log(color);
+            if($("#selectRamas").val()==0){
+              $("#selectRamas").val(dp.ID);
+              actualizarCategorias(dp.ID);
+            }else if($("#selectCategorias").val()==0){
+              $("#selectCategorias").val(dp.ID);
+              actualizarActividades(dp.ID);
+            }else{
+              $("#selectRamas").val(dp.ramaID);
+              $("#selectCategorias").val(0);
+              actualizarCategorias(dp.ramaID);
+            }
+          }
+        })
       .data(data)
       .type("bar")
       .id("nombre")
@@ -206,13 +180,40 @@ function updateBarChart(){
   // console.log(data);
   // console.log(y);
   var visualization = d3plus.viz()
-      .container("#bar-chart")
-      .data(currentDataset)
-      .type("bar")
-      .id("nombre")
-      .x("nombre")
-      .y(y)
-      .draw()
+  .container("#bar-chart")
+  .format("es_ES")
+  .tooltip({"footer": function(dp, d3viz) {
+    if($("#selectRamas").val()!=0 && $("#selectCategorias").val()!=0){
+      return "<p class=\"d3plus_tooltip_footer_custom\">Click para Cerrar</p>"
+    }else{
+      return "<p class=\"d3plus_tooltip_footer_custom\">Click para Ampliar</p>";
+    }
+  }})
+  .mouse({
+    "click" : function(dp, d3viz) {
+        console.log(dp);
+        var color = $("#d3plus_group_"+dp.d3plus.id+" rect").attr("fill");
+        $(".atras-button").attr("style", "color:"+ColorLuminance(color,-0.2)+"!important;");
+        console.log(color);
+        if($("#selectRamas").val()==0){
+          $("#selectRamas").val(dp.ID);
+          actualizarCategorias(dp.ID);
+        }else if($("#selectCategorias").val()==0){
+          $("#selectCategorias").val(dp.ID);
+          actualizarActividades(dp.ID);
+        }else{
+          $("#selectRamas").val(dp.ramaID);
+          $("#selectCategorias").val(0);
+          actualizarCategorias(dp.ramaID);
+        }
+      }
+    })
+  .data(currentDataset)
+  .type("bar")
+  .id("nombre")
+  .x("nombre")
+  .y(y)
+  .draw()
 }
 
 function filterData(dataset, filterType, filterValue){ //Si recibe filterValue 0 devuelve lo que recibe en dataset

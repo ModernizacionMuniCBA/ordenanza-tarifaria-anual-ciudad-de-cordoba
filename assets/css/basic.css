@@ -161,3 +161,42 @@ body {
 	height: 600px;
 	margin-top: 15px;
 }
+
+.d3plus_tooltip_data_title{
+	display: none;
+}
+
+.D3Plus_Tooltip_Footer_Custom{
+	color: #999;
+	font-size: 0.9em;
+	margin-bottom: -20px;
+	text-transform: capitalize;
+}
+
+rect.d3plus_data:hover{
+	cursor: pointer;
+}
+
+.atras-button{
+	margin-top: 20px;
+	margin-bottom: -10px;
+	margin-left: 60px;
+	text-align: center;
+}
+.atras-button p{
+	display: inline;
+}
+
+#atras-bar-button{
+	float: left;
+	color: inherit;
+
+}
+
+#atras-bar-button:hover{
+	text-decoration:underline;
+}
+
+.title-categoria{
+	font-size: 0.9em;
+}
