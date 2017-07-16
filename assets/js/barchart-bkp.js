@@ -1,8 +1,7 @@
 var ramaIDs;
 var categoriasIDs;
-
 function llenarSelects(){
-  d3.json("assets/data/listaRamas.json", function(error, data) {
+  d3.csv("assets/data/RamasDeActividad-2017.csv", function(error, data) {
     data.forEach(function(d) {
       d.id = +d.id;
       d.nombre = d.nombre;
@@ -13,7 +12,7 @@ function llenarSelects(){
     });
     ramasIDs = data;
   });
-  d3.json("assets/data/listaCategorias.json", function(error, data) {
+  d3.csv("assets/data/CategoriasDeActividad-2017.csv", function(error, data) {
     data.forEach(function(d) {
       d.id = +d.id;
       d.rama = +d.rama;
@@ -29,7 +28,7 @@ function llenarSelects(){
 llenarSelects();
 
 function actualizarCategorias(ramaID){
-  d3.json("assets/data/listaCategorias.json", function(error, data) {
+  d3.csv("assets/data/CategoriasDeActividad-2017.csv", function(error, data) {
     $('#selectCategorias')
       .find('option')
       .remove();
@@ -38,6 +37,9 @@ function actualizarCategorias(ramaID){
           text: "Todas las categorias"
       }));
     data.forEach(function(d) {
+      d.id = +d.id;
+      d.rama = +d.rama;
+      d.nombre = d.nombre;
       if(ramaID==0){
         $('#selectCategorias').append($('<option>', {
             value: d.id,
@@ -130,8 +132,8 @@ function interfaceDibujar(tipoDato, ramaID, categoriaID,data){
   if(data!=null){
     dataset = data;
   }
-  // console.log(dataset);
-  // console.log(data);
+  console.log(dataset);
+  console.log(data);
   if (tipoDato == null){
     tipoDato = $('input[type=radio][name=radioTipoDato]:checked').val();
     console.log("Tipo Dato: " + tipoDato);

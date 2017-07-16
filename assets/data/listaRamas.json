@@ -1,0 +1,54 @@
+[
+    {
+        "ID": 7, 
+        "nombre": "ACTIVIDADES COMERCIALES POR MAYOR"
+    }, 
+    {
+        "ID": 1, 
+        "nombre": "ACTIVIDADES COMERCIALES POR MENOR"
+    }, 
+    {
+        "ID": 4, 
+        "nombre": "ACTIVIDADES FINANCIERAS"
+    }, 
+    {
+        "ID": 2, 
+        "nombre": "ACTIVIDADES INDUSTRIALES"
+    }, 
+    {
+        "ID": 3, 
+        "nombre": "ACTIVIDADES PRIMARIAS"
+    }, 
+    {
+        "ID": 6, 
+        "nombre": "BIENES MUEBLES E INMUEBLES"
+    }, 
+    {
+        "ID": 9, 
+        "nombre": "COMUNICACIONES"
+    }, 
+    {
+        "ID": 10, 
+        "nombre": "CONSTRUCCI\u00d3N"
+    }, 
+    {
+        "ID": 11, 
+        "nombre": "ELECTRICIDAD, GAS Y SIMILARES"
+    }, 
+    {
+        "ID": 12, 
+        "nombre": "OTRAS ACTIVIDADES"
+    }, 
+    {
+        "ID": 13, 
+        "nombre": "SEGUROS"
+    }, 
+    {
+        "ID": 5, 
+        "nombre": "SERVICIOS"
+    }, 
+    {
+        "ID": 8, 
+        "nombre": "TRANSPORTE"
+    }
+]

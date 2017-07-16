@@ -29,7 +29,7 @@ function importDataRama(){
         d.rama_nombre = getRamaNombre(d.rama);
       });
       // console.log(data);
-      interfaceDibujar(null,null,null,data);
+      // interfaceDibujar(null,null,null,data);
     });
 }
 

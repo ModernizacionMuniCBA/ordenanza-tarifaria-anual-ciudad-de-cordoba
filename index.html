@@ -81,8 +81,8 @@
               </div>
               <!-- Nav tabs -->
               <ul class="nav nav-tabs" role="tablist">
-                <li role="presentation"><a href="#nodos" aria-controls="nodos" role="tab" data-toggle="tab" class="tab-left">Gráfico de Nodos</a></li>
-                <li role="presentation" class="active"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab" class="tab-right">Gráfico de Barras</a></li>
+                <li role="presentation"><a href="#nodos" aria-controls="nodos" role="tab" data-toggle="tab" class="tab-left" id="nodo-tab">Gráfico de Nodos</a></li>
+                <li role="presentation" class="active"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab" class="tab-right" id="barra-tab">Gráfico de Barras</a></li>
               </ul>
 
             </div>
@@ -111,6 +111,17 @@
                 interfaceDibujar("min",null,null,null);
             }
         });
+
+        $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+          var activeTab = $(e.target).attr('id');
+          if(activeTab == "nodo-tab"){
+            // interfaceDibujar(null,null,null,null);
+          }else{
+            interfaceDibujar(null,null,null,null);
+          }
+        })
+
+
     });
     </script>
   </body>

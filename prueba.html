@@ -55,11 +55,11 @@
             <div>
               <!-- Tab panes -->
               <div class="tab-content">
-                <div role="tabpanel" class="tab-pane fade" id="nodos">
+                <div role="tabpanel" class="tab-pane fade in active" id="nodos">
                   Nodos
                   <div id="node-chart"></div>
                 </div>
-                <div role="tabpanel" class="tab-pane fade in active" id="barras"><span style="color:#FFF">.</span>
+                <div role="tabpanel" class="tab-pane fade" id="barras"><span style="color:#FFF">.</span>
                   <div class="select-categoria pull-left form-inline">
                     <select class="form-control input-tamano" id="selectRamas" name="obj0" onchange="actualizarCategorias(this.value);">
                       <option value="0" selected="">Todas las ramas</option>
@@ -81,8 +81,8 @@
               </div>
               <!-- Nav tabs -->
               <ul class="nav nav-tabs" role="tablist">
-                <li role="presentation"><a href="#nodos" aria-controls="nodos" role="tab" data-toggle="tab" class="tab-left">Gráfico de Nodos</a></li>
-                <li role="presentation" class="active"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab" class="tab-right">Gráfico de Barras</a></li>
+                <li role="presentation" class="active"><a href="#nodos" aria-controls="nodos" role="tab" data-toggle="tab" class="tab-left">Gráfico de Nodos</a></li>
+                <li role="presentation"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab" class="tab-right">Gráfico de Barras</a></li>
               </ul>
 
             </div>

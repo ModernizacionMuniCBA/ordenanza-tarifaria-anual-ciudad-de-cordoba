@@ -1,0 +1,397 @@
+[
+    {
+        "ID": 5, 
+        "nombre": "AGRICULTURA", 
+        "ramaID": 3
+    }, 
+    {
+        "ID": 14, 
+        "nombre": "ALQUILER Y ARRENDAMIENTO DE M\u00c1QUINAS, AUTOS Y EQUIPOS", 
+        "ramaID": 6
+    }, 
+    {
+        "ID": 71, 
+        "nombre": "CAPTACI\u00d3N, PURIFICACI\u00d3N Y DISTRIBUCI\u00d3N DE AGUA", 
+        "ramaID": 11
+    }, 
+    {
+        "ID": 35, 
+        "nombre": "COMUNICACIONES_", 
+        "ramaID": 9
+    }, 
+    {
+        "ID": 36, 
+        "nombre": "CONSTRUCCI\u00d3N PESADA Y EDIFICIOS, REFORMA, REPARACI\u00d3N Y PRESTACIONES RELACIONADAS CON LA CONSTRUCCI\u00d3N", 
+        "ramaID": 10
+    }, 
+    {
+        "ID": 39, 
+        "nombre": "CR\u00cdA DE ANIMALES", 
+        "ramaID": 3
+    }, 
+    {
+        "ID": 29, 
+        "nombre": "DEP\u00d3SITO Y ALMACENAMIENTO", 
+        "ramaID": 8
+    }, 
+    {
+        "ID": 72, 
+        "nombre": "DEP\u00d3SITO Y VENTA POR MAYOR DE MADERA, PAPEL Y DERIVADOS", 
+        "ramaID": 7
+    }, 
+    {
+        "ID": 43, 
+        "nombre": "DEP\u00d3SITO Y VENTA POR MAYOR DE TEXTILES, PRENDAS DE VESTIR Y CUERO; ACCESORIOS DE VESTIR", 
+        "ramaID": 7
+    }, 
+    {
+        "ID": 40, 
+        "nombre": "DEP\u00d3SITO, DISTRIBUCI\u00d3N Y VENTA POR MAYOR DE OTROS ART\u00cdCULOS", 
+        "ramaID": 7
+    }, 
+    {
+        "ID": 79, 
+        "nombre": "DEP\u00d3SITO, DISTRIBUCI\u00d3N Y VENTA POR MAYOR DE PRODUCTOS MET\u00c1LICOS", 
+        "ramaID": 7
+    }, 
+    {
+        "ID": 17, 
+        "nombre": "DEP\u00d3SITO, DISTRIBUCI\u00d3N Y VENTA POR MAYOR DE SUSTANCIAS QU\u00cdMICAS INDUSTRIALES; PRODUCTOS QU\u00cdMICOS Y DERIVADOS DEL PETR\u00d3LEO", 
+        "ramaID": 7
+    }, 
+    {
+        "ID": 56, 
+        "nombre": "DEP\u00d3SITO, DISTRIBUCI\u00d3N Y VENTA POR MENOR DE MATERIALES PARA LA CONSTRUCCI\u00d3N", 
+        "ramaID": 1
+    }, 
+    {
+        "ID": 9, 
+        "nombre": "ELABORACI\u00d3N DE PRODUCTOS ALIMENTARIOS DIVERSOS", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 47, 
+        "nombre": "ELECTRICIDAD, GAS Y VAPOR", 
+        "ramaID": 11
+    }, 
+    {
+        "ID": 7, 
+        "nombre": "ESTABLECIMIENTOS Y SERVICIOS FINANCIEROS", 
+        "ramaID": 4
+    }, 
+    {
+        "ID": 62, 
+        "nombre": "EXPENDIO DE COMIDAS Y BEBIDAS EN RESTAURANTE, CAF\u00c9S Y CON SERVICIO DE MESA Y MOSTRADOR", 
+        "ramaID": 5
+    }, 
+    {
+        "ID": 66, 
+        "nombre": "EXPLOTACI\u00d3N DE CANTERAS Y EXTRACCI\u00d3N DE MINERALES NO MET\u00c1LICOS NO CLASIFICADOS EN OTRA PARTE", 
+        "ramaID": 3
+    }, 
+    {
+        "ID": 64, 
+        "nombre": "EXPLOTACI\u00d3N DE MINAS DE CARB\u00d3N, PETR\u00d3LEO CRUDO Y GAS NATURAL", 
+        "ramaID": 3
+    }, 
+    {
+        "ID": 75, 
+        "nombre": "EXTRACCI\u00d3N DE MINERALES MET\u00c1LICOS", 
+        "ramaID": 3
+    }, 
+    {
+        "ID": 13, 
+        "nombre": "EXTRACCI\u00d3N DE PIEDRA, PIEDRA CALIZA, ARCILLA Y ARENA", 
+        "ramaID": 3
+    }, 
+    {
+        "ID": 70, 
+        "nombre": "FABRICACI\u00d3N DE CALZADO EXCEPTO EL DE CAUCHO VULCANIZADO O MOLDEADOS O DE PL\u00c1STICO", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 10, 
+        "nombre": "FABRICACI\u00d3N DE EQUIPOS DE TRANSPORTE", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 68, 
+        "nombre": "FABRICACI\u00d3N DE MUEBLES Y ACCESORIOS DE MADERA, CA\u00d1A, MIMBRE Y OTROS, EXCEPTO LOS QUE SON MET\u00c1LICOS O DE PL\u00c1STICO", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 45, 
+        "nombre": "FABRICACI\u00d3N DE OBJETOS DE BARRO, LOZA, PORCELANA Y CER\u00c1MICA", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 15, 
+        "nombre": "FABRICACI\u00d3N DE OTROS PRODUCTOS MINERALES NO MET\u00c1LICOS", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 4, 
+        "nombre": "FABRICACI\u00d3N DE PAPEL Y PRODUCTOS DE PAPEL", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 69, 
+        "nombre": "FABRICACI\u00d3N DE PRENDAS DE VESTIR EXCEPTO CALZADOS", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 23, 
+        "nombre": "FABRICACI\u00d3N DE PRODUCTOS ALIMENTARIOS EXCEPTO BEBIDAS", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 22, 
+        "nombre": "FABRICACI\u00d3N DE PRODUCTOS DE CAUCHO", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 44, 
+        "nombre": "FABRICACI\u00d3N DE PRODUCTOS DIVERSOS DERIVADOS DEL PETR\u00d3LEO Y CARB\u00d3N", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 32, 
+        "nombre": "FABRICACI\u00d3N DE PRODUCTOS MET\u00c1LICOS EXCEPTO MAQUINARIA Y EQUIPOS", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 65, 
+        "nombre": "FABRICACI\u00d3N DE PRODUCTOS PL\u00c1STICOS DIVERSOS", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 3, 
+        "nombre": "FABRICACI\u00d3N DE PRODUCTOS QU\u00cdMICOS DIVERSOS", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 12, 
+        "nombre": "FABRICACI\u00d3N DE SUSTANCIAS QU\u00cdMICAS INDUSTRIALES B\u00c1SICAS", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 52, 
+        "nombre": "FABRICACI\u00d3N DE TEXTILES", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 58, 
+        "nombre": "FABRICACI\u00d3N DE VIDRIO Y PRODUCTOS DE VIDRIO", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 48, 
+        "nombre": "FABRICACI\u00d3N Y REPARACI\u00d3N DE EQUIPOS PROFESIONALES Y CIENT\u00cdFICOS, INSTRUMENTOS DE MEDIDA Y CONTROL, FOTOGR\u00c1FICOS Y DE \u00d3PTICA, RELOJES", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 26, 
+        "nombre": "FABRICACI\u00d3N Y REPARACI\u00d3N DE MAQUINARIA EXCEPTO LA EL\u00c9CTRICA", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 50, 
+        "nombre": "FABRICACI\u00d3N Y REPARACI\u00d3N DE MAQUINARIAS, APARATOS, ACCESORIOS Y SUMINISTROS EL\u00c9CTRICOS Y ELECTR\u00d3NICOS", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 63, 
+        "nombre": "FRACCIONAMIENTO Y VENTA POR MAYOR DE BEBIDAS Y TABACOS", 
+        "ramaID": 7
+    }, 
+    {
+        "ID": 24, 
+        "nombre": "FRACCIONAMIENTO, VENTA AL POR MAYOR DE MATERIAS PRIMAS AGROPECUARIAS, DE ANIMALES VIVOS Y ALIMENTOS (EXCEPTO COMISI\u00d3N O CONSIGNACI\u00d3N)", 
+        "ramaID": 7
+    }, 
+    {
+        "ID": 33, 
+        "nombre": "IMPRENTAS, EDITORIALES E INDUSTRIAS CONEXAS", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 2, 
+        "nombre": "INDUSTRIA DE LA MADERA Y PRODUCTOS DE MADERA, DE CORCHO, PAJA Y MATERIALES TRENZABLES, EXCEPTO MUEBLES", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 18, 
+        "nombre": "INDUSTRIA DEL CUERO, PRODUCTOS Y SUCED\u00c1NEOS DE CUERO Y PIELES (EXCEPTO CALZADOS Y PRENDAS DE VESTIR)", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 54, 
+        "nombre": "INDUSTRIA DEL TABACO", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 55, 
+        "nombre": "INDUSTRIAS B\u00c1SICAS DE HIERRO Y ACERO", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 73, 
+        "nombre": "INDUSTRIAS B\u00c1SICAS DE METALES NO FERROSOS INCLUYENDO METALES PRECIOSOS", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 19, 
+        "nombre": "INDUSTRIAS DE BEBIDAS", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 21, 
+        "nombre": "INSTRUCCI\u00d3N Y ENSE\u00d1ANZA", 
+        "ramaID": 5
+    }, 
+    {
+        "ID": 49, 
+        "nombre": "MANTENIMIENTO Y REPARACI\u00d3N DE AUTOMOTORES Y MOTOCICLETAS", 
+        "ramaID": 10
+    }, 
+    {
+        "ID": 74, 
+        "nombre": "OTRAS ACTIVIDADES_", 
+        "ramaID": 12
+    }, 
+    {
+        "ID": 31, 
+        "nombre": "OTRAS INDUSTRIAS MANUFACTURERAS", 
+        "ramaID": 2
+    }, 
+    {
+        "ID": 76, 
+        "nombre": "PLAYAS DE ESTACIONAMIENTO", 
+        "ramaID": 6
+    }, 
+    {
+        "ID": 77, 
+        "nombre": "SEGUROS_", 
+        "ramaID": 13
+    }, 
+    {
+        "ID": 8, 
+        "nombre": "SERVICIO DE ALOJAMIENTO, COMIDA Y HOSPEDAJE EN HOTELES Y OTROS LUGARES DE ALOJAMIENTO", 
+        "ramaID": 5
+    }, 
+    {
+        "ID": 67, 
+        "nombre": "SERVICIO DE LAVANDER\u00cdA, ESTABLECIMIENTOS DE LIMPIEZA Y TE\u00d1IDO", 
+        "ramaID": 5
+    }, 
+    {
+        "ID": 11, 
+        "nombre": "SERVICIO DE REPARACI\u00d3N DE ART\u00cdCULOS PERSONALES Y DEL HOGAR Y/U OTROS", 
+        "ramaID": 5
+    }, 
+    {
+        "ID": 6, 
+        "nombre": "SERVICIOS AGR\u00cdCOLAS Y PECUARIOS", 
+        "ramaID": 3
+    }, 
+    {
+        "ID": 51, 
+        "nombre": "SERVICIOS CONEXOS CON LOS DE TRANSPORTE", 
+        "ramaID": 8
+    }, 
+    {
+        "ID": 20, 
+        "nombre": "SERVICIOS DE DIVERSI\u00d3N, ESPARCIMIENTO, CULTURAL Y DEPORTIVOS", 
+        "ramaID": 5
+    }, 
+    {
+        "ID": 42, 
+        "nombre": "SERVICIOS DE SANEAMIENTO Y SIMILARES", 
+        "ramaID": 5
+    }, 
+    {
+        "ID": 57, 
+        "nombre": "SERVICIOS INMOBILIARIOS", 
+        "ramaID": 6
+    }, 
+    {
+        "ID": 41, 
+        "nombre": "SERVICIOS PERSONALES N.C.P.", 
+        "ramaID": 5
+    }, 
+    {
+        "ID": 46, 
+        "nombre": "SERVICIOS RELACIONADOS CON LA SALUD HUMANA", 
+        "ramaID": 5
+    }, 
+    {
+        "ID": 16, 
+        "nombre": "SERVICIOS RELACIONADOS CON PEL\u00cdCULAS, RADIO, TV, OBRAS Y ESPECT\u00c1CULOS TEATRALES Y MUSICALES", 
+        "ramaID": 5
+    }, 
+    {
+        "ID": 28, 
+        "nombre": "SERVICIOS T\u00c9CNICOS Y EMPRESARIALES, EXCEPTO LOS SOCIALES Y COMUNALES", 
+        "ramaID": 6
+    }, 
+    {
+        "ID": 37, 
+        "nombre": "SILVICULTURA, EXTRACCI\u00d3N DE MADERA Y VIVEROS", 
+        "ramaID": 3
+    }, 
+    {
+        "ID": 59, 
+        "nombre": "TRANSPORTE A\u00c9REO", 
+        "ramaID": 8
+    }, 
+    {
+        "ID": 38, 
+        "nombre": "TRANSPORTE TERRESTRE", 
+        "ramaID": 8
+    }, 
+    {
+        "ID": 78, 
+        "nombre": "VENTA AL POR MAYOR DE AUTOMOTORES,  MOTONETAS Y MOTOCICLETAS", 
+        "ramaID": 7
+    }, 
+    {
+        "ID": 34, 
+        "nombre": "VENTA AL POR MAYOR EN COMISI\u00d3N O CONSIGNACI\u00d3N", 
+        "ramaID": 7
+    }, 
+    {
+        "ID": 27, 
+        "nombre": "VENTA AL POR MENOR DE ART\u00cdCULOS DIVERSOS", 
+        "ramaID": 1
+    }, 
+    {
+        "ID": 30, 
+        "nombre": "VENTA AL POR MENOR DE PRODUCTOS ALIMENTICIOS Y BEBIDAS", 
+        "ramaID": 1
+    }, 
+    {
+        "ID": 1, 
+        "nombre": "VENTA AL POR MENOR DE TEXTILES, PRENDAS Y ACCESORIOS DE VESTIR, Y PRODUCTOS DE CUERO", 
+        "ramaID": 1
+    }, 
+    {
+        "ID": 53, 
+        "nombre": "VENTA AL POR MENOR EN CIGARRER\u00cdAS. AGENCIAS DE LOTER\u00cdA Y OTROS JUEGOS DE AZAR", 
+        "ramaID": 1
+    }, 
+    {
+        "ID": 60, 
+        "nombre": "VENTA DE AUTOMOTORES,  MOTONETAS Y MOTOCICLETAS", 
+        "ramaID": 1
+    }, 
+    {
+        "ID": 25, 
+        "nombre": "VENTA POR MAYOR DE MATERIALES PARA LA CONSTRUCCI\u00d3N", 
+        "ramaID": 7
+    }, 
+    {
+        "ID": 61, 
+        "nombre": "VENTA POR MAYOR DE MOTORES, M\u00c1QUINAS Y EQUIPOS", 
+        "ramaID": 7
+    }
+]
