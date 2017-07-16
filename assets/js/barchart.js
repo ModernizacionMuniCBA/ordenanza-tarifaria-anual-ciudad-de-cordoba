@@ -145,6 +145,15 @@ function drawBarChart(data){
   }
   // console.log(data);
   // console.log(y);
+  function getTooltipData(){
+    if($("#selectRamas").val()==0){
+
+    }else if($("#selectCategorias").val()==0){
+
+    }else{
+      return ["alicuota", "minimo"];
+    }
+  }
   var visualization = d3plus.viz()
       .container("#bar-chart")
       .format("es_ES")
@@ -155,6 +164,7 @@ function drawBarChart(data){
           return "<p class=\"d3plus_tooltip_footer_custom\">Click para Ampliar</p>";
         }
       }})
+      .tooltip(getTooltipData())   // list the keys to show in tooltip
       .tooltip({"large":getTooltipWidth(), "small":getTooltipWidth()})
       .format({
           "number": function(number, key) {
