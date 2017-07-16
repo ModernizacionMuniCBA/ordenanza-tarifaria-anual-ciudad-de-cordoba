@@ -85,13 +85,13 @@ with open(fActividades) as csvfile:
     for row in reader:
             categoria_nom = buscarNombrePorID(int(row["categoria"]), fjson2)
             linea = {"ID": int(row["id"]),
-                     "categoria": int(row["categoria"]),
+                     "categoriaID": int(row["categoria"]),
                      "codigo": row["codigo"],
                      "nombre": row["nombre"],
                      "minimo": float(row["minimo"]),
-                     "alicuota_num":  float(row["alicuota_num"]),
+                     "alicuota":  float(row["alicuota_num"]),
                      "categoria_nombre": categoria_nom,
-                     "rama": int(buscarRamaPorCategoria(int(row["categoria"]),fjson2)),
+                     "ramaID": int(buscarRamaPorCategoria(int(row["categoria"]),fjson2)),
                      "rama_nombre": buscarNombrePorID(buscarRamaPorCategoria(int(row["categoria"]),fjson2), fjson1)
                       }
             fjson3.append(linea)
@@ -101,32 +101,33 @@ with open(fActividades) as csvfile:
             # fjsonConnectionNodes.append(connection)
 
 
+
 def getMinimoTotalRama(rama):
     total = 0
     for act in fjson3:
-        if(int(act["rama"]) == rama):
+        if(int(act["ramaID"]) == rama):
             total += act["minimo"]
     return total
 
 def getAlicuotaTotalRama(rama):
     total = 0
     for act in fjson3:
-        if(int(act["rama"]) == rama):
-            total += act["alicuota_num"]
+        if(int(act["ramaID"]) == rama):
+            total += act["alicuota"]
     return total
 
 def getMinimoTotalCategoria(categoria):
     total = 0
     for act in fjson3:
-        if(int(act["categoria"]) == categoria):
+        if(int(act["categoriaID"]) == categoria):
             total += act["minimo"]
     return total
 
 def getAlicuotaTotalCategoria(categoria):
     total = 0
     for act in fjson3:
-        if(int(act["categoria"]) == categoria):
-            total += act["alicuota_num"]
+        if(int(act["categoriaID"]) == categoria):
+            total += act["alicuota"]
     return total
 #
 # i = 0
@@ -138,6 +139,9 @@ for rama in fjson1:
                 "size": getAlicuotaTotalRama(int(rama["ID"]))}
     fjsonDataNodesMin.append(ramaInfoMin)
     fjsonDataNodesAli.append(ramaInfoAli)
+
+    rama["alicuota"] = getAlicuotaTotalRama(int(rama["ID"]))
+    rama["minimo"] = getMinimoTotalRama(int(rama["ID"]))
     # rama["x"] = i
     # rama["y"] = j
     # # i+=10
@@ -153,6 +157,9 @@ for categoria in fjson2:
                 "size": getAlicuotaTotalCategoria(int(categoria["ID"]))}
     fjsonDataNodesMin.append(catInfoMin)
     fjsonDataNodesAli.append(catInfoAli)
+
+    categoria["alicuota"] = getAlicuotaTotalCategoria(int(categoria["ID"]))
+    categoria["minimo"] = getMinimoTotalCategoria(int(categoria["ID"]))
     # categoria["x"] = i
     # categoria["y"] = j
     # i+=10
@@ -166,7 +173,7 @@ for actividad in fjson3:
     actInfoMin = {"name": actividad["nombre"],
                 "size": actividad["minimo"]}
     actInfoAli = {"name": actividad["nombre"],
-                "size": actividad["alicuota_num"]}
+                "size": actividad["alicuota"]}
     fjsonDataNodesMin.append(actInfoMin)
     fjsonDataNodesAli.append(actInfoAli)
 #     actividad["x"] = i

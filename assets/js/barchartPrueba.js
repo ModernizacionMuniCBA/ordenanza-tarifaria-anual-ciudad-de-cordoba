@@ -80,29 +80,29 @@ var nodeData;
 var nodePositions;
 var nodeConnections;
 
-  d3.json("assets/data/connections.json", function(error, dataCon) {
-    d3.json("assets/data/positions.json", function(error, dataPos) {
-      d3.json("assets/data/dataInfoAlicuotas.json", function(error, dataData) {
-        nodeData = dataData;
-        // console.log(dataData);
-        nodePositions = dataPos;
-        // console.log(dataPos);
-        nodeConnections = dataCon;
-        // console.log(dataCon);
-
-        var visualization = d3plus.viz()
-          .container("#node-chart")  // container DIV to hold the visualization
-          .type("network")    // visualization type
-          .data(nodeData)  // sample dataset to attach to nodes
-          // .nodes(nodePositions)   // x and y position of nodes
-          .edges(nodeConnections) // list of node connections
-          .size("size")       // key to size the nodes
-          .id("name")         // key for which our data is unique on
-          .draw()             // finally, draw the visualization!
-
-      });
-    });
-  });
+  // d3.json("assets/data/connections.json", function(error, dataCon) {
+  //   d3.json("assets/data/positions.json", function(error, dataPos) {
+  //     d3.json("assets/data/dataInfoAlicuotas.json", function(error, dataData) {
+  //       nodeData = dataData;
+  //       // console.log(dataData);
+  //       nodePositions = dataPos;
+  //       // console.log(dataPos);
+  //       nodeConnections = dataCon;
+  //       // console.log(dataCon);
+  //
+  //       var visualization = d3plus.viz()
+  //         .container("#node-chart")  // container DIV to hold the visualization
+  //         .type("network")    // visualization type
+  //         .data(nodeData)  // sample dataset to attach to nodes
+  //         // .nodes(nodePositions)   // x and y position of nodes
+  //         .edges(nodeConnections) // list of node connections
+  //         .size("size")       // key to size the nodes
+  //         .id(["name","categoria"])         // key for which our data is unique on
+  //         .draw()             // finally, draw the visualization!
+  //
+  //     });
+  //   });
+  // });
 
   function filterJSON(json, key, value) {
     var result = {};
@@ -126,18 +126,19 @@ var nodeConnections;
 
 // console.log(data);
 
-// BARRAS
-// var visualization = d3plus.viz()
-//     .container("#bar-chart")
-//     .legend({"size": 30})
-//     .tooltip(true)
-//     .data(actividades)
-//     .type("bar")
-//     .id(["rama", "categoria", "nombre"])
-//     .format("es_ES")
-//     .x("rama")
-//     .y("minimo")
-//     .draw();
+d3.json("assets/data/listaActividades.json", function(error, actividades) {
+  var visualization = d3plus.viz()
+      .container("#bar-chart")
+      .legend({"size": 30})
+      .tooltip(true)
+      .data(actividades)
+      .type("bar")
+      .id(["rama_nombre", "categoria_nombre", "nombre"])
+      .format("es_ES")
+      .x("rama_nombre")
+      .y("minimo")
+      .draw();
+});
 
 //NODOS
 
