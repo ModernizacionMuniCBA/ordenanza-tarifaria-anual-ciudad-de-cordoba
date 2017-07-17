@@ -80,7 +80,7 @@
                     <p><span class="title-categoria"></span></p></div>
                   <div id="bar-chart"></div>
                 </div>
-                <div role="tabpanel" class="tab-pane fade" id="arbol">
+                <!-- <div role="tabpanel" class="tab-pane fade" id="arbol">
                   <div class="radio-eleccion-datos pull-right">
                     <label class="radio-inline">
                       <input type="radio" name="radioTipoDatoTM" id="alicuota" value="ali" checked> Alicuota
@@ -90,13 +90,13 @@
                     </label>
                   </div>
                   <div id="tree-chart"></div>
-                </div>
+                </div> -->
               </div>
               <!-- Nav tabs -->
-              <ul class="nav nav-tabs" role="tablist">
+              <!-- <ul class="nav nav-tabs" role="tablist">
                 <li role="presentation" class="active"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab" class="tab-left" id="barra-tab">Gráfico de Barras</a></li>
                 <li role="presentation"><a href="#arbol" aria-controls="arbol" role="tab" data-toggle="tab" class="tab-right" id="arbol-tab">Gráfico de Árbol</a></li>
-              </ul>
+              </ul> -->
 
             </div>
           </div>
@@ -115,8 +115,9 @@
     <script src="assets/js/barchart.js"></script>
     <script>
     $(document).ready(function() {
-        initBarChart();
+        initGraphs();
         $('input[type=radio][name=radioTipoDato]').change(function() {
+            setHash(null,null,null);
             updateBarChart();
         });
         $('input[type=radio][name=radioTipoDatoTM]').change(function() {
@@ -133,7 +134,9 @@
             // interfaceDibujar(null,null,null,null);
           }
         })
-
+        $('#atras-bar-button').click(function(event) {
+            event.preventDefault();
+        });
 
     });
     </script>

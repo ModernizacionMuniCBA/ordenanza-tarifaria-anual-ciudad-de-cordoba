@@ -20,7 +20,7 @@ function ColorLuminance(hex, lum) {
 }
 
 
-function llenarSelects(){
+function initGraphs(){
   $(".atras-button").hide();
   d3.json("assets/data/listaRamas.json", function(error, dataRamas) {
     d3.json("assets/data/listaCategorias.json", function(error, data) {
@@ -38,11 +38,13 @@ function llenarSelects(){
         }));
       });
     categoriasIDs = data;
+    getHash();
     });
   });
 }
 
 function actualizarCategorias(ramaID){
+  setHash(null,ramaID,null);
   $('#selectCategorias')
     .find('option')
     .remove();
@@ -93,7 +95,7 @@ function actualizarCategorias(ramaID){
 function actualizarActividades(catID){
   var ramaID = $('#selectRamas').val();
   $('#selectCategorias').val(catID);
-
+  setHash(null,ramaID,catID);
   if(catID==0){
     $("#atras-bar-button").attr("onclick","actualizarCategorias(0)");
     if(ramaID==0){
@@ -115,7 +117,6 @@ function actualizarActividades(catID){
 }
 
 function initBarChart(){
-  llenarSelects();
   d3.json("assets/data/listaRamas.json", function(error, data) {
     drawBarChart(data);
   });
@@ -320,4 +321,55 @@ function drawActivities(filterValue){
     // console.log(data);
     filterData(data, "actividades", filterValue);
   });
+}
+
+function setHash(tipoDato, ramaID, catID){
+  if(tipoDato == null){
+    tipoDato = $('input[type=radio][name=radioTipoDato]:checked').val();
+    if(tipoDato == "ali"){
+      tipoDato = "a";
+    }else{
+      tipoDato = "m";
+    }
+  }
+  if(ramaID == null){
+    ramaID = $('#selectRamas').val();
+  }
+  if(catID == null){
+    catID = $('#selectCategorias').val();
+  }
+  hash = tipoDato+"-"+ramaID+"-"+catID
+  window.location.hash = hash;
+}
+
+function getHash(){
+  var hash = window.location.hash.substr(1);
+  console.log(hash);
+  var hash_splited = hash.split("-");
+  var tipoDato = hash_splited[0];
+  var ramaID = hash_splited[1];
+  var catID = hash_splited[2];
+  console.log(ramaID);
+  console.log(catID);
+  $("#selectRamas").val(ramaID);
+  $("#selectCategorias").val(catID);
+  if(tipoDato == "a"){
+    tipoDato = "ali";
+  }else{
+    tipoDato = "min";
+  }
+  $('input[type=radio][name=radioTipoDato][value="'+tipoDato+'"]').prop("checked",true);
+  if(ramaID!=0){
+    if(catID==0){
+      actualizarCategorias(ramaID);
+    }else{
+      actualizarActividades(catID);
+    }
+  }else{
+    if(catID==0){
+      initBarChart();
+    }else{
+      actualizarActividades(catID);
+    }
+  }
 }
