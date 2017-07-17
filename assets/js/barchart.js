@@ -100,8 +100,15 @@ function actualizarActividades(catID){
   var ramaID = $('#selectRamas').val();
   $('#selectCategorias').val(catID);
   setHash(null,null,ramaID,catID);
+  $(".atras-button").show();
   if(catID==0){
     $("#atras-bar-button").attr("onclick","actualizarCategorias(0)");
+    for (var i = 0; i < ramasIDs.length; i++){
+      if(ramasIDs[i].ID == ramaID){
+        $(".title-categoria").text(ramasIDs[i].nombre);
+        break;
+      }
+    }
     if(ramaID==0){
       actualizarCategorias(0);
     }else{
@@ -158,6 +165,7 @@ function drawBarChart(data){
   }
   // console.log(data);
   // console.log(y);
+
   var visualization = d3plus.viz()
       .container("#bar-chart")
       .format("es_ES")
@@ -219,13 +227,15 @@ function drawBarChart(data){
       .data(data)
       .type("bar")
       .id("nombre")
-      // .x(y)
-      // .y({"value":"nombre", "scale":"discrete"})
+      // .x({"value":"nombre", "scale":"discrete"})
+      // .y(y)
       .x(getXifMobile())
       .y(getYifMobile())
+
       .draw()
 }
 function getXifMobile(){
+  // console.log(dp);
   tipoDato = $('input[type=radio][name=radioTipoDato]:checked').val();
   if(tipoDato == "ali"){
     y = "alicuota";
@@ -237,7 +247,13 @@ function getXifMobile(){
    // some code..
    return {"value":"nombre", "scale":"discrete"};
   }else{
-   return y;
+    if($("#selectRamas").val()==0){
+      return y;
+    }else if($("#selectCategorias").val()==0){
+      return y;
+    }else{
+      return {"value":"nombre", "scale":"discrete"};
+    }
   }
 
 }
@@ -252,7 +268,13 @@ function getYifMobile(){
    // some code..
    return y;
   }else{
-    return {"value":"nombre", "scale":"discrete"};
+    if($("#selectRamas").val()==0){
+      return {"value":"nombre", "scale":"discrete"};
+    }else if($("#selectCategorias").val()==0){
+      return {"value":"nombre", "scale":"discrete"};
+    }else{
+      return y;
+    }
   }
 }
 
