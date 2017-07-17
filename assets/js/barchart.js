@@ -219,56 +219,12 @@ function drawBarChart(data){
       .data(data)
       .type("bar")
       .id("nombre")
-      .x("nombre")
-      .y(y)
+      .x(y)
+      .y({"value":"nombre", "scale":"discrete"})
       .draw()
 }
 
 function updateBarChart(){
-  // $("#bar-chart").empty();
-  // tipoDato = $('input[type=radio][name=radioTipoDato]:checked').val();
-  // if(tipoDato == "ali"){
-  //   y = "alicuota";
-  // }else{
-  //   y = "minimo";
-  // }
-  // // console.log(data);
-  // // console.log(y);
-  // var visualization = d3plus.viz()
-  // .container("#bar-chart")
-  // .format("es_ES")
-  // .tooltip({"footer": function(dp, d3viz) {
-  //   if($("#selectRamas").val()!=0 && $("#selectCategorias").val()!=0){
-  //     return "<p class=\"d3plus_tooltip_footer_custom\">Click para Cerrar</p>"
-  //   }else{
-  //     return "<p class=\"d3plus_tooltip_footer_custom\">Click para Ampliar</p>";
-  //   }
-  // }})
-  // .mouse({
-  //   "click" : function(dp, d3viz) {
-  //       console.log(dp);
-  //       var color = $("#d3plus_group_"+dp.d3plus.id+" rect").attr("fill");
-  //       $(".atras-button").attr("style", "color:"+ColorLuminance(color,-0.2)+"!important;");
-  //       console.log(color);
-  //       if($("#selectRamas").val()==0){
-  //         $("#selectRamas").val(dp.ID);
-  //         actualizarCategorias(dp.ID);
-  //       }else if($("#selectCategorias").val()==0){
-  //         $("#selectCategorias").val(dp.ID);
-  //         actualizarActividades(dp.ID);
-  //       }else{
-  //         $("#selectRamas").val(dp.ramaID);
-  //         $("#selectCategorias").val(0);
-  //         actualizarCategorias(dp.ramaID);
-  //       }
-  //     }
-  //   })
-  // .data(currentDataset)
-  // .type("bar")
-  // .id("nombre")
-  // .x("nombre")
-  // .y(y)
-  // .draw()
   drawBarChart(currentDataset);
 }
 
