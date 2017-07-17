@@ -219,9 +219,41 @@ function drawBarChart(data){
       .data(data)
       .type("bar")
       .id("nombre")
-      .x(y)
-      .y({"value":"nombre", "scale":"discrete"})
+      // .x(y)
+      // .y({"value":"nombre", "scale":"discrete"})
+      .x(getXifMobile())
+      .y(getYifMobile())
       .draw()
+}
+function getXifMobile(){
+  tipoDato = $('input[type=radio][name=radioTipoDato]:checked').val();
+  if(tipoDato == "ali"){
+    y = "alicuota";
+  }else{
+    y = "minimo";
+  }
+
+  if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+   // some code..
+   return {"value":"nombre", "scale":"discrete"};
+  }else{
+   return y;
+  }
+
+}
+function getYifMobile(){
+  tipoDato = $('input[type=radio][name=radioTipoDato]:checked').val();
+  if(tipoDato == "ali"){
+    y = "alicuota";
+  }else{
+    y = "minimo";
+  }
+  if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+   // some code..
+   return y;
+  }else{
+    return {"value":"nombre", "scale":"discrete"};
+  }
 }
 
 function updateBarChart(){
