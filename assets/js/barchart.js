@@ -135,15 +135,30 @@ function initBarChart(){
 
 function getTooltipWidth(){
   var wWidth = $( window ).width();
-  if (wWidth < 480){
-    return $( window ).width()-50;
-  }else if(wWidth < 768){
-    return 500;
-  }else if(wWidth < 1200){
-    return 700;
+  if($("#selectRamas").val()==0){
+    if (wWidth < 480){
+      return $( window ).width()-50;
+    }else{
+      return 300;
+    }
+  }else if($("#selectCategorias").val()==0){
+    if (wWidth < 480){
+      return $( window ).width()-50;
+    }else{
+      return 300;
+    }
   }else{
-    return 700;
+    if (wWidth < 480){
+      return $( window ).width()-50;
+    }else if(wWidth < 768){
+      return 500;
+    }else if(wWidth < 1200){
+      return 700;
+    }else{
+      return 700;
+    }
   }
+
 }
 function getTooltipData(){
   if($("#selectRamas").val()==0){
