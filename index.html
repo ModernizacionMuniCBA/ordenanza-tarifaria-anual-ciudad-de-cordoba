@@ -115,7 +115,10 @@
     <script src="assets/js/barchart.js"></script>
     <script>
     $(document).ready(function() {
-        // window.location.hash = hash;
+        var hash = window.location.hash.substr(1);
+        if(hash == ""){
+          window.location.hash = "b-a-0-0";
+        }
         initGraphs();
         $('input[type=radio][name=radioTipoDato]').change(function() {
             setHash(null,null,null,null);

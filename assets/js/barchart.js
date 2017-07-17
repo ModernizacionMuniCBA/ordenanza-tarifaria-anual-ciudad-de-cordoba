@@ -374,6 +374,7 @@ function setHash(tipoGraph, tipoDato, ramaID, catID){
   if(tipoDato == null){
     tipoDato = $('input[type=radio][name=radioTipoDato]:checked').val();
   }
+  console.log(tipoDato);
   if(tipoDato == "ali"){
     tipoDato = "a";
   }else{
@@ -391,7 +392,7 @@ function setHash(tipoGraph, tipoDato, ramaID, catID){
 
 function getHash(){
   var hash = window.location.hash.substr(1);
-  console.log(hash);
+  // console.log(hash);
   var hash_splited = hash.split("-");
   var tipoGraph = hash_splited[0];
   var tipoDato = hash_splited[1];
@@ -403,9 +404,14 @@ function getHash(){
   if(catID == "null"){
     catID=0;
   }
+  if(tipoDato == "a"){
+    tipoDato = "ali";
+  }else{
+    tipoDato = "min";
+  }
   setHash(tipoGraph, tipoDato, ramaID, catID)
-  console.log(ramaID);
-  console.log(catID);
+  // console.log(ramaID);
+  // console.log(catID);
   $("#selectRamas").val(ramaID);
   $("#selectCategorias").val(catID);
   if(tipoGraph == "a"){
@@ -413,11 +419,6 @@ function getHash(){
     drawTM();
     initBarChart();
   }else{
-    if(tipoDato == "a"){
-      tipoDato = "ali";
-    }else{
-      tipoDato = "min";
-    }
     $('input[type=radio][name=radioTipoDato][value="'+tipoDato+'"]').prop("checked",true);
     if(ramaID!=0){
       if(catID==0){
