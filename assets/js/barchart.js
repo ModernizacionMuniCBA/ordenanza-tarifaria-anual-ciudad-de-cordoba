@@ -163,8 +163,7 @@ function drawBarChart(data){
   }else{
     y = "minimo";
   }
-  // console.log(data);
-  // console.log(y);
+
 
   var visualization = d3plus.viz()
       .container("#bar-chart")
@@ -181,28 +180,39 @@ function drawBarChart(data){
       .format({
           "number": function(number, key) {
             var formatted = number;
-            if (key.key === "alicuota") {
-              var formatted = d3plus.number.format(number/10, key)
-              if($("#selectRamas").val()==0){
-                return "Promedio %" + formatted.replace("B", " Mm");
-              }else if($("#selectCategorias").val()==0){
-                return "Promedio %" + formatted.replace("B", " Mm");
-              }else{
+            var formatted = d3plus.number.format(number/10, key)
+            if($("#selectRamas").val()==0){
+              if (key.key === "Promedio alicuota") {
                 return "%" + formatted.replace("B", " Mm");
+              }else if (key.key === "Promedio minimo") {
+                return "$" + number.toFixed(2);
               }
-            }
-            else if (key.key === "minimo") {
-              // var formatted = d3plus.number.format(number, key)
-              if($("#selectRamas").val()==0){
-                return "Promedio $" + number.toFixed(2);
-              }else if($("#selectCategorias").val()==0){
-                return "Promedio $" + number.toFixed(2);
-              }else{
+            }else if($("#selectCategorias").val()==0){
+              if (key.key === "Promedio alicuota") {
+                return "%" + formatted.replace("B", " Mm");
+              }else if (key.key === "Promedio minimo") {
                 return "$" + number.toFixed(2);
               }
             }else{
-              return number
+              if (key.key === "alicuota") {
+                return "%" + formatted.replace("B", " Mm");
+              }else if (key.key === "minimo") {
+                return "$" + number.toFixed(2);
+              }
             }
+
+            // else if (key.key === "minimo") {
+            //   // var formatted = d3plus.number.format(number, key)
+            //   if($("#selectRamas").val()==0){
+            //     return "Promedio $" + number.toFixed(2);
+            //   }else if($("#selectCategorias").val()==0){
+            //     return "Promedio $" + number.toFixed(2);
+            //   }else{
+            //     return "$" + number.toFixed(2);
+            //   }
+            // }else{
+            //   return number
+            // }
           }
       })
       .mouse({
@@ -248,9 +258,9 @@ function getXifMobile(){
    return {"value":"nombre", "scale":"discrete"};
   }else{
     if($("#selectRamas").val()==0){
-      return y;
+      return "Promedio " + y;
     }else if($("#selectCategorias").val()==0){
-      return y;
+      return "Promedio " + y;
     }else{
       return {"value":"nombre", "scale":"discrete"};
     }
@@ -266,7 +276,13 @@ function getYifMobile(){
   }
   if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
    // some code..
-   return y;
+   if($("#selectRamas").val()==0){
+     return "Promedio "+y;
+   }else if($("#selectCategorias").val()==0){
+     return "Promedio "+y;
+   }else{
+     return y;
+   }
   }else{
     if($("#selectRamas").val()==0){
       return {"value":"nombre", "scale":"discrete"};

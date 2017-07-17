@@ -1,80 +1,80 @@
 [
     {
         "ID": 7, 
-        "alicuota": 9.578688524590161, 
-        "minimo": 715.5, 
+        "Promedio alicuota": 9.578688524590161, 
+        "Promedio minimo": 715.5, 
         "nombre": "ACTIVIDADES COMERCIALES POR MAYOR"
     }, 
     {
         "ID": 1, 
-        "alicuota": 9.574829931972786, 
-        "minimo": 1967.2448979591836, 
+        "Promedio alicuota": 9.574829931972786, 
+        "Promedio minimo": 1967.2448979591836, 
         "nombre": "ACTIVIDADES COMERCIALES POR MENOR"
     }, 
     {
         "ID": 4, 
-        "alicuota": 28.409090909090914, 
-        "minimo": 348.3636363636364, 
+        "Promedio alicuota": 28.409090909090914, 
+        "Promedio minimo": 348.3636363636364, 
         "nombre": "ACTIVIDADES FINANCIERAS"
     }, 
     {
         "ID": 2, 
-        "alicuota": 7.172063492063493, 
-        "minimo": 600.4571428571429, 
+        "Promedio alicuota": 7.172063492063493, 
+        "Promedio minimo": 600.4571428571429, 
         "nombre": "ACTIVIDADES INDUSTRIALES"
     }, 
     {
         "ID": 3, 
-        "alicuota": 7.0, 
-        "minimo": 612.2203389830509, 
+        "Promedio alicuota": 7.0, 
+        "Promedio minimo": 612.2203389830509, 
         "nombre": "ACTIVIDADES PRIMARIAS"
     }, 
     {
         "ID": 6, 
-        "alicuota": 15.6313725490196, 
-        "minimo": 649.4705882352941, 
+        "Promedio alicuota": 15.6313725490196, 
+        "Promedio minimo": 649.4705882352941, 
         "nombre": "BIENES MUEBLES E INMUEBLES"
     }, 
     {
         "ID": 9, 
-        "alicuota": 14.528571428571428, 
-        "minimo": 851.7857142857143, 
+        "Promedio alicuota": 14.528571428571428, 
+        "Promedio minimo": 851.7857142857143, 
         "nombre": "COMUNICACIONES"
     }, 
     {
         "ID": 10, 
-        "alicuota": 7.416216216216216, 
-        "minimo": 503.5135135135135, 
+        "Promedio alicuota": 7.416216216216216, 
+        "Promedio minimo": 503.5135135135135, 
         "nombre": "CONSTRUCCI\u00d3N"
     }, 
     {
         "ID": 11, 
-        "alicuota": 2.1, 
-        "minimo": 337.9, 
+        "Promedio alicuota": 2.1, 
+        "Promedio minimo": 337.9, 
         "nombre": "ELECTRICIDAD, GAS Y SIMILARES"
     }, 
     {
         "ID": 12, 
-        "alicuota": 12.7, 
-        "minimo": 934.0, 
+        "Promedio alicuota": 12.7, 
+        "Promedio minimo": 934.0, 
         "nombre": "OTRAS ACTIVIDADES"
     }, 
     {
         "ID": 13, 
-        "alicuota": 15.1, 
-        "minimo": 177.33333333333334, 
+        "Promedio alicuota": 15.1, 
+        "Promedio minimo": 177.33333333333334, 
         "nombre": "SEGUROS"
     }, 
     {
         "ID": 5, 
-        "alicuota": 10.015131578947376, 
-        "minimo": 744.2565789473684, 
+        "Promedio alicuota": 10.015131578947376, 
+        "Promedio minimo": 744.2565789473684, 
         "nombre": "SERVICIOS"
     }, 
     {
         "ID": 8, 
-        "alicuota": 7.438461538461539, 
-        "minimo": 2072.6153846153848, 
+        "Promedio alicuota": 7.438461538461539, 
+        "Promedio minimo": 2072.6153846153848, 
         "nombre": "TRANSPORTE"
     }
 ]

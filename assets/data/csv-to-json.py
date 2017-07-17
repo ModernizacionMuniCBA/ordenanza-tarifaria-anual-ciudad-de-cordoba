@@ -149,8 +149,8 @@ for rama in fjson1:
     fjsonDataNodesMin.append(ramaInfoMin)
     fjsonDataNodesAli.append(ramaInfoAli)
 
-    rama["alicuota"] = getAlicuotaTotalRama(int(rama["ID"]))
-    rama["minimo"] = getMinimoTotalRama(int(rama["ID"]))
+    rama["Promedio alicuota"] = getAlicuotaTotalRama(int(rama["ID"]))
+    rama["Promedio minimo"] = getMinimoTotalRama(int(rama["ID"]))
     # rama["x"] = i
     # rama["y"] = j
     # # i+=10
@@ -167,8 +167,8 @@ for categoria in fjson2:
     fjsonDataNodesMin.append(catInfoMin)
     fjsonDataNodesAli.append(catInfoAli)
 
-    categoria["alicuota"] = getAlicuotaTotalCategoria(int(categoria["ID"]))
-    categoria["minimo"] = getMinimoTotalCategoria(int(categoria["ID"]))
+    categoria["Promedio alicuota"] = getAlicuotaTotalCategoria(int(categoria["ID"]))
+    categoria["Promedio minimo"] = getMinimoTotalCategoria(int(categoria["ID"]))
     # categoria["x"] = i
     # categoria["y"] = j
     # i+=10
