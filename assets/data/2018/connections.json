@@ -1,0 +1,346 @@
+[
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Dep\u00f3sito, distribuci\u00f3n y Venta por mayor de otros art\u00edculos"
+    }, 
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Dep\u00f3sito, distribuci\u00f3n y Venta por mayor de productos met\u00e1licos"
+    }, 
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Dep\u00f3sito, distribuci\u00f3n y venta por mayor de sustancias qu\u00edmicas industriales; productos qu\u00edmicos y derivados del petr\u00f3leo"
+    }, 
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Dep\u00f3sito, distribuci\u00f3n y venta por menor de materiales para la construcci\u00f3n"
+    }, 
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Dep\u00f3sito y venta por mayor de madera, papel y derivados"
+    }, 
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Dep\u00f3sito y venta por mayor de textiles, prendas de vestir y cuero; accesorios de vestir"
+    }, 
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisi\u00f3n o consignaci\u00f3n)"
+    }, 
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Fraccionamiento y venta por mayor de bebidas y tabacos"
+    }, 
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Venta al por mayor de automotores, motonetas y motocicletas"
+    }, 
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Venta al por mayor en comisi\u00f3n o consignaci\u00f3n"
+    }, 
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Venta al por menor de art\u00edculos diversos"
+    }, 
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Venta al por menor de automotores, motonetas y motocicletas"
+    }, 
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Venta al por menor de productos alimenticios y bebidas"
+    }, 
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero"
+    }, 
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Venta al por menor en cigarrer\u00edas. Agencias de loter\u00eda y otros juegos de azar"
+    }, 
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Venta por mayor de materiales para la construcci\u00f3n"
+    }, 
+    {
+        "source": "ACTIVIDADES COMERCIALES", 
+        "target": "Venta por mayor de motores, m\u00e1quinas y equipos"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Elaboraci\u00f3n de productos alimentarios diversos"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n de calzado excepto el de caucho vulcanizado o moldeados o de pl\u00e1stico"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n de equipos de transporte"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n de muebles y accesorios de madera, ca\u00f1a, mimbre y otros, excepto los que son met\u00e1licos o de pl\u00e1stico"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n de objetos de barro, loza, porcelana y cer\u00e1mica"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n de otros productos minerales no met\u00e1licos"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n de papel y productos de papel"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n de prendas de vestir excepto calzados"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n de productos alimentarios excepto bebidas"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n de productos de caucho"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n de productos diversos derivados del petr\u00f3leo y carb\u00f3n"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n de productos met\u00e1licos excepto maquinaria y equipos"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n de productos pl\u00e1sticos diversos"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n de productos qu\u00edmicos diversos"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n de sustancias qu\u00edmicas industriales b\u00e1sicas"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n de textiles"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n de vidrio y productos de vidrio"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n y reparaci\u00f3n de equipos profesionales y cient\u00edficos, instrumentos de medida y control, fotogr\u00e1ficos y de \u00f3ptica, relojes"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n y reparaci\u00f3n de maquinaria excepto la el\u00e9ctrica"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Fabricaci\u00f3n y reparaci\u00f3n de maquinarias, aparatos, accesorios y suministros el\u00e9ctricos y electr\u00f3nicos"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Imprentas, editoriales e industrias conexas"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Industria de la madera y productos de madera, de corcho, paja y materiales trenzables, excepto muebles"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Industria del cuero, productos y suced\u00e1neos de cuero y pieles (excepto calzados y prendas de vestir)"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Industria del tabaco"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Industrias b\u00e1sicas de hierro y acero"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Industrias b\u00e1sicas de metales no ferrosos incluyendo metales preciosos"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Industrias de bebidas"
+    }, 
+    {
+        "source": "ACTIVIDADES INDUSTRIALES", 
+        "target": "Otras industrias manufactureras"
+    }, 
+    {
+        "source": "ACTIVIDADES PRIMARIAS", 
+        "target": "Agricultura"
+    }, 
+    {
+        "source": "ACTIVIDADES PRIMARIAS", 
+        "target": "Cr\u00eda de animales"
+    }, 
+    {
+        "source": "ACTIVIDADES PRIMARIAS", 
+        "target": "Explotaci\u00f3n de Canteras y Extracci\u00f3n de Minerales no Met\u00e1licos no clasificados en otra parte"
+    }, 
+    {
+        "source": "ACTIVIDADES PRIMARIAS", 
+        "target": "Explotaci\u00f3n de Minas de Carb\u00f3n, Petr\u00f3leo Crudo y Gas Natural"
+    }, 
+    {
+        "source": "ACTIVIDADES PRIMARIAS", 
+        "target": "Extracci\u00f3n de Minerales Met\u00e1licos"
+    }, 
+    {
+        "source": "ACTIVIDADES PRIMARIAS", 
+        "target": "Extracci\u00f3n de Piedra, piedra Caliza, Arcilla y Arena"
+    }, 
+    {
+        "source": "ACTIVIDADES PRIMARIAS", 
+        "target": "Servicios agr\u00edcolas y pecuarios"
+    }, 
+    {
+        "source": "ACTIVIDADES PRIMARIAS", 
+        "target": "Silvicultura, extracci\u00f3n de madera y viveros"
+    }, 
+    {
+        "source": "COMUNICACIONES", 
+        "target": "Comunicaciones"
+    }, 
+    {
+        "source": "CONSTRUCCI\u00d3N", 
+        "target": "Construcci\u00f3n pesada y edificios, reforma, reparaci\u00f3n y prestaciones relacionadas con la construcci\u00f3n"
+    }, 
+    {
+        "source": "DEP\u00d3SITO Y ALMACENAMIENTO", 
+        "target": "Dep\u00f3sito y almacenamiento"
+    }, 
+    {
+        "source": "ELECTRICIDAD, GAS Y SIMILARES", 
+        "target": "Captaci\u00f3n, purificaci\u00f3n y distribuci\u00f3n de agua"
+    }, 
+    {
+        "source": "ELECTRICIDAD, GAS Y SIMILARES", 
+        "target": "Electricidad, gas y vapor"
+    }, 
+    {
+        "source": "ENTIDADES FINANCIERAS", 
+        "target": "Establecimientos y servicios financieros"
+    }, 
+    {
+        "source": "LOCACI\u00d3N DE BIENES MUEBLES", 
+        "target": "Alquiler y arrendamiento de m\u00e1quinas, autos y equipos"
+    }, 
+    {
+        "source": "OTRAS ACTIVIDADES", 
+        "target": "Otras actividades"
+    }, 
+    {
+        "source": "PLAYAS DE ESTACIONAMIENTO", 
+        "target": "Playas de estacionamiento"
+    }, 
+    {
+        "source": "PUBLICIDAD", 
+        "target": "Publicidad"
+    }, 
+    {
+        "source": "REPARACIONES Y MANTENIMIENTO", 
+        "target": "Mantenimiento y reparaci\u00f3n de automotores y motocicletas"
+    }, 
+    {
+        "source": "REPARACIONES Y MANTENIMIENTO", 
+        "target": "Reparaci\u00f3n de art\u00edculos personales y del hogar y/u otros"
+    }, 
+    {
+        "source": "SEGUROS", 
+        "target": "Seguros"
+    }, 
+    {
+        "source": "SERVICIOS", 
+        "target": "Bar, confiter\u00edas, pizzer\u00edas, lomiter\u00edas, empanader\u00edas, parrilla, trattor\u00eda y restaurantes con una superficie habilitada de m\u00e1s de 300 m2. Ubicados dentro de los siguientes per\u00edmetros:"
+    }, 
+    {
+        "source": "SERVICIOS", 
+        "target": "Bar, confiter\u00edas, pizzer\u00edas, lomiter\u00edas, empanader\u00edas, parrilla, trattor\u00eda y restaurantes con una superficie habilitada desde 101 m2 a 200 m2. Ubicados dentro de los siguientes per\u00edmetros:"
+    }, 
+    {
+        "source": "SERVICIOS", 
+        "target": "Bar, confiter\u00edas, pizzer\u00edas, lomiter\u00edas, empanader\u00edas, parrilla, trattor\u00eda y restaurantes con una superficie habilitada desde 201 m2 a 300 m2. Ubicados dentro de los siguientes per\u00edmetros:"
+    }, 
+    {
+        "source": "SERVICIOS", 
+        "target": "Bar, confiter\u00edas, pizzer\u00edas, lomiter\u00edas, empanader\u00edas, parrilla, trattor\u00eda y restaurantes con una superficie habilitada hasta 100 m2. Ubicados dentro de los siguientes per\u00edmetros:"
+    }, 
+    {
+        "source": "SERVICIOS", 
+        "target": "Expendio de comidas y bebidas en restaurante, caf\u00e9s y con servicio de mesa y mostrador"
+    }, 
+    {
+        "source": "SERVICIOS", 
+        "target": "Instrucci\u00f3n y Ense\u00f1anza"
+    }, 
+    {
+        "source": " juegos en red y en consolas (cyber y similares). El m\u00ednimo expresado corresponde a cada puesto conectado a un sistema de red con o sin acceso a internet.", 
+        "target": "SERVICIOS"
+    }, 
+    {
+        "source": "SERVICIOS", 
+        "target": "Negocios con juegos electr\u00f3nicos, mec\u00e1nicos o similares por local habilitado, conforme a las siguientes escalas y m\u00ednimos:"
+    }, 
+    {
+        "source": "SERVICIOS", 
+        "target": "Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento"
+    }, 
+    {
+        "source": "SERVICIOS", 
+        "target": "Servicios de diversi\u00f3n, esparcimiento, cultural y deportivos"
+    }, 
+    {
+        "source": "SERVICIOS", 
+        "target": "Servicios de lavander\u00eda, establecimientos de limpieza y te\u00f1ido"
+    }, 
+    {
+        "source": "SERVICIOS", 
+        "target": "Servicios de saneamiento y similares"
+    }, 
+    {
+        "source": "SERVICIOS", 
+        "target": "Servicios empresariales"
+    }, 
+    {
+        "source": "SERVICIOS", 
+        "target": "Servicios personales n.c.p."
+    }, 
+    {
+        "source": "SERVICIOS", 
+        "target": "Servicios relacionados con la salud humana"
+    }, 
+    {
+        "source": "SERVICIOS", 
+        "target": "Servicios relacionados con pel\u00edculas, radio, TV, obras y espect\u00e1culos teatrales y musicales"
+    }, 
+    {
+        "source": "SERVICIOS INMOBILIARIOS", 
+        "target": "Servicios inmobiliarios"
+    }, 
+    {
+        "source": "TRANSPORTE", 
+        "target": "Servicios conexos con los de transporte"
+    }, 
+    {
+        "source": "TRANSPORTE", 
+        "target": "Transporte a\u00e9reo"
+    }, 
+    {
+        "source": "TRANSPORTE", 
+        "target": "Transporte terrestre"
+    }
+]

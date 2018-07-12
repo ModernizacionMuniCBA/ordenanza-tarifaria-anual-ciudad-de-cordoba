@@ -1,0 +1,87 @@
+id,rama,nombre
+1,1,"Depósito, distribución y Venta por mayor de otros artículos"
+2,1,"Depósito, distribución y Venta por mayor de productos metálicos"
+3,1,"Depósito, distribución y venta por mayor de sustancias químicas industriales; productos químicos y derivados del petróleo"
+4,1,"Depósito, distribución y venta por menor de materiales para la construcción"
+5,1,"Depósito y venta por mayor de madera, papel y derivados"
+6,1,"Depósito y venta por mayor de textiles, prendas de vestir y cuero; accesorios de vestir"
+7,1,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+8,1,Fraccionamiento y venta por mayor de bebidas y tabacos
+9,1,"Venta al por mayor de automotores, motonetas y motocicletas"
+10,1,Venta al por mayor en comisión o consignación
+11,1,Venta al por menor de artículos diversos
+12,1,"Venta al por menor de automotores, motonetas y motocicletas"
+13,1,Venta al por menor de productos alimenticios y bebidas
+14,1,"Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero"
+15,1,Venta al por menor en cigarrerías. Agencias de lotería y otros juegos de azar
+16,1,Venta por mayor de materiales para la construcción
+17,1,"Venta por mayor de motores, máquinas y equipos"
+18,2,Elaboración de productos alimentarios diversos
+19,2,Fabricación de calzado excepto el de caucho vulcanizado o moldeados o de plástico
+20,2,Fabricación de equipos de transporte
+21,2,"Fabricación de muebles y accesorios de madera, caña, mimbre y otros, excepto los que son metálicos o de plástico"
+22,2,"Fabricación de objetos de barro, loza, porcelana y cerámica"
+23,2,Fabricación de otros productos minerales no metálicos
+24,2,Fabricación de papel y productos de papel
+25,2,Fabricación de prendas de vestir excepto calzados
+26,2,Fabricación de productos alimentarios excepto bebidas
+27,2,Fabricación de productos de caucho
+28,2,Fabricación de productos diversos derivados del petróleo y carbón
+29,2,Fabricación de productos metálicos excepto maquinaria y equipos
+30,2,Fabricación de productos plásticos diversos
+31,2,Fabricación de productos químicos diversos
+32,2,Fabricación de sustancias químicas industriales básicas
+33,2,Fabricación de textiles
+34,2,Fabricación de vidrio y productos de vidrio
+35,2,"Fabricación y reparación de equipos profesionales y científicos, instrumentos de medida y control, fotográficos y de óptica, relojes"
+36,2,Fabricación y reparación de maquinaria excepto la eléctrica
+37,2,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+38,2,"Imprentas, editoriales e industrias conexas"
+39,2,"Industria de la madera y productos de madera, de corcho, paja y materiales trenzables, excepto muebles"
+40,2,"Industria del cuero, productos y sucedáneos de cuero y pieles (excepto calzados y prendas de vestir)"
+41,2,Industria del tabaco
+42,2,Industrias básicas de hierro y acero
+43,2,Industrias básicas de metales no ferrosos incluyendo metales preciosos
+44,2,Industrias de bebidas
+45,2,Otras industrias manufactureras
+46,3,Agricultura
+47,3,Cría de animales
+48,3,Explotación de Canteras y Extracción de Minerales no Metálicos no clasificados en otra parte
+49,3,"Explotación de Minas de Carbón, Petróleo Crudo y Gas Natural"
+50,3,Extracción de Minerales Metálicos
+51,3,"Extracción de Piedra, piedra Caliza, Arcilla y Arena"
+52,3,Servicios agrícolas y pecuarios
+53,3,"Silvicultura, extracción de madera y viveros"
+54,4,Comunicaciones
+55,5,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+56,6,Depósito y almacenamiento
+57,7,"Captación, purificación y distribución de agua"
+58,7,"Electricidad, gas y vapor"
+59,8,Establecimientos y servicios financieros
+60,9,"Alquiler y arrendamiento de máquinas, autos y equipos"
+61,10,Otras actividades
+62,11,Playas de estacionamiento
+63,12,Publicidad
+64,13,Mantenimiento y reparación de automotores y motocicletas
+65,13,Reparación de artículos personales y del hogar y/u otros
+66,14,Seguros
+67,15,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+68,15,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada desde 101 m2 a 200 m2. Ubicados dentro de los siguientes perímetros:"
+69,15,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada desde 201 m2 a 300 m2. Ubicados dentro de los siguientes perímetros:"
+70,15,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada hasta 100 m2. Ubicados dentro de los siguientes perímetros:"
+71,15,"Expendio de comidas y bebidas en restaurante, cafés y con servicio de mesa y mostrador"
+72,15,Instrucción y Enseñanza
+73,16,SERVICIOS
+74,15,"Negocios con juegos electrónicos, mecánicos o similares por local habilitado, conforme a las siguientes escalas y mínimos:"
+75,15,"Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento"
+76,15,"Servicios de diversión, esparcimiento, cultural y deportivos"
+77,15,"Servicios de lavandería, establecimientos de limpieza y teñido"
+78,15,Servicios de saneamiento y similares
+79,15,Servicios empresariales
+80,15,Servicios personales n.c.p.
+81,15,Servicios relacionados con la salud humana
+82,15,"Servicios relacionados con películas, radio, TV, obras y espectáculos teatrales y musicales"
+83,17,Servicios inmobiliarios
+84,18,Servicios conexos con los de transporte
+85,18,Transporte aéreo
+86,18,Transporte terrestre
