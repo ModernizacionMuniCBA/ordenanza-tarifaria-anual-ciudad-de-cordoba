@@ -1,604 +1,597 @@
 [
     {
-        "ID": 1, 
-        "Promedio alicuota": 7.752380952380953, 
-        "Promedio minimo": 778.8095238095239, 
-        "nombre": "Dep\u00f3sito, distribuci\u00f3n y Venta por mayor de otros art\u00edculos", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 2, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 705.0, 
-        "nombre": "Dep\u00f3sito, distribuci\u00f3n y Venta por mayor de productos met\u00e1licos", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 3, 
-        "Promedio alicuota": 5.614285714285714, 
-        "Promedio minimo": 605.0, 
-        "nombre": "Dep\u00f3sito, distribuci\u00f3n y venta por mayor de sustancias qu\u00edmicas industriales; productos qu\u00edmicos y derivados del petr\u00f3leo", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 4, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 455.0, 
-        "nombre": "Dep\u00f3sito, distribuci\u00f3n y venta por menor de materiales para la construcci\u00f3n", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 5, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 455.0, 
-        "nombre": "Dep\u00f3sito y venta por mayor de madera, papel y derivados", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 6, 
-        "Promedio alicuota": 7.254545454545454, 
-        "Promedio minimo": 750.4545454545455, 
-        "nombre": "Dep\u00f3sito y venta por mayor de textiles, prendas de vestir y cuero; accesorios de vestir", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 7, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 653.9583333333334, 
-        "nombre": "Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisi\u00f3n o consignaci\u00f3n)", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 8, 
-        "Promedio alicuota": 10.950000000000001, 
-        "Promedio minimo": 2431.6666666666665, 
-        "nombre": "Fraccionamiento y venta por mayor de bebidas y tabacos", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 9, 
-        "Promedio alicuota": 8.75, 
-        "Promedio minimo": 5082.5, 
-        "nombre": "Venta al por mayor de automotores, motonetas y motocicletas", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 10, 
-        "Promedio alicuota": 20.90909090909091, 
-        "Promedio minimo": 1026.8181818181818, 
-        "nombre": "Venta al por mayor en comisi\u00f3n o consignaci\u00f3n", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 11, 
-        "Promedio alicuota": 8.441975308641975, 
-        "Promedio minimo": 709.7901234567901, 
-        "nombre": "Venta al por menor de art\u00edculos diversos", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 12, 
-        "Promedio alicuota": 18.599999999999998, 
-        "Promedio minimo": 2921.6666666666665, 
-        "nombre": "Venta al por menor de automotores, motonetas y motocicletas", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 13, 
-        "Promedio alicuota": 8.215625, 
-        "Promedio minimo": 8164.609375, 
-        "nombre": "Venta al por menor de productos alimenticios y bebidas", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 14, 
-        "Promedio alicuota": 7.2, 
-        "Promedio minimo": 472.14285714285717, 
-        "nombre": "Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 15, 
-        "Promedio alicuota": 27.422222222222224, 
-        "Promedio minimo": 871.6666666666666, 
-        "nombre": "Venta al por menor en cigarrer\u00edas. Agencias de loter\u00eda y otros juegos de azar", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 16, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 705.0, 
-        "nombre": "Venta por mayor de materiales para la construcci\u00f3n", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 17, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 705.0, 
-        "nombre": "Venta por mayor de motores, m\u00e1quinas y equipos", 
-        "ramaID": 1
-    }, 
-    {
-        "ID": 18, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 895.0, 
-        "nombre": "Elaboraci\u00f3n de productos alimentarios diversos", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 19, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 683.75, 
-        "nombre": "Fabricaci\u00f3n de calzado excepto el de caucho vulcanizado o moldeados o de pl\u00e1stico", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 20, 
-        "Promedio alicuota": 7.033333333333333, 
-        "Promedio minimo": 729.0, 
-        "nombre": "Fabricaci\u00f3n de equipos de transporte", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 21, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 595.0, 
-        "nombre": "Fabricaci\u00f3n de muebles y accesorios de madera, ca\u00f1a, mimbre y otros, excepto los que son met\u00e1licos o de pl\u00e1stico", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 22, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 625.0, 
-        "nombre": "Fabricaci\u00f3n de objetos de barro, loza, porcelana y cer\u00e1mica", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 23, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 718.0769230769231, 
-        "nombre": "Fabricaci\u00f3n de otros productos minerales no met\u00e1licos", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 24, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 726.25, 
-        "nombre": "Fabricaci\u00f3n de papel y productos de papel", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 25, 
-        "Promedio alicuota": 7.3999999999999995, 
-        "Promedio minimo": 783.5714285714286, 
-        "nombre": "Fabricaci\u00f3n de prendas de vestir excepto calzados", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 26, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 871.125, 
-        "nombre": "Fabricaci\u00f3n de productos alimentarios excepto bebidas", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 27, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 622.1428571428571, 
-        "nombre": "Fabricaci\u00f3n de productos de caucho", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 28, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 885.0, 
-        "nombre": "Fabricaci\u00f3n de productos diversos derivados del petr\u00f3leo y carb\u00f3n", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 29, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 683.0, 
-        "nombre": "Fabricaci\u00f3n de productos met\u00e1licos excepto maquinaria y equipos", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 30, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 657.8571428571429, 
-        "nombre": "Fabricaci\u00f3n de productos pl\u00e1sticos diversos", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 31, 
-        "Promedio alicuota": 7.2272727272727275, 
-        "Promedio minimo": 767.2727272727273, 
-        "nombre": "Fabricaci\u00f3n de productos qu\u00edmicos diversos", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 32, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 731.8181818181819, 
-        "nombre": "Fabricaci\u00f3n de sustancias qu\u00edmicas industriales b\u00e1sicas", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 33, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 669.8214285714286, 
-        "nombre": "Fabricaci\u00f3n de textiles", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 34, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 747.5, 
-        "nombre": "Fabricaci\u00f3n de vidrio y productos de vidrio", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 35, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 622.1428571428571, 
-        "nombre": "Fabricaci\u00f3n y reparaci\u00f3n de equipos profesionales y cient\u00edficos, instrumentos de medida y control, fotogr\u00e1ficos y de \u00f3ptica, relojes", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 36, 
-        "Promedio alicuota": 7.058333333333334, 
-        "Promedio minimo": 712.0833333333334, 
-        "nombre": "Fabricaci\u00f3n y reparaci\u00f3n de maquinaria excepto la el\u00e9ctrica", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 37, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 660.0, 
-        "nombre": "Fabricaci\u00f3n y reparaci\u00f3n de maquinarias, aparatos, accesorios y suministros el\u00e9ctricos y electr\u00f3nicos", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 38, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 320.0, 
-        "nombre": "Imprentas, editoriales e industrias conexas", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 39, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 617.2727272727273, 
-        "nombre": "Industria de la madera y productos de madera, de corcho, paja y materiales trenzables, excepto muebles", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 40, 
-        "Promedio alicuota": 8.4, 
-        "Promedio minimo": 864.0, 
-        "nombre": "Industria del cuero, productos y suced\u00e1neos de cuero y pieles (excepto calzados y prendas de vestir)", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 41, 
-        "Promedio alicuota": 12.6, 
-        "Promedio minimo": 1825.0, 
-        "nombre": "Industria del tabaco", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 42, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 747.5, 
-        "nombre": "Industrias b\u00e1sicas de hierro y acero", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 43, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 739.0, 
-        "nombre": "Industrias b\u00e1sicas de metales no ferrosos incluyendo metales preciosos", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 44, 
-        "Promedio alicuota": 8.461538461538463, 
-        "Promedio minimo": 860.7692307692307, 
-        "nombre": "Industrias de bebidas", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 45, 
-        "Promedio alicuota": 7.233333333333334, 
-        "Promedio minimo": 623.8888888888889, 
-        "nombre": "Otras industrias manufactureras", 
-        "ramaID": 2
-    }, 
-    {
-        "ID": 46, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 705.0, 
-        "nombre": "Agricultura", 
-        "ramaID": 3
-    }, 
-    {
-        "ID": 47, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 705.0, 
-        "nombre": "Cr\u00eda de animales", 
-        "ramaID": 3
-    }, 
-    {
-        "ID": 48, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 895.0, 
-        "nombre": "Explotaci\u00f3n de Canteras y Extracci\u00f3n de Minerales no Met\u00e1licos no clasificados en otra parte", 
-        "ramaID": 3
-    }, 
-    {
-        "ID": 49, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 895.0, 
-        "nombre": "Explotaci\u00f3n de Minas de Carb\u00f3n, Petr\u00f3leo Crudo y Gas Natural", 
-        "ramaID": 3
-    }, 
-    {
-        "ID": 50, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 895.0, 
-        "nombre": "Extracci\u00f3n de Minerales Met\u00e1licos", 
-        "ramaID": 3
-    }, 
-    {
-        "ID": 51, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 857.0, 
-        "nombre": "Extracci\u00f3n de Piedra, piedra Caliza, Arcilla y Arena", 
-        "ramaID": 3
-    }, 
-    {
-        "ID": 52, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 705.0, 
-        "nombre": "Servicios agr\u00edcolas y pecuarios", 
-        "ramaID": 3
-    }, 
-    {
-        "ID": 53, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 640.0, 
-        "nombre": "Silvicultura, extracci\u00f3n de madera y viveros", 
-        "ramaID": 3
-    }, 
-    {
-        "ID": 54, 
-        "Promedio alicuota": 14.528571428571428, 
-        "Promedio minimo": 1042.8428571428572, 
-        "nombre": "Comunicaciones", 
-        "ramaID": 4
-    }, 
-    {
-        "ID": 55, 
-        "Promedio alicuota": 7.599999999999997, 
-        "Promedio minimo": 691.4583333333334, 
-        "nombre": "Construcci\u00f3n pesada y edificios, reforma, reparaci\u00f3n y prestaciones relacionadas con la construcci\u00f3n", 
-        "ramaID": 5
-    }, 
-    {
-        "ID": 56, 
-        "Promedio alicuota": 7.725, 
-        "Promedio minimo": 1202.5, 
-        "nombre": "Dep\u00f3sito y almacenamiento", 
-        "ramaID": 6
-    }, 
-    {
-        "ID": 57, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 705.0, 
-        "nombre": "Captaci\u00f3n, purificaci\u00f3n y distribuci\u00f3n de agua", 
-        "ramaID": 7
-    }, 
-    {
-        "ID": 58, 
-        "Promedio alicuota": 2.3333333333333335, 
-        "Promedio minimo": 455.8888888888889, 
-        "nombre": "Electricidad, gas y vapor", 
-        "ramaID": 7
-    }, 
-    {
-        "ID": 59, 
-        "Promedio alicuota": 28.409090909090914, 
-        "Promedio minimo": 868.2818181818183, 
-        "nombre": "Establecimientos y servicios financieros", 
-        "ramaID": 8
-    }, 
-    {
-        "ID": 60, 
-        "Promedio alicuota": 9.476923076923075, 
-        "Promedio minimo": 601.1538461538462, 
-        "nombre": "Alquiler y arrendamiento de m\u00e1quinas, autos y equipos", 
-        "ramaID": 9
-    }, 
-    {
-        "ID": 61, 
-        "Promedio alicuota": 12.7, 
-        "Promedio minimo": 1140.0, 
-        "nombre": "Otras actividades", 
-        "ramaID": 10
-    }, 
-    {
-        "ID": 62, 
-        "Promedio alicuota": 23.1, 
-        "Promedio minimo": 75.14, 
-        "nombre": "Playas de estacionamiento", 
-        "ramaID": 11
-    }, 
-    {
-        "ID": 63, 
-        "Promedio alicuota": 28.657142857142855, 
-        "Promedio minimo": 303.0, 
-        "nombre": "Publicidad", 
-        "ramaID": 12
-    }, 
-    {
-        "ID": 64, 
-        "Promedio alicuota": 7.076923076923077, 
-        "Promedio minimo": 473.46153846153845, 
-        "nombre": "Mantenimiento y reparaci\u00f3n de automotores y motocicletas", 
-        "ramaID": 13
-    }, 
-    {
-        "ID": 65, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 553.8888888888889, 
-        "nombre": "Reparaci\u00f3n de art\u00edculos personales y del hogar y/u otros", 
-        "ramaID": 13
-    }, 
-    {
-        "ID": 66, 
-        "Promedio alicuota": 15.1, 
-        "Promedio minimo": 680.0, 
-        "nombre": "Seguros", 
+        "ID": 128,
+        "Promedio alicuota": 7.752380952380953,
+        "Promedio minimo": 778.8095238095239,
+        "nombre": "Dep\u00f3sito, distribuci\u00f3n y Venta por mayor de otros art\u00edculos",
+        "ramaID": 19
+    },
+    {
+        "ID": 127,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 705.0,
+        "nombre": "Dep\u00f3sito, distribuci\u00f3n y Venta por mayor de productos met\u00e1licos",
+        "ramaID": 19
+    },
+    {
+        "ID": 126,
+        "Promedio alicuota": 5.614285714285714,
+        "Promedio minimo": 605.0,
+        "nombre": "Dep\u00f3sito, distribuci\u00f3n y venta por mayor de sustancias qu\u00edmicas industriales; productos qu\u00edmicos y derivados del petr\u00f3leo",
+        "ramaID": 19
+    },
+    {
+        "ID": 136,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 455.0,
+        "nombre": "Dep\u00f3sito, distribuci\u00f3n y venta por menor de materiales para la construcci\u00f3n",
+        "ramaID": 19
+    },
+    {
+        "ID": 125,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 455.0,
+        "nombre": "Dep\u00f3sito y venta por mayor de madera, papel y derivados",
+        "ramaID": 19
+    },
+    {
+        "ID": 124,
+        "Promedio alicuota": 7.254545454545454,
+        "Promedio minimo": 750.4545454545455,
+        "nombre": "Dep\u00f3sito y venta por mayor de textiles, prendas de vestir y cuero; accesorios de vestir",
+        "ramaID": 19
+    },
+    {
+        "ID": 122,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 653.9583333333334,
+        "nombre": "Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisi\u00f3n o consignaci\u00f3n)",
+        "ramaID": 19
+    },
+    {
+        "ID": 123,
+        "Promedio alicuota": 10.950000000000001,
+        "Promedio minimo": 2431.6666666666665,
+        "nombre": "Fraccionamiento y venta por mayor de bebidas y tabacos",
+        "ramaID": 19
+    },
+    {
+        "ID": 131,
+        "Promedio alicuota": 8.75,
+        "Promedio minimo": 5082.5,
+        "nombre": "Venta al por mayor de automotores, motonetas y motocicletas",
+        "ramaID": 19
+    },
+    {
+        "ID": 121,
+        "Promedio alicuota": 20.90909090909091,
+        "Promedio minimo": 1026.8181818181818,
+        "nombre": "Venta al por mayor en comisi\u00f3n o consignaci\u00f3n",
+        "ramaID": 19
+    },
+    {
+        "ID": 137,
+        "Promedio alicuota": 8.441975308641975,
+        "Promedio minimo": 709.7901234567901,
+        "nombre": "Venta al por menor de art\u00edculos diversos",
+        "ramaID": 19
+    },
+    {
+        "ID": 132,
+        "Promedio alicuota": 18.599999999999998,
+        "Promedio minimo": 2921.6666666666665,
+        "nombre": "Venta al por menor de automotores, motonetas y motocicletas",
+        "ramaID": 19
+    },
+    {
+        "ID": 133,
+        "Promedio alicuota": 8.215625,
+        "Promedio minimo": 8164.609375,
+        "nombre": "Venta al por menor de productos alimenticios y bebidas",
+        "ramaID": 19
+    },
+    {
+        "ID": 135,
+        "Promedio alicuota": 7.2,
+        "Promedio minimo": 472.14285714285717,
+        "nombre": "Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero",
+        "ramaID": 19
+    },
+    {
+        "ID": 134,
+        "Promedio alicuota": 27.422222222222224,
+        "Promedio minimo": 871.6666666666666,
+        "nombre": "Venta al por menor en cigarrer\u00edas. Agencias de loter\u00eda y otros juegos de azar",
+        "ramaID": 19
+    },
+    {
+        "ID": 129,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 705.0,
+        "nombre": "Venta por mayor de materiales para la construcci\u00f3n",
+        "ramaID": 19
+    },
+    {
+        "ID": 130,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 705.0,
+        "nombre": "Venta por mayor de motores, m\u00e1quinas y equipos",
+        "ramaID": 19
+    },
+    {
+        "ID": 89,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 895.0,
+        "nombre": "Elaboraci\u00f3n de productos alimentarios diversos",
+        "ramaID": 15
+    },
+    {
+        "ID": 95,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 683.75,
+        "nombre": "Fabricaci\u00f3n de calzado excepto el de caucho vulcanizado o moldeados o de pl\u00e1stico",
+        "ramaID": 15
+    },
+    {
+        "ID": 113,
+        "Promedio alicuota": 7.033333333333333,
+        "Promedio minimo": 729.0,
+        "nombre": "Fabricaci\u00f3n de equipos de transporte",
+        "ramaID": 15
+    },
+    {
+        "ID": 114,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 595.0,
+        "nombre": "Fabricaci\u00f3n de muebles y accesorios de madera, ca\u00f1a, mimbre y otros, excepto los que son met\u00e1licos o de pl\u00e1stico",
+        "ramaID": 15
+    },
+    {
+        "ID": 105,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 625.0,
+        "nombre": "Fabricaci\u00f3n de objetos de barro, loza, porcelana y cer\u00e1mica",
+        "ramaID": 15
+    },
+    {
+        "ID": 106,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 718.0769230769231,
+        "nombre": "Fabricaci\u00f3n de otros productos minerales no met\u00e1licos",
+        "ramaID": 15
+    },
+    {
+        "ID": 97,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 726.25,
+        "nombre": "Fabricaci\u00f3n de papel y productos de papel",
+        "ramaID": 15
+    },
+    {
+        "ID": 93,
+        "Promedio alicuota": 7.3999999999999995,
+        "Promedio minimo": 783.5714285714286,
+        "nombre": "Fabricaci\u00f3n de prendas de vestir excepto calzados",
+        "ramaID": 15
+    },
+    {
+        "ID": 88,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 871.125,
+        "nombre": "Fabricaci\u00f3n de productos alimentarios excepto bebidas",
+        "ramaID": 15
+    },
+    {
+        "ID": 102,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 622.1428571428571,
+        "nombre": "Fabricaci\u00f3n de productos de caucho",
+        "ramaID": 15
+    },
+    {
+        "ID": 99,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 885.0,
+        "nombre": "Fabricaci\u00f3n de productos diversos derivados del petr\u00f3leo y carb\u00f3n",
+        "ramaID": 15
+    },
+    {
+        "ID": 109,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 683.0,
+        "nombre": "Fabricaci\u00f3n de productos met\u00e1licos excepto maquinaria y equipos",
+        "ramaID": 15
+    },
+    {
+        "ID": 103,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 657.8571428571429,
+        "nombre": "Fabricaci\u00f3n de productos pl\u00e1sticos diversos",
+        "ramaID": 15
+    },
+    {
+        "ID": 101,
+        "Promedio alicuota": 7.2272727272727275,
+        "Promedio minimo": 767.2727272727273,
+        "nombre": "Fabricaci\u00f3n de productos qu\u00edmicos diversos",
+        "ramaID": 15
+    },
+    {
+        "ID": 100,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 731.8181818181819,
+        "nombre": "Fabricaci\u00f3n de sustancias qu\u00edmicas industriales b\u00e1sicas",
+        "ramaID": 15
+    },
+    {
+        "ID": 92,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 669.8214285714286,
+        "nombre": "Fabricaci\u00f3n de textiles",
+        "ramaID": 15
+    },
+    {
+        "ID": 104,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 747.5,
+        "nombre": "Fabricaci\u00f3n de vidrio y productos de vidrio",
+        "ramaID": 15
+    },
+    {
+        "ID": 112,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 622.1428571428571,
+        "nombre": "Fabricaci\u00f3n y reparaci\u00f3n de equipos profesionales y cient\u00edficos, instrumentos de medida y control, fotogr\u00e1ficos y de \u00f3ptica, relojes",
+        "ramaID": 15
+    },
+    {
+        "ID": 110,
+        "Promedio alicuota": 7.058333333333334,
+        "Promedio minimo": 712.0833333333334,
+        "nombre": "Fabricaci\u00f3n y reparaci\u00f3n de maquinaria excepto la el\u00e9ctrica",
+        "ramaID": 15
+    },
+    {
+        "ID": 111,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 660.0,
+        "nombre": "Fabricaci\u00f3n y reparaci\u00f3n de maquinarias, aparatos, accesorios y suministros el\u00e9ctricos y electr\u00f3nicos",
+        "ramaID": 15
+    },
+    {
+        "ID": 98,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 320.0,
+        "nombre": "Imprentas, editoriales e industrias conexas",
+        "ramaID": 15
+    },
+    {
+        "ID": 96,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 617.2727272727273,
+        "nombre": "Industria de la madera y productos de madera, de corcho, paja y materiales trenzables, excepto muebles",
+        "ramaID": 15
+    },
+    {
+        "ID": 94,
+        "Promedio alicuota": 8.4,
+        "Promedio minimo": 864.0,
+        "nombre": "Industria del cuero, productos y suced\u00e1neos de cuero y pieles (excepto calzados y prendas de vestir)",
+        "ramaID": 15
+    },
+    {
+        "ID": 91,
+        "Promedio alicuota": 12.6,
+        "Promedio minimo": 1825.0,
+        "nombre": "Industria del tabaco",
+        "ramaID": 15
+    },
+    {
+        "ID": 107,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 747.5,
+        "nombre": "Industrias b\u00e1sicas de hierro y acero",
+        "ramaID": 15
+    },
+    {
+        "ID": 108,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 739.0,
+        "nombre": "Industrias b\u00e1sicas de metales no ferrosos incluyendo metales preciosos",
+        "ramaID": 15
+    },
+    {
+        "ID": 90,
+        "Promedio alicuota": 8.461538461538463,
+        "Promedio minimo": 860.7692307692307,
+        "nombre": "Industrias de bebidas",
+        "ramaID": 15
+    },
+    {
+        "ID": 115,
+        "Promedio alicuota": 7.233333333333334,
+        "Promedio minimo": 623.8888888888889,
+        "nombre": "Otras industrias manufactureras",
+        "ramaID": 15
+    },
+    {
+        "ID": 80,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 705.0,
+        "nombre": "Agricultura",
         "ramaID": 14
-    }, 
+    },
     {
-        "ID": 67, 
-        "Promedio alicuota": 13.142105263157896, 
-        "Promedio minimo": 1667.8947368421052, 
-        "nombre": "Bar, confiter\u00edas, pizzer\u00edas, lomiter\u00edas, empanader\u00edas, parrilla, trattor\u00eda y restaurantes con una superficie habilitada de m\u00e1s de 300 m2. Ubicados dentro de los siguientes per\u00edmetros:", 
-        "ramaID": 15
-    }, 
+        "ID": 81,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 705.0,
+        "nombre": "Cr\u00eda de animales",
+        "ramaID": 14
+    },
     {
-        "ID": 68, 
-        "Promedio alicuota": 15.8, 
-        "Promedio minimo": 1640.0, 
-        "nombre": "Bar, confiter\u00edas, pizzer\u00edas, lomiter\u00edas, empanader\u00edas, parrilla, trattor\u00eda y restaurantes con una superficie habilitada desde 101 m2 a 200 m2. Ubicados dentro de los siguientes per\u00edmetros:", 
-        "ramaID": 15
-    }, 
+        "ID": 87,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 895.0,
+        "nombre": "Explotaci\u00f3n de Canteras y Extracci\u00f3n de Minerales no Met\u00e1licos no clasificados en otra parte",
+        "ramaID": 14
+    },
     {
-        "ID": 69, 
-        "Promedio alicuota": 15.8, 
-        "Promedio minimo": 2055.0, 
-        "nombre": "Bar, confiter\u00edas, pizzer\u00edas, lomiter\u00edas, empanader\u00edas, parrilla, trattor\u00eda y restaurantes con una superficie habilitada desde 201 m2 a 300 m2. Ubicados dentro de los siguientes per\u00edmetros:", 
-        "ramaID": 15
-    }, 
+        "ID": 84,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 895.0,
+        "nombre": "Explotaci\u00f3n de Minas de Carb\u00f3n, Petr\u00f3leo Crudo y Gas Natural",
+        "ramaID": 14
+    },
     {
-        "ID": 70, 
-        "Promedio alicuota": 15.8, 
-        "Promedio minimo": 1230.0, 
-        "nombre": "Bar, confiter\u00edas, pizzer\u00edas, lomiter\u00edas, empanader\u00edas, parrilla, trattor\u00eda y restaurantes con una superficie habilitada hasta 100 m2. Ubicados dentro de los siguientes per\u00edmetros:", 
-        "ramaID": 15
-    }, 
+        "ID": 85,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 895.0,
+        "nombre": "Extracci\u00f3n de Minerales Met\u00e1licos",
+        "ramaID": 14
+    },
     {
-        "ID": 71, 
-        "Promedio alicuota": 8.4, 
-        "Promedio minimo": 1025.0, 
-        "nombre": "Expendio de comidas y bebidas en restaurante, caf\u00e9s y con servicio de mesa y mostrador", 
-        "ramaID": 15
-    }, 
+        "ID": 86,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 857.0,
+        "nombre": "Extracci\u00f3n de Piedra, piedra Caliza, Arcilla y Arena",
+        "ramaID": 14
+    },
     {
-        "ID": 72, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 575.0, 
-        "nombre": "Instrucci\u00f3n y Ense\u00f1anza", 
-        "ramaID": 15
-    }, 
+        "ID": 82,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 705.0,
+        "nombre": "Servicios agr\u00edcolas y pecuarios",
+        "ramaID": 14
+    },
     {
-        "ID": 73, 
-        "Promedio alicuota": 10.5, 
-        "Promedio minimo": 39.5, 
-        "nombre": "SERVICIOS", 
-        "ramaID": 16
-    }, 
+        "ID": 83,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 640.0,
+        "nombre": "Silvicultura, extracci\u00f3n de madera y viveros",
+        "ramaID": 14
+    },
     {
-        "ID": 74, 
-        "Promedio alicuota": 17.5, 
-        "Promedio minimo": 1093.3333333333333, 
-        "nombre": "Negocios con juegos electr\u00f3nicos, mec\u00e1nicos o similares por local habilitado, conforme a las siguientes escalas y m\u00ednimos:", 
-        "ramaID": 15
-    }, 
+        "ID": 142,
+        "Promedio alicuota": 14.528571428571428,
+        "Promedio minimo": 1042.8428571428572,
+        "nombre": "Comunicaciones",
+        "ramaID": 22
+    },
     {
-        "ID": 75, 
-        "Promedio alicuota": 11.715384615384616, 
-        "Promedio minimo": 546.2307692307693, 
-        "nombre": "Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento", 
-        "ramaID": 15
-    }, 
-    {
-        "ID": 76, 
-        "Promedio alicuota": 11.419047619047618, 
-        "Promedio minimo": 1329.5238095238096, 
-        "nombre": "Servicios de diversi\u00f3n, esparcimiento, cultural y deportivos", 
-        "ramaID": 15
-    }, 
-    {
-        "ID": 77, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 536.6666666666666, 
-        "nombre": "Servicios de lavander\u00eda, establecimientos de limpieza y te\u00f1ido", 
-        "ramaID": 15
-    }, 
-    {
-        "ID": 78, 
-        "Promedio alicuota": 7.2, 
-        "Promedio minimo": 575.0, 
-        "nombre": "Servicios de saneamiento y similares", 
-        "ramaID": 15
-    }, 
-    {
-        "ID": 79, 
-        "Promedio alicuota": 14.590000000000003, 
-        "Promedio minimo": 1035.25, 
-        "nombre": "Servicios empresariales", 
-        "ramaID": 15
-    }, 
-    {
-        "ID": 80, 
-        "Promedio alicuota": 8.335714285714287, 
-        "Promedio minimo": 527.5, 
-        "nombre": "Servicios personales n.c.p.", 
-        "ramaID": 15
-    }, 
-    {
-        "ID": 81, 
-        "Promedio alicuota": 6.626666666666667, 
-        "Promedio minimo": 519.9666666666667, 
-        "nombre": "Servicios relacionados con la salud humana", 
-        "ramaID": 15
-    }, 
-    {
-        "ID": 82, 
-        "Promedio alicuota": 11.961538461538462, 
-        "Promedio minimo": 1663.8461538461538, 
-        "nombre": "Servicios relacionados con pel\u00edculas, radio, TV, obras y espect\u00e1culos teatrales y musicales", 
-        "ramaID": 15
-    }, 
-    {
-        "ID": 83, 
-        "Promedio alicuota": 9.959999999999999, 
-        "Promedio minimo": 1754.0, 
-        "nombre": "Servicios inmobiliarios", 
+        "ID": 118,
+        "Promedio alicuota": 7.599999999999997,
+        "Promedio minimo": 691.4583333333334,
+        "nombre": "Construcci\u00f3n pesada y edificios, reforma, reparaci\u00f3n y prestaciones relacionadas con la construcci\u00f3n",
         "ramaID": 17
-    }, 
+    },
     {
-        "ID": 84, 
-        "Promedio alicuota": 9.9, 
-        "Promedio minimo": 2024.375, 
-        "nombre": "Servicios conexos con los de transporte", 
-        "ramaID": 18
-    }, 
+        "ID": 141,
+        "Promedio alicuota": 7.725,
+        "Promedio minimo": 1202.5,
+        "nombre": "Dep\u00f3sito y almacenamiento",
+        "ramaID": 21
+    },
     {
-        "ID": 85, 
-        "Promedio alicuota": 7.7, 
-        "Promedio minimo": 7735.0, 
-        "nombre": "Transporte a\u00e9reo", 
-        "ramaID": 18
-    }, 
+        "ID": 117,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 705.0,
+        "nombre": "Captaci\u00f3n, purificaci\u00f3n y distribuci\u00f3n de agua",
+        "ramaID": 16
+    },
     {
-        "ID": 86, 
-        "Promedio alicuota": 5.658333333333334, 
-        "Promedio minimo": 2436.6666666666665, 
-        "nombre": "Transporte terrestre", 
+        "ID": 116,
+        "Promedio alicuota": 2.3333333333333335,
+        "Promedio minimo": 455.8888888888889,
+        "nombre": "Electricidad, gas y vapor",
+        "ramaID": 16
+    },
+    {
+        "ID": 143,
+        "Promedio alicuota": 28.409090909090914,
+        "Promedio minimo": 868.2818181818183,
+        "nombre": "Establecimientos y servicios financieros",
+        "ramaID": 23
+    },
+    {
+        "ID": 147,
+        "Promedio alicuota": 9.476923076923075,
+        "Promedio minimo": 601.1538461538462,
+        "nombre": "Alquiler y arrendamiento de m\u00e1quinas, autos y equipos",
+        "ramaID": 27
+    },
+    {
+        "ID": 164,
+        "Promedio alicuota": 12.7,
+        "Promedio minimo": 1140.0,
+        "nombre": "Otras actividades",
+        "ramaID": 30
+    },
+    {
+        "ID": 146,
+        "Promedio alicuota": 23.1,
+        "Promedio minimo": 75.14,
+        "nombre": "Playas de estacionamiento",
+        "ramaID": 26
+    },
+    {
+        "ID": 148,
+        "Promedio alicuota": 28.657142857142855,
+        "Promedio minimo": 303.0,
+        "nombre": "Publicidad",
+        "ramaID": 28
+    },
+    {
+        "ID": 119,
+        "Promedio alicuota": 7.076923076923077,
+        "Promedio minimo": 473.46153846153845,
+        "nombre": "Mantenimiento y reparaci\u00f3n de automotores y motocicletas",
         "ramaID": 18
+    },
+    {
+        "ID": 120,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 553.8888888888889,
+        "nombre": "Reparaci\u00f3n de art\u00edculos personales y del hogar y/u otros",
+        "ramaID": 18
+    },
+    {
+        "ID": 144,
+        "Promedio alicuota": 15.1,
+        "Promedio minimo": 680.0,
+        "nombre": "Seguros",
+        "ramaID": 24
+    },
+    {
+        "ID": 154,
+        "Promedio alicuota": 13.142105263157896,
+        "Promedio minimo": 1667.8947368421052,
+        "nombre": "Bar, confiter\u00edas, pizzer\u00edas, lomiter\u00edas, empanader\u00edas, parrilla, trattor\u00eda y restaurantes con una superficie habilitada de m\u00e1s de 300 m2. Ubicados dentro de los siguientes per\u00edmetros:",
+        "ramaID": 29
+    },
+    {
+        "ID": 152,
+        "Promedio alicuota": 15.8,
+        "Promedio minimo": 1640.0,
+        "nombre": "Bar, confiter\u00edas, pizzer\u00edas, lomiter\u00edas, empanader\u00edas, parrilla, trattor\u00eda y restaurantes con una superficie habilitada desde 101 m2 a 200 m2. Ubicados dentro de los siguientes per\u00edmetros:",
+        "ramaID": 29
+    },
+    {
+        "ID": 153,
+        "Promedio alicuota": 15.8,
+        "Promedio minimo": 2055.0,
+        "nombre": "Bar, confiter\u00edas, pizzer\u00edas, lomiter\u00edas, empanader\u00edas, parrilla, trattor\u00eda y restaurantes con una superficie habilitada desde 201 m2 a 300 m2. Ubicados dentro de los siguientes per\u00edmetros:",
+        "ramaID": 29
+    },
+    {
+        "ID": 151,
+        "Promedio alicuota": 15.8,
+        "Promedio minimo": 1230.0,
+        "nombre": "Bar, confiter\u00edas, pizzer\u00edas, lomiter\u00edas, empanader\u00edas, parrilla, trattor\u00eda y restaurantes con una superficie habilitada hasta 100 m2. Ubicados dentro de los siguientes per\u00edmetros:",
+        "ramaID": 29
+    },
+    {
+        "ID": 150,
+        "Promedio alicuota": 8.4,
+        "Promedio minimo": 1025.0,
+        "nombre": "Expendio de comidas y bebidas en restaurante, caf\u00e9s y con servicio de mesa y mostrador",
+        "ramaID": 29
+    },
+    {
+        "ID": 156,
+        "Promedio alicuota": 7.233333333333333,
+        "Promedio minimo": 539.3,
+        "nombre": "Instrucci\u00f3n y Ense\u00f1anza",
+        "ramaID": 29
+    },
+    {
+        "ID": 161,
+        "Promedio alicuota": 17.5,
+        "Promedio minimo": 1093.3333333333333,
+        "nombre": "Negocios con juegos electr\u00f3nicos, mec\u00e1nicos o similares por local habilitado, conforme a las siguientes escalas y m\u00ednimos:",
+        "ramaID": 29
+    },
+    {
+        "ID": 149,
+        "Promedio alicuota": 11.715384615384616,
+        "Promedio minimo": 546.2307692307693,
+        "nombre": "Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento",
+        "ramaID": 29
+    },
+    {
+        "ID": 160,
+        "Promedio alicuota": 11.419047619047618,
+        "Promedio minimo": 1329.5238095238096,
+        "nombre": "Servicios de diversi\u00f3n, esparcimiento, cultural y deportivos",
+        "ramaID": 29
+    },
+    {
+        "ID": 162,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 536.6666666666666,
+        "nombre": "Servicios de lavander\u00eda, establecimientos de limpieza y te\u00f1ido",
+        "ramaID": 29
+    },
+    {
+        "ID": 158,
+        "Promedio alicuota": 7.2,
+        "Promedio minimo": 575.0,
+        "nombre": "Servicios de saneamiento y similares",
+        "ramaID": 29
+    },
+    {
+        "ID": 155,
+        "Promedio alicuota": 14.590000000000003,
+        "Promedio minimo": 1035.25,
+        "nombre": "Servicios empresariales",
+        "ramaID": 29
+    },
+    {
+        "ID": 163,
+        "Promedio alicuota": 8.335714285714287,
+        "Promedio minimo": 527.5,
+        "nombre": "Servicios personales n.c.p.",
+        "ramaID": 29
+    },
+    {
+        "ID": 157,
+        "Promedio alicuota": 6.626666666666667,
+        "Promedio minimo": 519.9666666666667,
+        "nombre": "Servicios relacionados con la salud humana",
+        "ramaID": 29
+    },
+    {
+        "ID": 159,
+        "Promedio alicuota": 11.961538461538462,
+        "Promedio minimo": 1663.8461538461538,
+        "nombre": "Servicios relacionados con pel\u00edculas, radio, TV, obras y espect\u00e1culos teatrales y musicales",
+        "ramaID": 29
+    },
+    {
+        "ID": 145,
+        "Promedio alicuota": 9.959999999999999,
+        "Promedio minimo": 1754.0,
+        "nombre": "Servicios inmobiliarios",
+        "ramaID": 25
+    },
+    {
+        "ID": 140,
+        "Promedio alicuota": 9.9,
+        "Promedio minimo": 2024.375,
+        "nombre": "Servicios conexos con los de transporte",
+        "ramaID": 20
+    },
+    {
+        "ID": 139,
+        "Promedio alicuota": 7.7,
+        "Promedio minimo": 7735.0,
+        "nombre": "Transporte a\u00e9reo",
+        "ramaID": 20
+    },
+    {
+        "ID": 138,
+        "Promedio alicuota": 5.658333333333334,
+        "Promedio minimo": 2436.6666666666665,
+        "nombre": "Transporte terrestre",
+        "ramaID": 20
     }
 ]

@@ -4,9 +4,30 @@ Transformar los CSV en varios JSON compatibles con el _Zoomable Treemap_ para di
 """
 
 fRamas = "RamasDeActividad-2017.csv"
-fCategorias = "CategoriasDeActividad-2017.csv"
-fActividades = "ActividadesOTA-2017.csv"
+"""
+Sample
+id,nombre
+7,ACTIVIDADES COMERCIALES POR MAYOR
+1,ACTIVIDADES COMERCIALES POR MENOR
+4,ACTIVIDADES FINANCIERAS
+"""
 
+fCategorias = "CategoriasDeActividad-2017.csv"
+"""
+Sample
+id,rama,nombre
+5,3,AGRICULTURA
+14,6,"ALQUILER Y ARRENDAMIENTO DE MÁQUINAS, AUTOS Y EQUIPOS"
+71,11,"CAPTACIÓN, PURIFICACIÓN Y DISTRIBUCIÓN DE AGUA"
+"""
+
+fActividades = "ActividadesOTA-2017.csv"
+"""
+Sample
+id,categoria,codigo,nombre,minimo,alicuota_num
+557,52,171200.2,"Acabado de textiles (incluye blanqueo, teñido y estampado)",577.00,7.00
+368,27,523952.1,Activación de líneas teléfonos celulares,783.00,15.80
+"""
 import csv
 import json
 

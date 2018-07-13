@@ -1,14 +1,26 @@
 # -*- coding: utf-8 -*-
 """
 Transformar los CSV en varios JSON compatibles con el _Zoomable Treemap_ para diferentes gráficos.
+Adaptación rapida del script del año anterior que tenia los datos organizados de otra forma
 """
-
-fRamas = "RamasDeActividad-2018.csv"
-fCategorias = "CategoriasDeActividad-2018.csv"
-fActividades = "ActividadesOTA2018.csv"
 
 import csv
 import json
+import requests
+import os
+url_data = 'http://gobiernoabierto.cordoba.gob.ar/tarifaria/lista-de-rubros-2018.csv?p=9011'
+""" Sample
+Nº Código,Alíc.,Mínimo,Actividad ID,Descripción,Rama ID,Rama,Categoria ID,Categoria
+513410,7.00,705.00,1454,Venta al por mayor de aparatos fotográficos e instrumentos de óptica,19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513532,7.00,705.00,1456,Venta al por mayor de artículos de bazar y menaje,19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+"""
+csv_data = 'lista-de-rubros-2018.csv'
+# si el archivo ya existe, no bajarlo
+if not os.path.isfile(csv_data):
+    req = requests.get(url_data)
+    f = open(csv_data, 'wb')
+    f.write(req.content)
+    f.close()
 
 def buscarNombrePorID(ID, listItems):
     for item in listItems:
@@ -20,6 +32,9 @@ def buscarRamaPorCategoria(ID, listItems):
         if item['ID'] == ID:
             return item['ramaID']
 
+ramas = {}
+categorias = {}
+actividades = {}
 
 fjson1 = []  # json final para lista de Ramas
 fjson2 = []  # json final para lista de Categorias
@@ -31,77 +46,54 @@ fjsonDataNodesAli = []  # json final para lista de Actividades (tamaño y nombre
 fjsonPositionNodes = [] # json final para lista de posiciones de nodos
 fjsonConnectionNodes = [] #json final para conexiones de nodos
 
-with open(fRamas) as csvfile:
-    """
-    Este archivo describe los ingresos previstos en el presupuesto 2017
-    _Nivel_ que define la estructura jerárquica de los datos
-    """
+with open(csv_data) as csvfile:
     reader = csv.DictReader(csvfile, delimiter=',', quotechar='"')
-
-
     detalle = {}  # detalle de la linea actual dentro de la estructura
     for row in reader:
-            linea = {"ID": int(row["id"]),
-                     "nombre": row["nombre"]}
+        actividad_codigo = row['Nº Código'].strip()
+        alicuota = row['Alíc.'].strip()
+        minimo = row['Mínimo'].strip()
+        actividad_id = row['Actividad ID'].strip()
+        actividad_descripcion = row['Descripción'].strip()
+        rama_id = row['Rama ID'].strip()
+        rama_nombre = row['Rama'].strip()
+        categoria_id = row['Categoria ID'].strip()
+        categoria_nombre = row['Categoria'].strip()
+        
+        if rama_id not in ramas.keys():
+            ramas[rama_id] = rama_nombre
+            linea = {"ID": int(rama_id), "nombre": rama_nombre}
             fjson1.append(linea)
 
-with open(fCategorias) as csvfile:
-    """
-    Este archivo describe los ingresos previstos en el presupuesto 2017
-    _Nivel_ que define la estructura jerárquica de los datos
-    """
-    reader = csv.DictReader(csvfile, delimiter=',', quotechar='"')
+        # lista de categorias
+        if categoria_id not in categorias.keys():
+            categorias[categoria_id] = categoria_nombre
+        
+            linea = {"ID": int(categoria_id), "ramaID": int(rama_id), "nombre": categoria_nombre}
+            connection = {"source": rama_nombre, "target": categoria_nombre}
+            
+            if rama_nombre == categoria_nombre:
+                linea["nombre"] += "_"
+                connection["target"] += "_"
 
-
-    detalle = {}  # detalle de la linea actual dentro de la estructura
-    for row in reader:
-            nombreRama = buscarNombrePorID(int(row["rama"]), fjson1)
-            if (nombreRama == row["nombre"]):
-                linea = {"ID": int(row["id"]),
-                         "ramaID": int(row["rama"]),
-                         "nombre": row["nombre"]+"_"}
-
-                connection = {"source": nombreRama,
-                              "target": row["nombre"]+"_"}
-            else:
-                linea = {"ID": int(row["id"]),
-                         "ramaID": int(row["rama"]),
-                         "nombre": row["nombre"]}
-
-                connection = {"source": nombreRama,
-                              "target": row["nombre"]}
             fjson2.append(linea)
             fjsonConnectionNodes.append(connection)
 
+        actividades[actividad_id] = actividad_descripcion
+        
+        linea = {"ID": int(actividad_id),
+                 "categoriaID": int(categoria_id),
+                 "codigo": actividad_codigo,
+                 "nombre": actividad_descripcion,
+                 "minimo": float(minimo),
+                 "alicuota":  float(alicuota),
+                 "categoria_nombre": categoria_nombre,
+                 "ramaID": int(rama_id),
+                 "rama_nombre": rama_nombre
+                  }
+        fjson3.append(linea)
 
-with open(fActividades) as csvfile:
-    """
-    Este archivo describe los ingresos previstos en el presupuesto 2017
-    _Nivel_ que define la estructura jerárquica de los datos
-    """
-    reader = csv.DictReader(csvfile, delimiter=',', quotechar='"')
-
-
-    detalle = {}  # detalle de la linea actual dentro de la estructura
-    for row in reader:
-            categoria_nom = buscarNombrePorID(int(row["categoria"]), fjson2)
-            linea = {"ID": int(row["id"]),
-                     "categoriaID": int(row["categoria"]),
-                     "codigo": row["codigo"],
-                     "nombre": row["nombre"],
-                     "minimo": float(row["minimo"]),
-                     "alicuota":  float(row["alicuota_num"]),
-                     "categoria_nombre": categoria_nom,
-                     "ramaID": int(buscarRamaPorCategoria(int(row["categoria"]),fjson2)),
-                     "rama_nombre": buscarNombrePorID(buscarRamaPorCategoria(int(row["categoria"]),fjson2), fjson1)
-                      }
-            fjson3.append(linea)
-
-            connection = {"source": categoria_nom,
-                          "target": row["nombre"]}
-            # fjsonConnectionNodes.append(connection)
-
-
+        connection = {"source": categoria_nombre, "target": actividad_descripcion}
 
 def getMinimoTotalRama(rama):
     total = 0
