@@ -1,0 +1,962 @@
+Nº Código,Alíc.,Mínimo,Actividad ID,Descripción,Rama ID,Rama,Categoria ID,Categoria
+513410,7.00,705.00,1454,Venta al por mayor de aparatos fotográficos e instrumentos de óptica,19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513532,7.00,705.00,1456,Venta al por mayor de artículos de bazar y menaje,19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513910,7.00,705.00,1460,Venta al por mayor de artículos de limpieza y saneamiento,19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513320,8.40,705.00,1453,"Venta al por mayor de artículos de tocador, jabones, perfumes, cosméticos",19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513940,7.00,705.00,1463,Venta al por mayor de artículos para deportes y camping,19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513992,7.00,705.00,1465,Venta al por mayor de artículos para kiosco y para salones de venta,19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513930,8.40,705.00,1462,Venta al por mayor de bicicletas y rodados similares,19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513999.4,7.00,705.00,1469,Venta al por mayor de cámaras y cubiertas,19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+515150,7.00,705.00,1472,"Venta al por mayor de descartables de uso médico, paramédico, odontológico y ortopédico",19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513551.2,8.40,955.00,1458,"Venta al por mayor de discos, cassettes, DVD, videojuegos. Disquerías",19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513552,7.00,705.00,1459,"Venta al por mayor de equipos y aparatos de radio, televisión, comunicaciones y sus componentes",19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513551.1,7.00,705.00,1457,Venta al por mayor de instrumentos musicales,19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513420,15.80,1570.00,1455,"Venta al por mayor  de joyas, relojes y artículos conexos",19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513920,7.00,705.00,1461,Venta al por mayor de juguetes y artículos de cotillón,19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513999.3,8.40,705.00,1468,"Venta al por mayor de máquinas, equipos y aparatos de uso doméstico (incluidos los eléctricos)",19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+515420,7.00,705.00,1473,Venta al por mayor de muebles y accesorios excepto los metálicos,19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513950,7.00,705.00,1464,"Venta al por mayor de papeles para pared, revestimiento para pisos de goma, plástico y textiles, y artículos similares para la decoración",19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513999.6,8.40,1140.00,1471,Venta al por mayor de Pirotecnia,19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513999.5,7.00,705.00,1470,Venta al por mayor de productos n.c.p.,19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513999.2,7.00,705.00,1467,Venta al por mayor de tarjetas de telefonía,19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513999.1,7.00,705.00,1466,Venta al por mayor de tarjetas de transporte,19,ACTIVIDADES COMERCIALES,128,"Depósito, distribución y Venta por mayor de otros artículos"
+513918,7.00,705.00,1452,Venta al por mayor de chatarra,19,ACTIVIDADES COMERCIALES,127,"Depósito, distribución y Venta por mayor de productos metálicos"
+513916,7.00,705.00,1450,"Venta al por mayor de hierros, aceros, metales no ferrosos y subproductos, excepto chatarra",19,ACTIVIDADES COMERCIALES,127,"Depósito, distribución y Venta por mayor de productos metálicos"
+513917,7.00,705.00,1451,Venta al por mayor de muebles de metal y sus accesorios,19,ACTIVIDADES COMERCIALES,127,"Depósito, distribución y Venta por mayor de productos metálicos"
+513381,5.00,1255.00,1438,"Combustibles derivados del Petróleo y Gas natural Comprimido, en Estaciones de Servicios y otras actividades reguladas por la Ordenanza Nº 9.748/97 y sus modificatorias, localizadas en las zonas determinadas por el artículo 10° de dicha ordenanza",19,ACTIVIDADES COMERCIALES,126,"Depósito, distribución y venta por mayor de sustancias químicas industriales; productos químicos y derivados del petróleo"
+514199.2,7.00,455.00,1444,Distribución y venta al por mayor de carbón y sus derivados,19,ACTIVIDADES COMERCIALES,126,"Depósito, distribución y venta por mayor de sustancias químicas industriales; productos químicos y derivados del petróleo"
+514990,4.00,455.00,1449,Distribución y venta al por mayor de petróleo y sus derivados (excepto combustibles),19,ACTIVIDADES COMERCIALES,126,"Depósito, distribución y venta por mayor de sustancias químicas industriales; productos químicos y derivados del petróleo"
+514932,7.00,455.00,1446,Distribución y venta al por mayor de productos de caucho,19,ACTIVIDADES COMERCIALES,126,"Depósito, distribución y venta por mayor de sustancias químicas industriales; productos químicos y derivados del petróleo"
+514110.2,4.00,455.00,1441,"Fraccionamiento, distribución y venta al por mayor de aditivos y lubricantes",19,ACTIVIDADES COMERCIALES,126,"Depósito, distribución y venta por mayor de sustancias químicas industriales; productos químicos y derivados del petróleo"
+514191,4.00,455.00,1442,Fraccionamiento y distribuidores al por mayor de gas licuado (incluye envasado de garrafas),19,ACTIVIDADES COMERCIALES,126,"Depósito, distribución y venta por mayor de sustancias químicas industriales; productos químicos y derivados del petróleo"
+514931,7.00,455.00,1445,Venta al por mayor de abonos y plaguicidas,19,ACTIVIDADES COMERCIALES,126,"Depósito, distribución y venta por mayor de sustancias químicas industriales; productos químicos y derivados del petróleo"
+514933,7.00,455.00,1447,Venta al por mayor de artículos de plástico,19,ACTIVIDADES COMERCIALES,126,"Depósito, distribución y venta por mayor de sustancias químicas industriales; productos químicos y derivados del petróleo"
+514934,7.00,455.00,1448,Venta al por mayor de Bolsas y/o productos de Polietileno,19,ACTIVIDADES COMERCIALES,126,"Depósito, distribución y venta por mayor de sustancias químicas industriales; productos químicos y derivados del petróleo"
+514199.1,4.00,455.00,1443,"Venta al por mayor de combustibles y lubricantes, excepto para automotores y gas en garrafas",19,ACTIVIDADES COMERCIALES,126,"Depósito, distribución y venta por mayor de sustancias químicas industriales; productos químicos y derivados del petróleo"
+514110.1,4.00,455.00,1440,Venta al por mayor de combustibles y lubricantes para automotores,19,ACTIVIDADES COMERCIALES,126,"Depósito, distribución y venta por mayor de sustancias químicas industriales; productos químicos y derivados del petróleo"
+513310.1,7.00,955.00,1436,Venta al por mayor de productos farmacéuticos y veterinarios,19,ACTIVIDADES COMERCIALES,126,"Depósito, distribución y venta por mayor de sustancias químicas industriales; productos químicos y derivados del petróleo"
+515160,4.00,455.00,1439,Venta al por mayor de sustancias químicas industriales y materias primas para la elaboración de plásticos,19,ACTIVIDADES COMERCIALES,126,"Depósito, distribución y venta por mayor de sustancias químicas industriales; productos químicos y derivados del petróleo"
+513310.2,7.60,1255.00,1437,Venta por mayor de productos farmacéuticos y veterinarios (medicamentos),19,ACTIVIDADES COMERCIALES,126,"Depósito, distribución y venta por mayor de sustancias químicas industriales; productos químicos y derivados del petróleo"
+523610,7.00,455.00,1549,"Venta al por menor de aberturas (puertas, ventanas, armazones)",19,ACTIVIDADES COMERCIALES,136,"Depósito, distribución y venta por menor de materiales para la construcción"
+523630,7.00,455.00,1550,Venta al por menor de artículos de ferretería. Ferretería,19,ACTIVIDADES COMERCIALES,136,"Depósito, distribución y venta por menor de materiales para la construcción"
+523670,7.00,455.00,1553,Venta al por menor de artículos de revestimiento y decoración,19,ACTIVIDADES COMERCIALES,136,"Depósito, distribución y venta por menor de materiales para la construcción"
+523690.2,7.00,455.00,1555,Venta al por menor de materiales de construcción,19,ACTIVIDADES COMERCIALES,136,"Depósito, distribución y venta por menor de materiales para la construcción"
+523640,7.00,455.00,1551,"Venta al por menor de pinturas, barnices, lacas, esmaltes y artículos de pinturería",19,ACTIVIDADES COMERCIALES,136,"Depósito, distribución y venta por menor de materiales para la construcción"
+523690.1,7.00,455.00,1554,Venta al por menor de sanitarios,19,ACTIVIDADES COMERCIALES,136,"Depósito, distribución y venta por menor de materiales para la construcción"
+523660,7.00,455.00,1552,"Venta al por menor de vidrios, cristales, espejos, mamparas y cerramientos (incluye su colocación). Vidrierías",19,ACTIVIDADES COMERCIALES,136,"Depósito, distribución y venta por menor de materiales para la construcción"
+513212,7.00,455.00,1433,Distribución por mayor de diarios y revistas,19,ACTIVIDADES COMERCIALES,125,"Depósito y venta por mayor de madera, papel y derivados"
+513223,7.00,455.00,1435,Venta al por mayor de artículos de librería y papelería,19,ACTIVIDADES COMERCIALES,125,"Depósito y venta por mayor de madera, papel y derivados"
+513221,7.00,455.00,1434,Venta al por mayor de papel y productos de papel y cartón,19,ACTIVIDADES COMERCIALES,125,"Depósito y venta por mayor de madera, papel y derivados"
+513211.1,7.00,455.00,1431,Venta al por mayor de textos nuevos,19,ACTIVIDADES COMERCIALES,125,"Depósito y venta por mayor de madera, papel y derivados"
+513211.2,7.00,455.00,1432,Venta al por mayor de textos usados,19,ACTIVIDADES COMERCIALES,125,"Depósito y venta por mayor de madera, papel y derivados"
+513149,7.00,705.00,1430,Venta al por mayor de artículos de marroquinería,19,ACTIVIDADES COMERCIALES,124,"Depósito y venta por mayor de textiles, prendas de vestir y cuero; accesorios de vestir"
+513122,7.00,705.00,1425,"Venta al por mayor de artículos de mercería, medias y artículos de punto",19,ACTIVIDADES COMERCIALES,124,"Depósito y venta por mayor de textiles, prendas de vestir y cuero; accesorios de vestir"
+513115,7.00,705.00,1423,"Venta al por mayor de artículos de tapicería, tapices y alfombras",19,ACTIVIDADES COMERCIALES,124,"Depósito y venta por mayor de textiles, prendas de vestir y cuero; accesorios de vestir"
+513130,7.00,705.00,1428,Venta al por mayor de calzados (incluye zapatos y zapatillas),19,ACTIVIDADES COMERCIALES,124,"Depósito y venta por mayor de textiles, prendas de vestir y cuero; accesorios de vestir"
+513111,7.00,705.00,1420,"Venta al por mayor de fibras, hilados e hilos",19,ACTIVIDADES COMERCIALES,124,"Depósito y venta por mayor de textiles, prendas de vestir y cuero; accesorios de vestir"
+513114,7.00,705.00,1422,Venta al por mayor de mantelería y ropa de cama,19,ACTIVIDADES COMERCIALES,124,"Depósito y venta por mayor de textiles, prendas de vestir y cuero; accesorios de vestir"
+513141,8.40,955.00,1429,Venta al por mayor de pieles y cueros,19,ACTIVIDADES COMERCIALES,124,"Depósito y venta por mayor de textiles, prendas de vestir y cuero; accesorios de vestir"
+513121,8.40,955.00,1424,Venta al por mayor de prendas de vestir de cuero (excepto calzado),19,ACTIVIDADES COMERCIALES,124,"Depósito y venta por mayor de textiles, prendas de vestir y cuero; accesorios de vestir"
+513129,7.00,705.00,1427,Venta al por mayor de prendas de vestir (excepto de cuero y calzado),19,ACTIVIDADES COMERCIALES,124,"Depósito y venta por mayor de textiles, prendas de vestir y cuero; accesorios de vestir"
+513112,7.00,705.00,1421,Venta al por mayor de tejidos,19,ACTIVIDADES COMERCIALES,124,"Depósito y venta por mayor de textiles, prendas de vestir y cuero; accesorios de vestir"
+513123,7.00,705.00,1426,Venta de pañales por mayor,19,ACTIVIDADES COMERCIALES,124,"Depósito y venta por mayor de textiles, prendas de vestir y cuero; accesorios de vestir"
+512299.2,7.00,455.00,1410,Distribución y venta al por mayor de alimentos y suplementos dietarios.,19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512250,7.00,455.00,1401,Distribución y venta al por mayor de pan y productos de panificación,19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512279,7.00,455.00,1406,Distribución y venta al por mayor de productos y subproductos de molinería,19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512299.1,7.00,455.00,1409,"Fraccionamiento, distribución y venta al por mayor de encurtidos",19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512299.5,7.00,455.00,1413,"Fraccionamiento, distribución y venta por mayor de productos alimentarios n.c.p.",19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512271,7.00,455.00,1403,Fraccionamiento y venta al por mayor de azúcar,19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512212.2,7.00,455.00,1396,Queserías. Venta al por mayor de quesos,19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512272,7.00,455.00,1404,"Venta al por mayor de aceites y grasas comestibles, vinagres",19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512229,7.00,455.00,1398,Venta al por mayor de aves y huevos,19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512273,7.00,455.00,1405,"Venta al por mayor de café, té y yerba mate (incluye Fraccionamiento, y venta al por mayor de sal), (Fraccionamiento, y venta al por mayor de té y especias)",19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512260,7.00,455.00,1402,"Venta al por mayor de chocolate y sus preparados, caramelos y otros derivados del azúcar",19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512212.1,7.00,455.00,1395,"Venta al por mayor de fiambres, embutidos y chacinados",19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512240,7.00,5110.00,1400,"Venta al por mayor de frutas, hortalizas y verduras en el Mercado de Abasto",19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512121,7.00,455.00,1392,"Venta al por mayor de lanas, cueros y frutos del país",19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512291,7.00,455.00,1407,Venta al por mayor de legumbres y cereales,19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512129,7.00,455.00,1393,"Venta al por mayor de materias primas pecuarias, incluye animales vivos",19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512230,7.00,575.00,1399,Venta al por mayor de pescados y productos marinos,19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512211,7.00,455.00,1394,Venta al por mayor de productos lácteos (excepto quesos),19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512299.3,7.00,455.00,1411,"Venta, distribución y fraccionamiento al por mayor de productos dietéticos.",19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512111,7.00,455.00,1390,Venta por mayor de cereales,19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512292,7.00,455.00,1408,Venta por mayor de productos para animales incluidos medicamentos y mascotas,19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512112,7.00,455.00,1391,Venta por mayor de semillas,19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512221,7.00,455.00,1397,Venta y abastecimiento de carne y derivados,19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512299.4,7.00,455.00,1412,Venta y distribución al por mayor de otros productos y subproductos ganaderos y agrícolas,19,ACTIVIDADES COMERCIALES,122,"Fraccionamiento, venta al por mayor de materias primas agropecuarias, de animales vivos y alimentos (excepto comisión o consignación)"
+512330,10.50,11260.00,1418,Expendio de bebidas alcohólicas: entre las 24 Hs. y las 07 del día siguiente.,19,ACTIVIDADES COMERCIALES,123,Fraccionamiento y venta por mayor de bebidas y tabacos
+512319,7.00,455.00,1416,"Fraccionamiento, distribución y venta por mayor de alcoholes",19,ACTIVIDADES COMERCIALES,123,Fraccionamiento y venta por mayor de bebidas y tabacos
+512312,7.90,455.00,1415,Venta al por mayor de bebidas alcohólicas y energizantes,19,ACTIVIDADES COMERCIALES,123,Fraccionamiento y venta por mayor de bebidas y tabacos
+512320,7.00,575.00,1417,"Venta al por mayor de bebidas no alcohólicas, aguas, gaseosas",19,ACTIVIDADES COMERCIALES,123,Fraccionamiento y venta por mayor de bebidas y tabacos
+512400,26.30,1390.00,1419,Venta al por mayor de tabacos y cigarrillos,19,ACTIVIDADES COMERCIALES,123,Fraccionamiento y venta por mayor de bebidas y tabacos
+512311,7.00,455.00,1414,Venta al por mayor de vinos sin fraccionamiento,19,ACTIVIDADES COMERCIALES,123,Fraccionamiento y venta por mayor de bebidas y tabacos
+501210.2,7.00,9025.00,1487,Venta al por mayor de automotores nuevos y  usados,19,ACTIVIDADES COMERCIALES,131,"Venta al por mayor de automotores, motonetas y motocicletas"
+501110.2,10.50,1140.00,1486,Venta al por mayor de motocicletas nuevas y usadas,19,ACTIVIDADES COMERCIALES,131,"Venta al por mayor de automotores, motonetas y motocicletas"
+511919.1,19.00,705.00,1380,Venta al por mayor en comisión o consignación de alimentos y bebidas no alcohólicas,19,ACTIVIDADES COMERCIALES,121,Venta al por mayor en comisión o consignación
+511919.2,19.00,705.00,1381,Venta al por mayor en comisión o consignación de bebidas alcohólicas,19,ACTIVIDADES COMERCIALES,121,Venta al por mayor en comisión o consignación
+511940.1,17.40,1140.00,1383,"Venta al por mayor en comisión o consignación de energía eléctrica, gas y combustibles",19,ACTIVIDADES COMERCIALES,121,Venta al por mayor en comisión o consignación
+511990.5,17.40,1225.00,1387,"Venta al por mayor en comisión o consignación de frutas, hortalizas y verduras en el Mercado de Abasto",19,ACTIVIDADES COMERCIALES,121,Venta al por mayor en comisión o consignación
+511990.4,19.00,455.00,1386,Venta al por mayor en comisión o consignación de mercaderías n.c.p.,19,ACTIVIDADES COMERCIALES,121,Venta al por mayor en comisión o consignación
+511990.1,20.80,455.00,1384,Venta al por mayor en comisión o consignación de productos medicinales,19,ACTIVIDADES COMERCIALES,121,Venta al por mayor en comisión o consignación
+511919.3,19.00,705.00,1382,Venta al por mayor en comisión o consignación de tabaco,19,ACTIVIDADES COMERCIALES,121,Venta al por mayor en comisión o consignación
+511990.7,43.00,2920.00,1389,Venta al por mayor  por contrato de concesión n.c.p.,19,ACTIVIDADES COMERCIALES,121,Venta al por mayor en comisión o consignación
+511990.3,19.00,1140.00,1385,Venta de automotores nuevos por comisiones o consignaciones. Incluye planes de ahorro,19,ACTIVIDADES COMERCIALES,121,Venta al por mayor en comisión o consignación
+511990.6,19.00,1140.00,1388,Venta de automotores usados por comisiones o consignaciones. Incluye planes de ahorro,19,ACTIVIDADES COMERCIALES,121,Venta al por mayor en comisión o consignación
+511120,17.40,705.00,1379,"Venta por cuenta y orden de terceros que se ejerza percibiendo comisiones, bonificaciones, porcentajes y/u otras retribuciones análogas – Excepto concesión de vehículos.",19,ACTIVIDADES COMERCIALES,121,Venta al por mayor en comisión o consignación
+523952.1,15.80,955.00,1596,Activación de líneas teléfonos celulares,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523999.2,7.00,575.00,1610,Artesanos. Venta al por menor de artesanías,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+524990,8.40,575.00,1626,Artículos usados o reacondicionados,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523960.1,7.00,575.00,1598,Carbón y leña,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523960,7.00,1140.00,1597,Combustibles derivados del petróleo y Gas Natural Comprimido,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523963,7.40,1140.00,1600,"Combustibles derivados del petróleo y Gas Natural Comprimido, en estaciones de servicio y otras actividades reguladas por la Ordenanza Nº 9.748/97 y sus modificatorias como localizadas en zonas determinadas por el artículo 10° de dicha ordenanza",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523590,7.00,575.00,1574,Compra y venta de artículos del hogar y muebles,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523720.2,15.80,2260.00,1580,Compra y venta de oro,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+525000,7.00,575.00,1627,Desarmaderos de autos y venta al por menor de sus partes. Repuestos y accesorios usados,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+525900.1,8.40,955.00,1630,Pirotecnia por menor,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523966,7.00,575.00,1602,Recarga y venta al por menor de garrafas y combustibles sólidos y líquidos,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523965,7.00,575.00,1601,Recarga y venta al por menor de gas carbónico p/matafuegos y gasificadores,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+525901,8.40,955.00,1633,Sex shop (conforme a la tipificación que fije el DEM),19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+503100.2,7.00,705.00,1557,"Venta al por mayor de repuestos y accesorios para vehículos automotores, incluido equipos de G.N.C.",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523999.9,7.00,575.00,1617,Venta al por menor de alarmas y otros artículos de seguridad,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+524910,10.50,575.00,1625,"Venta al por menor de antigüedades, objetos de arte, cuadros, marcos, filatelia y numismática",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523710.1,8.40,575.00,1576,"Venta al por menor de aparatos fotográficos, artículos de fotografía",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523560.3,7.00,575.00,1572,"Venta al por menor de aparatos para videojuegos; cassettes, DVD; reproductores; videograbadoras y similares",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523530,7.00,575.00,1567,Venta al por menor de aparatos y artefactos eléctricos para la iluminación,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523942,8.40,575.00,1592,Venta al por menor de armas y artículos de cuchillería. Armería. Cuchillería. Venta al por menor de artículos de caza y pesca,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523540,7.00,575.00,1568,Venta al por menor de artículos de bazar y menaje,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+524000,7.00,575.00,1623,Venta al por menor de artículos de camping,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523510,7.00,575.00,1565,Venta al por menor de artículos de caña y mimbre. Venta de muebles. Mueblería,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523930.2,7.00,575.00,1591,Venta al por menor de artículos de cotillón,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523550,7.40,575.00,1569,Venta al por menor de artículos del hogar,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523830,7.00,575.00,1583,"Venta al por menor de artículos de librería, papelería y para oficina",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523620,7.00,575.00,1575,Venta al por menor de artículos de madera n.c.p.,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523710.2,7.00,575.00,1577,Venta al por menor de artículos de óptica y ortopedia,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523120,7.90,575.00,1563,Venta al por menor de artículos de perfumería y cosmética,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523999.6,7.00,575.00,1614,Venta al por menor de artículos de plástico,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523999.13,7.00,575.00,1621,Venta al por menor de artículos de santería,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523952,7.00,575.00,1595,Venta al por menor de artículos de telefonía - celulares y sus accesorios,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523999.11,7.00,575.00,1619,"Venta al por menor de artículos electrónicos, sus repuestos y accesorios (excepto del hogar)",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+525900,7.40,575.00,1629,Venta al por menor de artículos n.c.p.,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523999.7,7.00,575.00,1615,Venta al por menor de artículos para publicidad,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523999.3,7.00,575.00,1611,Venta al por menor de artículos para regalos. Regalería,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523920,7.00,575.00,1589,"Venta al por menor de artículos, productos y insumos de limpieza",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523999.4,7.00,575.00,1612,Venta al por menor de artículos regionales,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+525900.2,7.40,705.00,1631,Venta al por menor de artículos varios. Polirubros,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523999.5,7.00,575.00,1613,"Venta al por menor de bicicletas y rodados infantiles, sus repuestos y accesorios",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523999.14,7.00,575.00,1622,Venta al por menor de bolsas y/o productos de polietileno,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+503210,7.00,575.00,1561,Venta al por menor de cámaras y cubiertas.,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523520,7.00,575.00,1566,"Venta al por menor de colchones, almohadas y accesorios",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523820,7.00,575.00,1582,Venta al por menor de diarios y revistas,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523560.2,7.00,575.00,1571,"Venta al por menor de discos, cassettes, DVD, DVC, videos juegos y similares. Disquerías",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523993,7.00,575.00,1608,"Venta al por menor de equipo profesional, científico e instrumentos de medida y de control",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523911,7.00,575.00,1585,Venta al por menor de flores y plantas naturales y artificiales,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523913,7.00,575.00,1587,Venta al por menor de forrajes,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523110.2,7.00,575.00,1560,Venta al por menor de herboristería,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523999.1,7.00,575.00,1609,Venta al por menor de herrajes en general,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523560.1,7.00,575.00,1570,Venta al por menor de instrumentos musicales,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523999.10,7.00,575.00,1618,Venta al por menor de insumos médicos,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523720.1,15.80,1140.00,1579,"Venta al por menor de joyas, relojes y artículos conexos",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523930.1,7.00,575.00,1590,Venta al por menor de juguetes. Jugueterías,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523999.12,7.00,575.00,1620,Venta al por menor de lanchas y embarcaciones deportivas,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+505000,7.00,575.00,1562,Venta al por menor de lubricantes líquidos y sólidos,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523950,7.40,575.00,1593,"Venta al por menor de máquinas de oficina, computadoras, cálculo, sus componentes y repuestos",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523992.2,7.40,575.00,1607,"Venta al por menor de máquinas n.c.p. y motores, incluidos sus repuestos",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523992.1,7.00,575.00,1606,"Venta al por menor de motores, maquinarias, equipos y aparatos industriales (incluidos los eléctricos)",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523330.1,7.00,575.00,1564,Venta al por menor de pañales,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523831,7.00,575.00,1584,Venta al por menor de papel y productos de papel y cartón,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523914,7.00,575.00,1588,Venta al por menor de plaguicidas,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523991,7.00,575.00,1605,Venta al por menor de productos de caucho n.c.p.,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+503100.1,7.00,705.00,1556,"Venta al por menor de repuestos y accesorios para vehículos automotores, incluido equipos de G.N.C.",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523912,7.00,575.00,1586,"Venta al por menor de semillas, abonos, fertilizantes y otros productos de vivero",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+525040,7.00,575.00,1628,Venta al por menor de sustancias químicas industriales,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523999.8,7.00,575.00,1616,Venta al por menor de tarjetas de transporte o recargas virtuales de pasajeros y de telefonía,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523810,7.00,575.00,1581,Venta al por menor de textos nuevos,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+524200,8.40,575.00,1624,Venta al por menor de textos usados,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523110.1,7.00,575.00,1559,Venta al por menor en farmacias de productos medicinales,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+525903,43.00,5840.00,1635,Venta al por menor por contrato de concesión n.c.p.,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523560.4,7.00,575.00,1573,"Venta al por menor y colocación de equipos de audio; de radiollamado, alarmas; cierre centralizado; levanta cristales para automotores",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+525900.3,7.00,575.00,1632,Venta ambulante de productos no alimenticios,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523720,10.50,575.00,1578,"Venta de artículos de fantasías, bijouterie, platería, alhajas y orfebrería",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+511940.2,17.40,1140.00,1558,Venta de combustibles al por menor (por comisiones),19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523961,7.00,1140.00,1599,Venta de GNC,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+525902,9.30,575.00,1634,Venta de materiales de rezago y chatarra,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+930410,30.00,188.00,1636,"Venta por cuenta y orden de terceros que se ejerza percibiendo comisiones, bonificaciones, porcentajes y/u otras retribuciones análogas – Excepto concesión de vehículos.",19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523950.1,7.00,575.00,1594,Venta por menor de Insumos de computación,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523971,7.00,575.00,1604,Venta por menor de medicamentos para animales y mascotas,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+523970,7.00,575.00,1603,Venta por menor de productos para animales excluidos medicamentos y mascotas,19,ACTIVIDADES COMERCIALES,137,Venta al por menor de artículos diversos
+501210.5,43.00,5840.00,1492,Venta por menor de automotores nuevos por contrato de concesión,19,ACTIVIDADES COMERCIALES,132,"Venta al por menor de automotores, motonetas y motocicletas"
+501210.4,21.00,1140.00,1491,Venta por menor de automotores  nuevos y  usadas en consignación,19,ACTIVIDADES COMERCIALES,132,"Venta al por menor de automotores, motonetas y motocicletas"
+504010,12.60,1140.00,1493,Venta por menor de motocicletas nuevas y usadas,19,ACTIVIDADES COMERCIALES,132,"Venta al por menor de automotores, motonetas y motocicletas"
+501210.3,21.00,1140.00,1490,Venta por menor de  motocicletas nuevas y usadas en consignación,19,ACTIVIDADES COMERCIALES,132,"Venta al por menor de automotores, motonetas y motocicletas"
+501110.1,7.00,6010.00,1488,Venta por menor de vehículos automotores nuevos,19,ACTIVIDADES COMERCIALES,132,"Venta al por menor de automotores, motonetas y motocicletas"
+501210.1,7.00,2260.00,1489,Venta por menor de vehículos automotores usados,19,ACTIVIDADES COMERCIALES,132,"Venta al por menor de automotores, motonetas y motocicletas"
+522120.3,7.00,455.00,1507,Almacén de comestibles,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522210.1,7.00,455.00,1510,Carnicería. Venta al por menor de carnes y sus preparados y derivados (excepto envasada y congelada),19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522520,31.50,52775.00,1519,Expendio de bebidas alcohólicas: Entre las 24 hs. y las 09 hs. del día siguiente,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522112.2,7.00,455.00,1504,Fiambrería. Venta al por menor de fiambres,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+521110,15.80,166590.00,1494,Hipermercado,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+521190.1,7.00,705.00,1500,"Kioscos instalados dentro del perímetro señalado en el código 633120.1, shoppings y grandes centros comerciales",19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+521190.2,7.00,455.00,1501,Kioscos instalados fuera del perímetro señalado en el código 633120.2.,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+521130,7.00,1140.00,1499,Minimercado,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522910,7.00,575.00,1520,Pescadería,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522220,7.00,455.00,1512,Pollería. Venta al por menor de aves evisceradas y huevos,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+521120.2,8.40,6910.00,1496,Supermercado con una superficie total de 301 m2 hasta 600 m2,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+521120.3,8.40,7515.00,1497,Supermercado con una superficie total de 601 m2 hasta 2.000 m2,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+521120.1,7.00,6010.00,1495,Supermercado con una superficie total hasta 300 m2,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+521120.4,8.40,9020.00,1498,Supermercado una superficie total superior a 2.001 m2,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522120.2,7.00,360.00,1506,Venta al por menor de alimentos y suplementos dietarios.,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522500.1,7.00,455.00,1517,"Venta al por menor de bebidas no alcohólicas, gaseosas y jugos",19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522420,8.40,455.00,1515,"Venta al por menor de bombones y golosinas. Caramelería, galletitería",19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522999.4,7.00,455.00,1524,"Venta al por menor de café, te, yerba mate y especias",19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522210.2,7.00,455.00,1511,Venta al por menor de carne envasada y congelada,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522111,7.00,455.00,1502,Venta al por menor de leche y productos lácteos,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522300,7.00,455.00,1513,"Venta al por menor de legumbres, frutas, cereales secos y en conservas",19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522999.2,7.00,455.00,1522,Venta al por menor de masas y demás productos de pastelerías. Confiterías,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522410,7.00,455.00,1514,Venta al por menor de panificadoras y panaderías,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522999.3,7.00,455.00,1523,Venta al por menor de pastas frescas,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522999.1,7.00,455.00,1521,Venta al por menor de productos de repostería,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522120.1,7.00,360.00,1505,Venta al por menor de productos dietéticos.,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522430,7.00,87.50,1516,"Venta al por menor de productos varios realizada en puestos, debidamente autorizados n.c.p.",19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522112.1,7.00,455.00,1503,Venta al por menor de quesos,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522500.2,7.00,455.00,1518,Venta al por menor de vinos y otras bebidas alcohólicas y bebidas energizantes. V|inotecas. Vinerías,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522999.5,7.00,455.00,1525,"Venta de choripán, hamburguesas y panchos",19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522120.4,7.00,575.00,1508,Venta de helados envasados,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+522191,7.00,455.00,1509,Verdulería y Frutería,19,ACTIVIDADES COMERCIALES,133,Venta al por menor de productos alimenticios y bebidas
+523310,7.00,455.00,1539,Venta al por menor de artículos de lencería,19,ACTIVIDADES COMERCIALES,135,"Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero"
+523210.2,7.00,455.00,1536,Venta al por menor de artículos de mercería,19,ACTIVIDADES COMERCIALES,135,"Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero"
+523420,7.00,455.00,1546,Venta al por menor de calzado. Zapaterías y zapatillerías,19,ACTIVIDADES COMERCIALES,135,"Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero"
+523490,7.00,455.00,1547,Venta al por menor de carteras y demás artículos de marroquinería,19,ACTIVIDADES COMERCIALES,135,"Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero"
+523941,7.00,455.00,1548,Venta al por menor de indumentaria deportiva y sus accesorios,19,ACTIVIDADES COMERCIALES,135,"Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero"
+523210.1,7.00,455.00,1535,"Venta al por menor de lanas, hilos y artículos afines",19,ACTIVIDADES COMERCIALES,135,"Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero"
+523380,8.40,575.00,1542,Venta al por menor de pieles naturales y sintéticas. Peletería,19,ACTIVIDADES COMERCIALES,135,"Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero"
+523391,8.40,575.00,1543,Venta al por menor de prendas de vestir de cuero y sucedáneos,19,ACTIVIDADES COMERCIALES,135,"Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero"
+523399.2,7.00,455.00,1545,"Venta al por menor de prendas de vestir, excepto las de cuero",19,ACTIVIDADES COMERCIALES,135,"Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero"
+523399.1,7.00,455.00,1544,Venta al por menor de productos y artículos confeccionados con materiales textiles n.c.p.,19,ACTIVIDADES COMERCIALES,135,"Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero"
+523330,7.00,455.00,1540,Venta al por menor de ropa y accesorios para bebés y niños,19,ACTIVIDADES COMERCIALES,135,"Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero"
+523290,7.00,455.00,1538,Venta al por menor de tapices y alfombras,19,ACTIVIDADES COMERCIALES,135,"Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero"
+523210.3,7.00,455.00,1537,Venta al por menor de tejidos de punto,19,ACTIVIDADES COMERCIALES,135,"Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero"
+523360,7.00,455.00,1541,Venta al por menor de telas. Tiendas,19,ACTIVIDADES COMERCIALES,135,"Venta al por menor de textiles, prendas y accesorios de vestir, y productos de cuero"
+924910.4,29.00,955.00,1529,"Bingo, quini-6 u otros similares",19,ACTIVIDADES COMERCIALES,134,Venta al por menor en cigarrerías. Agencias de lotería y otros juegos de azar
+924910.7,63.00,955.00,1532,"Emisión u organización de rifas, bonos, cupones, billetes o similares",19,ACTIVIDADES COMERCIALES,134,Venta al por menor en cigarrerías. Agencias de lotería y otros juegos de azar
+924910.3,29.00,955.00,1528,Lotería,19,ACTIVIDADES COMERCIALES,134,Venta al por menor en cigarrerías. Agencias de lotería y otros juegos de azar
+924910.6,29.00,955.00,1531,Lotería instantánea,19,ACTIVIDADES COMERCIALES,134,Venta al por menor en cigarrerías. Agencias de lotería y otros juegos de azar
+924910.5,29.00,955.00,1530,Otros juegos de azar,19,ACTIVIDADES COMERCIALES,134,Venta al por menor en cigarrerías. Agencias de lotería y otros juegos de azar
+924910.2,12.00,955.00,1527,Prode,19,ACTIVIDADES COMERCIALES,134,Venta al por menor en cigarrerías. Agencias de lotería y otros juegos de azar
+924910.1,29.00,955.00,1526,Quiniela,19,ACTIVIDADES COMERCIALES,134,Venta al por menor en cigarrerías. Agencias de lotería y otros juegos de azar
+522991,19.80,705.00,1533,Venta al por menor de tabacos y cigarrillos,19,ACTIVIDADES COMERCIALES,134,Venta al por menor en cigarrerías. Agencias de lotería y otros juegos de azar
+523000,7.00,455.00,1534,Venta de viaje/s por recarga de tarjeta/s de colectivo al por menor. Por la comisión,19,ACTIVIDADES COMERCIALES,134,Venta al por menor en cigarrerías. Agencias de lotería y otros juegos de azar
+514310,7.00,705.00,1475,"Venta al por mayor de aberturas (puertas, ventanas, armazones)",19,ACTIVIDADES COMERCIALES,129,Venta por mayor de materiales para la construcción
+513531,7.00,705.00,1474,Venta al por mayor de artículos de cristal y vidrio,19,ACTIVIDADES COMERCIALES,129,Venta por mayor de materiales para la construcción
+514391,7.00,705.00,1480,"Venta al por mayor de artículos de plomería, electricidad, iluminación, calefacción, obras sanitarias y similares",19,ACTIVIDADES COMERCIALES,129,Venta por mayor de materiales para la construcción
+514399.2,7.00,705.00,1483,Venta al por mayor de artículos para la construcción n.c.p.,19,ACTIVIDADES COMERCIALES,129,Venta por mayor de materiales para la construcción
+514392,7.00,705.00,1481,"Venta al por mayor de artículos y objetos de barro, loza y porcelana",19,ACTIVIDADES COMERCIALES,129,Venta por mayor de materiales para la construcción
+514399.1,7.00,705.00,1482,"Venta al por mayor de ladrillos, cemento, cal, arena, piedra, mármol y similares",19,ACTIVIDADES COMERCIALES,129,Venta por mayor de materiales para la construcción
+514320,7.00,705.00,1476,"Venta al por mayor de madera y productos de madera, excepto muebles",19,ACTIVIDADES COMERCIALES,129,Venta por mayor de materiales para la construcción
+514340,7.00,705.00,1478,"Venta al por mayor de pinturas, barnices, lacas y esmaltes",19,ACTIVIDADES COMERCIALES,129,Venta por mayor de materiales para la construcción
+514350,7.00,705.00,1479,Venta al por mayor de vidrios planos y templados,19,ACTIVIDADES COMERCIALES,129,Venta por mayor de materiales para la construcción
+514330,7.00,705.00,1477,Venta al por mayor en ferreterías,19,ACTIVIDADES COMERCIALES,129,Venta por mayor de materiales para la construcción
+515921,7.00,705.00,1485,"Venta al por mayor de equipo informático y máquinas de oficina, cálculo y contabilidad",19,ACTIVIDADES COMERCIALES,130,"Venta por mayor de motores, máquinas y equipos"
+515110,7.00,705.00,1484,"Venta al por mayor de equipos e implementos de uso en los sectores agropecuario, jardinería, silvicultura, pesca y caza",19,ACTIVIDADES COMERCIALES,130,"Venta por mayor de motores, máquinas y equipos"
+153131,7.00,895.00,1048,Elaboración de alimentos de cereales,15,ACTIVIDADES INDUSTRIALES,89,Elaboración de productos alimentarios diversos
+154999.2,7.00,895.00,1056,"Elaboración de concentrados: café, te",15,ACTIVIDADES INDUSTRIALES,89,Elaboración de productos alimentarios diversos
+154912,7.00,895.00,1050,Elaboración de especies,15,ACTIVIDADES INDUSTRIALES,89,Elaboración de productos alimentarios diversos
+154991,7.00,895.00,1053,"Elaboración de extractos, jarabes y concentrados",15,ACTIVIDADES INDUSTRIALES,89,Elaboración de productos alimentarios diversos
+154999.5,7.00,895.00,1059,"Elaboración de productos alimenticios n.c.p. (Incluye la elaboración de polvos para preparar postres y gelatinas, levadura, productos para copetín, sal de mesa, mayonesa, mostaza)",15,ACTIVIDADES INDUSTRIALES,89,Elaboración de productos alimentarios diversos
+154999.4,7.00,895.00,1058,Elaboración de productos dietéticos.,15,ACTIVIDADES INDUSTRIALES,89,Elaboración de productos alimentarios diversos
+154920,7.00,895.00,1051,Elaboración de té,15,ACTIVIDADES INDUSTRIALES,89,Elaboración de productos alimentarios diversos
+154992,7.00,895.00,1054,Elaboración de vinagre,15,ACTIVIDADES INDUSTRIALES,89,Elaboración de productos alimentarios diversos
+154930,7.00,895.00,1052,Elaboración y molienda de yerba mate (incluye concentrados),15,ACTIVIDADES INDUSTRIALES,89,Elaboración de productos alimentarios diversos
+154999.6,7.00,895.00,1060,Fábrica de milanesas y hamburguesas,15,ACTIVIDADES INDUSTRIALES,89,Elaboración de productos alimentarios diversos
+154999.7,7.00,895.00,1061,Fábrica de Sándwiches,15,ACTIVIDADES INDUSTRIALES,89,Elaboración de productos alimentarios diversos
+154999.3,7.00,895.00,1057,"Procesadores de papas (peladero, lavadero, incluyendo elaboración de puré, harina y escamas)",15,ACTIVIDADES INDUSTRIALES,89,Elaboración de productos alimentarios diversos
+154999.1,7.00,895.00,1055,Refinación y molienda de sal,15,ACTIVIDADES INDUSTRIALES,89,Elaboración de productos alimentarios diversos
+154911,7.00,895.00,1049,"Tostado, torrado y molienda de café",15,ACTIVIDADES INDUSTRIALES,89,Elaboración de productos alimentarios diversos
+192010.1,7.00,705.00,1118,"Fabricación de calzado de cuero, incluyendo el ortopédico",15,ACTIVIDADES INDUSTRIALES,95,Fabricación de calzado excepto el de caucho vulcanizado o moldeados o de plástico
+192010.2,7.00,705.00,1119,"Fabricación de calzado de tela y otros materiales (excluido de caucho vulcanizado o moldeado, de madera o de plásticos)",15,ACTIVIDADES INDUSTRIALES,95,Fabricación de calzado excepto el de caucho vulcanizado o moldeados o de plástico
+192030,7.00,450.00,1121,Fabricación de partes o accesorios del calzado,15,ACTIVIDADES INDUSTRIALES,95,Fabricación de calzado excepto el de caucho vulcanizado o moldeados o de plástico
+192010.3,7.00,875.00,1120,"Fabricación y comercialización al por mayor de calzados, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,95,Fabricación de calzado excepto el de caucho vulcanizado o moldeados o de plástico
+352000,7.00,705.00,1295,Construcción de maquinaria y equipo ferroviario (incluye locomotoras y material rodante),15,ACTIVIDADES INDUSTRIALES,113,Fabricación de equipos de transporte
+351100,7.00,705.00,1293,Construcción de motores y piezas para navíos,15,ACTIVIDADES INDUSTRIALES,113,Fabricación de equipos de transporte
+351200,7.00,705.00,1294,"Construcción y reparación de embarcaciones, incluye buques, yates, veleros, botes,  Astilleros",15,ACTIVIDADES INDUSTRIALES,113,Fabricación de equipos de transporte
+353000,4.00,895.00,1296,"Fabricación de aeronaves, planeadores y similares, sus componentes, repuestos y accesorios",15,ACTIVIDADES INDUSTRIALES,113,Fabricación de equipos de transporte
+359900.1,7.00,705.00,1299,Fabricación de material de transporte no clasificado en otra parte,15,ACTIVIDADES INDUSTRIALES,113,Fabricación de equipos de transporte
+359100,10.50,705.00,1297,"Fabricación de motocicletas, vehículos similares y sus partes, incluyendo el motor",15,ACTIVIDADES INDUSTRIALES,113,Fabricación de equipos de transporte
+341000.1,7.00,705.00,1287,"Fabricación de motores para automóviles, camiones y otros vehículos para transporte de carga y pasajeros (excluidos motos y similares)",15,ACTIVIDADES INDUSTRIALES,113,Fabricación de equipos de transporte
+342000.1,7.00,705.00,1289,Fabricación de remolques y semirremolques,15,ACTIVIDADES INDUSTRIALES,113,Fabricación de equipos de transporte
+343000,7.00,705.00,1291,"Fabricación de repuestos, piezas y accesorios para vehículos automotores",15,ACTIVIDADES INDUSTRIALES,113,Fabricación de equipos de transporte
+359200,7.00,705.00,1298,Fabricación y armado de bicicletas y rodados similares,15,ACTIVIDADES INDUSTRIALES,113,Fabricación de equipos de transporte
+342000.2,7.00,705.00,1290,"Fabricación y armado de carrocerías para automóviles, camiones y otros vehículos para transporte de carga y pasajeros (incluye casas rodantes)",15,ACTIVIDADES INDUSTRIALES,113,Fabricación de equipos de transporte
+341000.2,7.00,705.00,1288,Fabricación y armado de vehículos automotores,15,ACTIVIDADES INDUSTRIALES,113,Fabricación de equipos de transporte
+359900.3,7.00,875.00,1301,"Fabricación y comercialización al por mayor de equipos de transporte, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,113,Fabricación de equipos de transporte
+359900.2,7.00,705.00,1300,Fabricación y reparación de grúas y equipamiento de transporte mecánico,15,ACTIVIDADES INDUSTRIALES,113,Fabricación de equipos de transporte
+343001,7.00,705.00,1292,Rectificación de motores,15,ACTIVIDADES INDUSTRIALES,113,Fabricación de equipos de transporte
+361010.2,7.00,455.00,1303,Fabricación de accesorios para muebles,15,ACTIVIDADES INDUSTRIALES,114,"Fabricación de muebles y accesorios de madera, caña, mimbre y otros, excepto los que son metálicos o de plástico"
+361010.1,7.00,455.00,1302,"Fabricación de muebles, sus partes y accesorios, excepto metálicos y plásticos",15,ACTIVIDADES INDUSTRIALES,114,"Fabricación de muebles y accesorios de madera, caña, mimbre y otros, excepto los que son metálicos o de plástico"
+361010.3,7.00,875.00,1304,"Fabricación y comercialización al por mayor de muebles, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,114,"Fabricación de muebles y accesorios de madera, caña, mimbre y otros, excepto los que son metálicos o de plástico"
+269110,7.00,705.00,1190,"Fabricación de artefactos sanitarios de barro, loza, porcelana y cerámica",15,ACTIVIDADES INDUSTRIALES,105,"Fabricación de objetos de barro, loza, porcelana y cerámica"
+269193,7.00,455.00,1193,"Fabricación de objetos de barro, loza, porcelana y cerámica n.c.p. (excepto refractarios, ladrillos y revestimientos para pisos y paredes)",15,ACTIVIDADES INDUSTRIALES,105,"Fabricación de objetos de barro, loza, porcelana y cerámica"
+269192,7.00,385.00,1192,"Fabricación de objetos de barro, loza, porcelana y cerámica para uso doméstico (excepto artefactos sanitarios)",15,ACTIVIDADES INDUSTRIALES,105,"Fabricación de objetos de barro, loza, porcelana y cerámica"
+269191,7.00,705.00,1191,"Fabricación de objetos de barro, loza, porcelana y cerámica para uso industrial y de laboratorio",15,ACTIVIDADES INDUSTRIALES,105,"Fabricación de objetos de barro, loza, porcelana y cerámica"
+269194,7.00,875.00,1194,"Fabricación y comercialización al por mayor de objetos de barro, loza, porcelana y cerámica, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,105,"Fabricación de objetos de barro, loza, porcelana y cerámica"
+269421,7.00,705.00,1200,Elaboración de yeso,15,ACTIVIDADES INDUSTRIALES,106,Fabricación de otros productos minerales no metálicos
+269591,7.00,705.00,1203,Fabricación de artículos de cemento y fibrocemento (excepto ladrillos),15,ACTIVIDADES INDUSTRIALES,106,Fabricación de otros productos minerales no metálicos
+269422,7.00,705.00,1201,Fabricación de cal,15,ACTIVIDADES INDUSTRIALES,106,Fabricación de otros productos minerales no metálicos
+269410,7.00,705.00,1199,Fabricación de cemento,15,ACTIVIDADES INDUSTRIALES,106,Fabricación de otros productos minerales no metálicos
+269301,7.00,705.00,1196,Fabricación de ladrillos y bloques,15,ACTIVIDADES INDUSTRIALES,106,Fabricación de otros productos minerales no metálicos
+269200,7.00,705.00,1195,Fabricación de material refractario,15,ACTIVIDADES INDUSTRIALES,106,Fabricación de otros productos minerales no metálicos
+269510,7.00,705.00,1202,"Fabricación de mosaicos, baldosas, revestimientos de paredes y pisos (excluidos los cerámicos y plásticos)",15,ACTIVIDADES INDUSTRIALES,106,Fabricación de otros productos minerales no metálicos
+269592,7.00,705.00,1204,Fabricación de premoldeados para la construcción (incluye viviendas premoldeadas),15,ACTIVIDADES INDUSTRIALES,106,Fabricación de otros productos minerales no metálicos
+269309,7.00,705.00,1198,Fabricación de productos de arcilla y cerámica no refractaria para uso estructural,15,ACTIVIDADES INDUSTRIALES,106,Fabricación de otros productos minerales no metálicos
+269600,7.00,705.00,1205,"Fabricación de productos de piedra, mármol y granito (incluye corte y tallado)",15,ACTIVIDADES INDUSTRIALES,106,Fabricación de otros productos minerales no metálicos
+269990,7.00,705.00,1206,Fabricación de productos minerales no metálicos n.c.p.,15,ACTIVIDADES INDUSTRIALES,106,Fabricación de otros productos minerales no metálicos
+269302,7.00,705.00,1197,Fabricación de revestimientos cerámicos para pisos y paredes,15,ACTIVIDADES INDUSTRIALES,106,Fabricación de otros productos minerales no metálicos
+269991,7.00,875.00,1207,"Fabricación y comercialización al por mayor de otros productos minerales no metálicos, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,106,Fabricación de otros productos minerales no metálicos
+210990.1,7.00,705.00,1137,Fabricación de artículos de papel y cartón n.c.p.,15,ACTIVIDADES INDUSTRIALES,97,Fabricación de papel y productos de papel
+210990.2,7.00,705.00,1138,"Fabricación de artículos de pulpa, papel y cartón no clasificados en otra parte",15,ACTIVIDADES INDUSTRIALES,97,Fabricación de papel y productos de papel
+210202,7.00,705.00,1136,Fabricación de envases de cartón,15,ACTIVIDADES INDUSTRIALES,97,Fabricación de papel y productos de papel
+210201,7.00,705.00,1135,Fabricación de envases de papel,15,ACTIVIDADES INDUSTRIALES,97,Fabricación de papel y productos de papel
+210102,7.00,705.00,1134,Fabricación de papel y cartón,15,ACTIVIDADES INDUSTRIALES,97,Fabricación de papel y productos de papel
+210101,7.00,705.00,1133,Fabricación de pulpa de madera,15,ACTIVIDADES INDUSTRIALES,97,Fabricación de papel y productos de papel
+210990.3,7.00,875.00,1139,"Fabricación y comercialización al por mayor de productos de papel, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,97,Fabricación de papel y productos de papel
+210991,7.00,705.00,1140,"Taller de enrollado, bobinado y enfardado de papel",15,ACTIVIDADES INDUSTRIALES,97,Fabricación de papel y productos de papel
+181191,7.00,705.00,1106,Confección de impermeables y pilotos,15,ACTIVIDADES INDUSTRIALES,93,Fabricación de prendas de vestir excepto calzados
+181202,8.40,895.00,1110,Confección de prenda de vestir de cuero y sucedáneos,15,ACTIVIDADES INDUSTRIALES,93,Fabricación de prendas de vestir excepto calzados
+182001,8.40,895.00,1111,Confección de prendas de vestir de piel y sucedáneos,15,ACTIVIDADES INDUSTRIALES,93,Fabricación de prendas de vestir excepto calzados
+181199,7.00,705.00,1108,"Confección de prendas de vestir (excepto las de piel, de cuero y sucedáneos, pilotos e impermeables). Incluye ropa interior, prendas de dormir y playa, indumentaria de trabajo, uniformes, guardapolvos, ropa de bebé y niño.",15,ACTIVIDADES INDUSTRIALES,93,Fabricación de prendas de vestir excepto calzados
+181201,7.00,705.00,1109,Fabricación de accesorios de vestir de cuero,15,ACTIVIDADES INDUSTRIALES,93,Fabricación de prendas de vestir excepto calzados
+181192,7.00,705.00,1107,Fabricación de accesorios de vestir excepto de cuero,15,ACTIVIDADES INDUSTRIALES,93,Fabricación de prendas de vestir excepto calzados
+182002,7.00,875.00,1112,"Fabricación y comercialización al por mayor de prendas de vestir, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,93,Fabricación de prendas de vestir excepto calzados
+153120,7.00,895.00,1032,"Descascaramiento, pulido, limpieza y molienda de arroz",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+152090.3,7.00,385.00,1030,"Elaboración artesanal de alimentos sin local de atención, sin empleados",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+152090.1,7.00,895.00,1028,Elaboración artesanal de helados,15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151410,7.00,895.00,1024,Elaboración de aceites y grasas vegetales y subproductos,15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151203,7.00,895.00,1016,Elaboración de aceites y harinas de pescado y otros animales marinos,15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+153300,7.00,895.00,1035,Elaboración de alimentos preparados para animales,15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+153200,7.00,895.00,1034,Elaboración de almidones y productos derivados del almidón. (Incluye la elaboración de glucosa y gluten),15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+154301,7.00,895.00,1043,"Elaboración de cacao, chocolate, bombones y otros productos similares a base de cacao",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+154309,7.00,895.00,1044,"Elaboración de caramelos, golosinas y otros productos de confiterías n.c.p.",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151340,7.00,895.00,1020,"Elaboración de frutas, hortalizas y legumbres congeladas",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+154410,7.00,895.00,1045,Elaboración de pastas frescas,15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151201,7.00,895.00,1014,"Elaboración de pescados de mar, crustáceos y otros productos marinos envasado y conservación",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151202,7.00,895.00,1015,"Elaboración de pescados de río, lagunas y otros productos pluviales y lacustres. Envasado y conservación",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+154199,7.00,895.00,1040,"Elaboración de productos de panadería n.c.p. (Incluye la elaboración de churros, prepizzas, masas fritas, de hojaldre, en establecimientos de hasta 10 ocupados)",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151390.2,7.00,895.00,1022,"Elaboración, envasado y conservación de frutas, legumbres y hortalizas n.c.p. (Incluye la elaboración de sémola de hortalizas y legumbres)",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151310,7.00,895.00,1017,"Elaboración, envasado y conservación de frutas y legumbres",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151320,7.00,895.00,1018,"Elaboración, envasado y conservación de jugos de frutas naturales o artificiales",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+152010,7.00,895.00,1025,"Elaboración, pasteurización y homogeneización de leche (incluida la condensada y en polvo)",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151390.3,7.00,895.00,1023,"Elaboración, precortado y envasado de hortalizas y/o frutas frescas.",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+154430,7.00,895.00,1047,"Elaboración y comercialización al por mayor de alimentos, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151390.1,7.00,895.00,1021,"Elaboración y envasado de conservas, caldos concentrados y otros alimentos deshidratados",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151330,7.00,895.00,1019,"Elaboración y envasado de dulces, mermeladas y jaleas",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+154110,7.00,895.00,1036,Fabricación de galletitas y bizcochos y otros productos secos de panaderías,15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+154191,7.00,895.00,1039,Fabricación de masas y demás productos de pastelería (confiterías),15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+154120,7.00,895.00,1037,Fabricación de pan y productos de panificación. Panificadoras,15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+154420,7.00,895.00,1046,Fabricación de pastas secas,15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+152090.2,7.00,895.00,1029,"Fabricación de productos lácteos no clasificados en otra parte. (Incluye cremas, yogures, mantecas)",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+152020,7.00,895.00,1026,Fabricación de quesos,15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+154200.2,7.00,895.00,1042,Fabricación y refinación de azúcar no clasificada en otra parte,15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151130,7.00,895.00,1012,"Fábrica de chacinados. Elaboración de fiambres, embutidos y preparados a base de carne",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+152030,7.00,895.00,1027,Fábrica industrial de helados,15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151112,7.00,895.00,1009,"Frigoríficos, matanza de ganado, preparación y conservación de sus carnes",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+154120.1,7.00,450.00,1038,Horneado de pan,15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151111,7.00,895.00,1008,Matanza de ganado,15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151120,7.00,895.00,1011,"Matanza, preparación, elaboración y conservación de carnes de aves",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151199,7.00,895.00,1013,"Matanza, preparación y conservación de animales de la caza",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+153139,7.00,895.00,1033,"Molienda de cereales (excepto trigo), legumbres, otras preparaciones y moliendas n.c.p.",15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+153110,7.00,895.00,1031,Molienda de trigo,15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+154200.1,7.00,895.00,1041,Refinación y fraccionamiento de azúcar,15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+151113,7.00,895.00,1010,Salado y pelado de cueros. Saladeros y peladeros de cuero,15,ACTIVIDADES INDUSTRIALES,88,Fabricación de productos alimentarios excepto bebidas
+192020,7.00,705.00,1172,Fabricación de calzado de caucho,15,ACTIVIDADES INDUSTRIALES,102,Fabricación de productos de caucho
+251110,7.00,705.00,1173,Fabricación de cámaras y cubiertas,15,ACTIVIDADES INDUSTRIALES,102,Fabricación de productos de caucho
+251909.1,7.00,455.00,1176,Fabricación de juegos y juguetes de caucho,15,ACTIVIDADES INDUSTRIALES,102,Fabricación de productos de caucho
+251901,7.00,455.00,1175,Fabricación de productos de caucho destinados a la industria automotor (excepto cámaras y cubiertas),15,ACTIVIDADES INDUSTRIALES,102,Fabricación de productos de caucho
+251909.2,7.00,705.00,1177,Fabricación de productos de caucho n.c.p.,15,ACTIVIDADES INDUSTRIALES,102,Fabricación de productos de caucho
+251909.3,7.00,875.00,1178,"Fabricación y comercialización al por mayor de productos de caucho, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,102,Fabricación de productos de caucho
+251120,7.00,455.00,1174,Recauchutaje y vulcanización de cubiertas,15,ACTIVIDADES INDUSTRIALES,102,Fabricación de productos de caucho
+232000,7.00,895.00,1148,Fabricación de productos diversos derivados del petróleo y del carbón excepto la refinación de petróleo,15,ACTIVIDADES INDUSTRIALES,99,Fabricación de productos diversos derivados del petróleo y carbón
+232001,7.00,875.00,1149,"Fabricación y comercialización al por mayor de productos de diversos derivados de petróleo, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,99,Fabricación de productos diversos derivados del petróleo y carbón
+289992,7.00,705.00,1228,Fabricación de cajas de seguridad,15,ACTIVIDADES INDUSTRIALES,109,Fabricación de productos metálicos excepto maquinaria y equipos
+281300,7.00,705.00,1221,Fabricación de calderas y generadores de apor,15,ACTIVIDADES INDUSTRIALES,109,Fabricación de productos metálicos excepto maquinaria y equipos
+289309,7.00,705.00,1225,"Fabricación de cerraduras, llaves, herrajes y otros artículos de ferretería incluyendo clavos y bulones",15,ACTIVIDADES INDUSTRIALES,109,Fabricación de productos metálicos excepto maquinaria y equipos
+289302,7.00,705.00,1224,"Fabricación de cuchillería, vajilla, utensilios y baterías de cocina",15,ACTIVIDADES INDUSTRIALES,109,Fabricación de productos metálicos excepto maquinaria y equipos
+289910,7.00,705.00,1226,"Fabricación de envases metálicos, incluyendo bronce, latón, aluminio, hojalata",15,ACTIVIDADES INDUSTRIALES,109,Fabricación de productos metálicos excepto maquinaria y equipos
+281102,7.00,455.00,1218,Fabricación de estructuras metálicas para la construcción,15,ACTIVIDADES INDUSTRIALES,109,Fabricación de productos metálicos excepto maquinaria y equipos
+289301,7.00,705.00,1223,"Fabricación de herramientas manuales y sus accesorios (para uso general, plomería, albañilería, , incluyendo las de campo y jardín)",15,ACTIVIDADES INDUSTRIALES,109,Fabricación de productos metálicos excepto maquinaria y equipos
+281101,7.00,455.00,1217,Fabricación de productos de carpintería metálica,15,ACTIVIDADES INDUSTRIALES,109,Fabricación de productos metálicos excepto maquinaria y equipos
+289993,7.00,705.00,1229,Fabricación de productos metálicos de Tornería y Matricería,15,ACTIVIDADES INDUSTRIALES,109,Fabricación de productos metálicos excepto maquinaria y equipos
+289999,7.00,705.00,1230,Fabricación de productos metálicos n.c.p.,15,ACTIVIDADES INDUSTRIALES,109,Fabricación de productos metálicos excepto maquinaria y equipos
+281200,7.00,705.00,1220,Fabricación de tanques y depósitos metálicos,15,ACTIVIDADES INDUSTRIALES,109,Fabricación de productos metálicos excepto maquinaria y equipos
+289991,7.00,705.00,1227,Fabricación de tejidos de alambre,15,ACTIVIDADES INDUSTRIALES,109,Fabricación de productos metálicos excepto maquinaria y equipos
+289999.1,7.00,875.00,1231,"Fabricación y comercialización al por mayor de productos metálicos, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,109,Fabricación de productos metálicos excepto maquinaria y equipos
+289100,7.00,705.00,1222,"Galvanoplastia, esmaltado , y otros procesos similares en metales, incluyendo pulvimetalurgia, incluye estampado, prensado, forjado y laminado de metales",15,ACTIVIDADES INDUSTRIALES,109,Fabricación de productos metálicos excepto maquinaria y equipos
+281109,7.00,705.00,1219,Montajes industriales,15,ACTIVIDADES INDUSTRIALES,109,Fabricación de productos metálicos excepto maquinaria y equipos
+252010,7.00,705.00,1180,Fabricación de envases de plástico,15,ACTIVIDADES INDUSTRIALES,103,Fabricación de productos plásticos diversos
+252090.1,7.00,455.00,1181,"Fabricación de juguetes, juegos y calzados plásticos",15,ACTIVIDADES INDUSTRIALES,103,Fabricación de productos plásticos diversos
+252090.2,7.00,705.00,1182,"Fabricación de mosaicos, baldosas, revestimientos de paredes y pisos, de productos plásticos",15,ACTIVIDADES INDUSTRIALES,103,Fabricación de productos plásticos diversos
+361020,7.00,705.00,1185,"Fabricación de muebles de plástico, sus partes y accesorios",15,ACTIVIDADES INDUSTRIALES,103,Fabricación de productos plásticos diversos
+252090.3,7.00,705.00,1183,Fabricación de productos plásticos n.c.p.,15,ACTIVIDADES INDUSTRIALES,103,Fabricación de productos plásticos diversos
+252090.4,7.00,875.00,1184,"Fabricación y comercialización al por mayor de productos de plástico, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,103,Fabricación de productos plásticos diversos
+241309.1,7.00,455.00,1179,Fábrica de bolsas de polietileno,15,ACTIVIDADES INDUSTRIALES,103,Fabricación de productos plásticos diversos
+242320,7.00,705.00,1164,"Elaboración de productos medicinales para animales (incluye vacunas, sueros y similares de uso veterinario)",15,ACTIVIDADES INDUSTRIALES,101,Fabricación de productos químicos diversos
+242903,7.00,705.00,1170,"Fabricación de colas, adhesivos, aprestos y cemento (excepto los odontológicos) obtenidos de sustancias minerales y vegetales",15,ACTIVIDADES INDUSTRIALES,101,Fabricación de productos químicos diversos
+242902,9.50,1390.00,1169,"Fabricación de explosivos, municiones y productos de pirotecnia",15,ACTIVIDADES INDUSTRIALES,101,Fabricación de productos químicos diversos
+242412,7.00,705.00,1166,Fabricación de jabones y detergentes,15,ACTIVIDADES INDUSTRIALES,101,Fabricación de productos químicos diversos
+242310,7.00,705.00,1163,"Fabricación de medicamentos para uso humano, productos farmacéuticos y medicinales (excepto productos veterinarios).",15,ACTIVIDADES INDUSTRIALES,101,Fabricación de productos químicos diversos
+242490,7.00,705.00,1167,"Fabricación de perfumes, cosméticos y otros productos de higiene y tocador",15,ACTIVIDADES INDUSTRIALES,101,Fabricación de productos químicos diversos
+242200,7.00,705.00,1162,"Fabricación de pinturas, barnices, lacas, esmaltes y productos similares y conexos (excepto tintas)",15,ACTIVIDADES INDUSTRIALES,101,Fabricación de productos químicos diversos
+242100,7.00,705.00,1161,Fabricación de plaguicidas (incluye los biológicos),15,ACTIVIDADES INDUSTRIALES,101,Fabricación de productos químicos diversos
+242411,7.00,705.00,1165,"Fabricación de preparados para la limpieza, pulido y saneamiento",15,ACTIVIDADES INDUSTRIALES,101,Fabricación de productos químicos diversos
+242909,7.00,705.00,1171,Fabricación de productos químicos n.c.p. (Incluye aceites esenciales),15,ACTIVIDADES INDUSTRIALES,101,Fabricación de productos químicos diversos
+242901,7.00,705.00,1168,Fabricación de tintas y negro de humo (incluye tintas de imprenta),15,ACTIVIDADES INDUSTRIALES,101,Fabricación de productos químicos diversos
+241200,7.00,705.00,1156,Fabricación de abonos y fertilizantes (incluye los biológicos),15,ACTIVIDADES INDUSTRIALES,100,Fabricación de sustancias químicas industriales básicas
+243000,7.00,705.00,1159,Fabricación de fibras artificiales no clasificados en otra parte excepto vidrio,15,ACTIVIDADES INDUSTRIALES,100,Fabricación de sustancias químicas industriales básicas
+241110.1,7.00,895.00,1150,"Fabricación de gases comprimidos y licuados, excepto los de uso doméstico",15,ACTIVIDADES INDUSTRIALES,100,Fabricación de sustancias químicas industriales básicas
+241110.2,7.00,895.00,1151,Fabricación de gases comprimidos y licuados para uso doméstico,15,ACTIVIDADES INDUSTRIALES,100,Fabricación de sustancias químicas industriales básicas
+241130,7.00,450.00,1153,Fabricación de hielo seco,15,ACTIVIDADES INDUSTRIALES,100,Fabricación de sustancias químicas industriales básicas
+241309,7.00,705.00,1158,Fabricación de materiales plásticos,15,ACTIVIDADES INDUSTRIALES,100,Fabricación de sustancias químicas industriales básicas
+241180,7.00,705.00,1154,Fabricación de materias químicas inorgánicas básicas n.c.p.,15,ACTIVIDADES INDUSTRIALES,100,Fabricación de sustancias químicas industriales básicas
+241190,7.00,705.00,1155,"Fabricación de materias químicas orgánicas básicas n.c.p. (Incluye la fabricación de alcoholes excepto el etílico, sustancias químicas para elaboración de sustancias plásticas, )",15,ACTIVIDADES INDUSTRIALES,100,Fabricación de sustancias químicas industriales básicas
+241301,7.00,705.00,1157,Fabricación de resinas y cauchos sintéticos,15,ACTIVIDADES INDUSTRIALES,100,Fabricación de sustancias químicas industriales básicas
+241120,7.00,705.00,1152,Fabricación de tanino y curtientes naturales o sintéticos,15,ACTIVIDADES INDUSTRIALES,100,Fabricación de sustancias químicas industriales básicas
+244000,7.00,875.00,1160,"Fabricación y comercialización al por mayor de sustancias químicas, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,100,Fabricación de sustancias químicas industriales básicas
+171200.2,7.00,705.00,1090,"Acabado de textiles (incluye blanqueo, teñido y estampado)",15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+173091,7.00,320.00,1102,Costurera con superficie menor a 100 m2,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+172109,7.00,705.00,1095,Fabricación de artículos confeccionados con materiales textiles. n.c.p. (excepto prendas de vestir),15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+172103,7.00,705.00,1093,Fabricación de artículos de lona y sucedáneos de lona,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+172104,7.00,705.00,1094,Fabricación de bolsas de materiales textiles para productos a granel,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+172900,7.00,705.00,1098,Fabricación de cortinas. Cortinerías,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+172101,7.00,705.00,1091,"Fabricación de frazadas, mantas, colchas, cobertores, etc.",15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+173010,7.00,705.00,1099,Fabricación de medias,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+172102,7.00,705.00,1092,Fabricación de ropa para cama y mantelería,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+172300,7.00,705.00,1097,"Fabricación de sogas, cables, cordeles y artículos conexos de cáñamo, sisal, lino y otras fibras naturales",15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+172200,7.00,705.00,1096,Fabricación de tapices y alfombras,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+173090,7.00,705.00,1100,Fabricación de tejidos y artículos de punto,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+173093,7.00,875.00,1105,"Fabricación y comercialización al por mayor de artículos textiles, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+173092.1,7.00,705.00,1104,Fábrica de estropajos,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+173092,7.00,705.00,1103,Fábrica de textiles en general,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+171132,7.00,705.00,1083,Hilados de algodón. Hilandería de algodón y sus mezclas,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+171131,7.00,705.00,1082,Hilados de lana. Hilandería de lana y sus mezclas,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+171139,7.00,705.00,1084,Hilandería de fibras textiles (excepto algodón y lana),15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+171120,7.00,705.00,1080,Lavado y limpieza de lana. Lavadero,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+171121,7.00,705.00,1081,Lavandería y Tintorería industrial,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+171111,7.00,705.00,1078,Preparación de fibras de algodón (incluye desmotado),15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+171112,7.00,705.00,1079,Preparación de fibras textiles vegetales excepto algodón,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+171142,7.00,705.00,1086,Tejido de algodón. Tejeduría de algodón,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+171143,7.00,705.00,1087,Tejido de fibras sintéticas y seda (excluido fabricación de medias. Tejeduría),15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+171149,7.00,705.00,1088,Tejido de fibras textiles no clasificados en otra parte,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+171141,7.00,705.00,1085,Tejido de lana. Tejeduría de lana,15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+173090.1,7.00,320.00,1101,"Tejidos artesanales sin local de atención, sin empleados",15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+171200.1,7.00,320.00,1089,"Terminado artesanal de textiles y calzados sin local de atención, sin empleados",15,ACTIVIDADES INDUSTRIALES,92,Fabricación de textiles
+261099,7.00,705.00,1188,Fabricación de artículos de vidrio y cristal excepto espejos y vitrales,15,ACTIVIDADES INDUSTRIALES,104,Fabricación de vidrio y productos de vidrio
+261091,7.00,705.00,1187,Fabricación de espejos y vitrales,15,ACTIVIDADES INDUSTRIALES,104,Fabricación de vidrio y productos de vidrio
+261020,7.00,705.00,1186,Fabricación de vidrios planos y templados,15,ACTIVIDADES INDUSTRIALES,104,Fabricación de vidrio y productos de vidrio
+261099.1,7.00,875.00,1189,"Fabricación y comercialización al por mayor de vidrios y productos de vidrio, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,104,Fabricación de vidrio y productos de vidrio
+332001,7.00,705.00,1282,Fabricación de aparatos y accesorios para fotografía,15,ACTIVIDADES INDUSTRIALES,112,"Fabricación y reparación de equipos profesionales y científicos, instrumentos de medida y control, fotográficos y de óptica, relojes"
+332003,7.00,705.00,1284,Fabricación de instrumentos de óptica,15,ACTIVIDADES INDUSTRIALES,112,"Fabricación y reparación de equipos profesionales y científicos, instrumentos de medida y control, fotográficos y de óptica, relojes"
+332002,7.00,455.00,1283,Fabricación de lentes y artículos oftálmicos,15,ACTIVIDADES INDUSTRIALES,112,"Fabricación y reparación de equipos profesionales y científicos, instrumentos de medida y control, fotográficos y de óptica, relojes"
+333000,7.00,705.00,1285,Fabricación y armado de relojes (incluye Fabricación de piezas y cajas para relojes y mecanismos similares),15,ACTIVIDADES INDUSTRIALES,112,"Fabricación y reparación de equipos profesionales y científicos, instrumentos de medida y control, fotográficos y de óptica, relojes"
+334000,7.00,875.00,1286,"Fabricación y comercialización al por mayor de equipos, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,112,"Fabricación y reparación de equipos profesionales y científicos, instrumentos de medida y control, fotográficos y de óptica, relojes"
+331200,7.00,455.00,1281,"Fabricación y reparación de equipo profesional y científico, e instrumentos de medida y control no clasificados en otra parte",15,ACTIVIDADES INDUSTRIALES,112,"Fabricación y reparación de equipos profesionales y científicos, instrumentos de medida y control, fotográficos y de óptica, relojes"
+331100,7.00,455.00,1280,"Fabricación y reparación e instrumentos y aparatos de cirugía, medicina, odontología, ortopedia, sus partes y accesorios",15,ACTIVIDADES INDUSTRIALES,112,"Fabricación y reparación de equipos profesionales y científicos, instrumentos de medida y control, fotográficos y de óptica, relojes"
+293095,7.00,705.00,1254,"Fabricación de artefactos para iluminación metálicos, excepto los eléctricos",15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+291400,7.00,705.00,1235,"Fabricación de hornos, hogares, estufas y calefactores industriales (excluidos los eléctricos)",15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+291200.2,7.00,705.00,1234,"Fabricación de válvulas, grifos y accesorios de cañerías",15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+293096,7.00,875.00,1255,"Fabricación y comercialización al por mayor de maquinaria, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+291900.4,7.00,705.00,1240,Fabricación y reparación de accesorios de máquinas y equipos n.c.p. (excepto los eléctricos),15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+292700,8.40,705.00,1248,Fabricación y reparación de armas (excepto municiones),15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+291500,7.00,705.00,1236,"Fabricación y reparación de ascensores, escaleras mecánicas, montacargas",15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+292909.1,7.00,705.00,1250,"Fabricación y reparación de básculas, balanzas y dinamómetros, excepto los científicos para uso de laboratorio",15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+291200.1,7.00,705.00,1233,"Fabricación y reparación de bombas, compresores y maquinaria o equipos similares",15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+293010,7.00,705.00,1253,"Fabricación y reparación de cocinas, calefones, estufas y calefactores de uso doméstico, no eléctricos",15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+292190,7.00,705.00,1242,Fabricación y reparación de maquinaria agropecuaria y forestal (excepto tractores),15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+292500,7.00,705.00,1246,"Fabricación y reparación de maquinaria para la elaboración y envases de productos alimenticios, bebidas y tabaco",15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+292400.2,7.00,705.00,1245,Fabricación y reparación de maquinaria y equipo para la construcción,15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+292901,7.00,705.00,1249,Fabricación y reparación de maquinaria y equipo para la industria del papel y las artes gráficas,15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+292400.1,7.00,705.00,1244,"Fabricación y reparación de maquinaria y equipo para la industria minera, petrolera y canteras",15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+292600,7.00,705.00,1247,"Fabricación y reparación de maquinaria y equipo para la industria textil, prendas de vestir y cuero",15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+292909.2,7.00,705.00,1251,Fabricación y reparación de maquinaria y equipo para trabajar la madera,15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+292300,7.00,705.00,1243,"Fabricación y reparación de maquinaria y equipo para trabajar los metales, incluyendo máquinas herramienta y máquinas para metalurgia",15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+291900.2,7.00,705.00,1238,Fabricación y reparación de maquinaria y equipo para uso vial,15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+291900.1,7.00,705.00,1237,Fabricación y reparación de maquinaria y equipos para la industria en general n.c.p.,15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+292909.3,7.00,705.00,1252,Fabricación y reparación de máquinas y equipos de refrigeración,15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+291900.3,7.00,705.00,1239,Fabricación y reparación de máquinas y equipos n.c.p. (excepto la maquinaria eléctrica),15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+291100,7.00,705.00,1232,"Fabricación y reparación de motores y turbinas, incluyendo máquinas de vapor (excepto de motocicletas, automotores y naves)",15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+292110,7.00,705.00,1241,Fabricación y reparación de tractores,15,ACTIVIDADES INDUSTRIALES,110,Fabricación y reparación de maquinaria excepto la eléctrica
+314000,7.00,705.00,1270,Fabricación de acumuladores y pilas eléctricas,15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+293099.2,7.00,705.00,1263,Fabricación de aparatos y accesorios eléctricos de uso doméstico no clasificados en otra parte,15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+293099.1,7.00,705.00,1262,Fabricación de aparatos y suministros eléctricos no clasificados en otra parte (incluye accesorios eléctricos),15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+315000,7.00,705.00,1271,Fabricación de artefactos eléctricos para la iluminación,15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+319000.1,7.00,705.00,1274,"Fabricación de bobinas, arranques, bujías y otros equipos y aparatos eléctricos para motores de combustión interna",15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+312000.2,7.00,705.00,1269,Fabricación de conductores eléctricos,15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+293093,7.00,705.00,1260,"Fabricación de enceradoras, pulidoras, batidoras, licuadoras y otros aparatos semejantes",15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+319000.2,7.00,705.00,1275,Fabricación de equipos y aparatos de comunicaciones,15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+293020,7.00,705.00,1256,"Fabricación de heladeras, freezers, lavarropas y secarropas",15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+321000,7.00,705.00,1272,Fabricación de lámparas y tubos eléctricos,15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+323000.3,7.00,705.00,1278,Fabricación de piezas y suministros utilizados especialmente para aparatos de radio y televisión,15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+293094,7.00,705.00,1261,"Fabricación de planchas, calefactores, hornos eléctricos, microondas y otros aparatos generadores de calor",15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+323000.1,7.00,705.00,1276,"Fabricación de receptores de radio, televisión, grabación y reproducción de imagen gravadas y sonido",15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+322000,7.00,705.00,1273,Fabricación de Transmisores de Radio y Televisión y aparatos de telefonía y telegrafía con hilos,15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+293092.1,7.00,705.00,1258,"Fabricación de ventiladores y extractores de aire, aspiradoras y otros aparatos semejantes",15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+323000.4,7.00,875.00,1279,"Fabricación y comercialización al por mayor de maquinarias eléctricas, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+323000.2,7.00,705.00,1277,Fabricación y grabación de discos y cintas magnetofónicas,15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+293092.2,7.00,455.00,1259,Fabricación y reparación de acondicionadores de aire,15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+293099.4,7.00,705.00,1265,Fabricación y reparación de equipos de computación.,15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+312000.1,7.00,455.00,1268,Fabricación y reparación de equipos de distribución y transmisión de electricidad,15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+300000,7.00,455.00,1266,"Fabricación y reparación de maquinaria de oficina, cálculo, contabilidad, máquinas de escribir, cajas registradoras,",15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+293091,7.00,455.00,1257,Fabricación y reparación de máquinas de coser y tejer,15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+293099.3,7.00,705.00,1264,Fabricación y reparación de máquinas y aparatos industriales eléctricos no clasificados en otra parte,15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+311000,7.00,455.00,1267,"Fabricación y reparación de motores eléctricos, transformadores y generadores",15,ACTIVIDADES INDUSTRIALES,111,"Fabricación y reparación de maquinarias, aparatos, accesorios y suministros eléctricos y electrónicos"
+221100,7.00,320.00,1141,Edición de libros y publicaciones. Editoriales con talleres propios,15,ACTIVIDADES INDUSTRIALES,98,"Imprentas, editoriales e industrias conexas"
+221900.2,7.00,320.00,1144,Edición n.c.p.,15,ACTIVIDADES INDUSTRIALES,98,"Imprentas, editoriales e industrias conexas"
+221200,7.00,320.00,1142,"Editorial de diarios, periódicos y revistas",15,ACTIVIDADES INDUSTRIALES,98,"Imprentas, editoriales e industrias conexas"
+221900.1,7.00,320.00,1143,Editoriales sin imprenta,15,ACTIVIDADES INDUSTRIALES,98,"Imprentas, editoriales e industrias conexas"
+222101,7.00,320.00,1145,Impresión de diarios y revistas,15,ACTIVIDADES INDUSTRIALES,98,"Imprentas, editoriales e industrias conexas"
+222109,7.00,320.00,1146,Impresión y encuadernación (excepto diarios y revistas),15,ACTIVIDADES INDUSTRIALES,98,"Imprentas, editoriales e industrias conexas"
+222200,7.00,320.00,1147,"Servicios relacionados con la imprenta (electrotipia, composición de tipo, grabado)",15,ACTIVIDADES INDUSTRIALES,98,"Imprentas, editoriales e industrias conexas"
+201000,7.00,705.00,1122,Aserraderos. Preparación y conservación de maderas (excepto las terciadas y conglomeradas),15,ACTIVIDADES INDUSTRIALES,96,"Industria de la madera y productos de madera, de corcho, paja y materiales trenzables, excepto muebles"
+202901,7.00,320.00,1127,"Fabricación de artículos de cestería, caña y mimbre",15,ACTIVIDADES INDUSTRIALES,96,"Industria de la madera y productos de madera, de corcho, paja y materiales trenzables, excepto muebles"
+202903,7.00,455.00,1129,Fabricación de artículos de madera en tornerías,15,ACTIVIDADES INDUSTRIALES,96,"Industria de la madera y productos de madera, de corcho, paja y materiales trenzables, excepto muebles"
+202902,7.00,705.00,1128,Fabricación de ataúdes,15,ACTIVIDADES INDUSTRIALES,96,"Industria de la madera y productos de madera, de corcho, paja y materiales trenzables, excepto muebles"
+202300,7.00,705.00,1126,"Fabricación de envases, recipientes y embalajes de madera (barriles, tambores, caja)",15,ACTIVIDADES INDUSTRIALES,96,"Industria de la madera y productos de madera, de corcho, paja y materiales trenzables, excepto muebles"
+202100,7.00,705.00,1123,"Fabricación de maderas terciadas, enchapadas o conglomeradas, tableros o paneles",15,ACTIVIDADES INDUSTRIALES,96,"Industria de la madera y productos de madera, de corcho, paja y materiales trenzables, excepto muebles"
+202904,7.00,455.00,1130,Fabricación de productos de corcho,15,ACTIVIDADES INDUSTRIALES,96,"Industria de la madera y productos de madera, de corcho, paja y materiales trenzables, excepto muebles"
+202909,7.00,455.00,1131,"Fabricación de productos de madera, de corcho, caña y mimbre no clasificados en otra parte",15,ACTIVIDADES INDUSTRIALES,96,"Industria de la madera y productos de madera, de corcho, paja y materiales trenzables, excepto muebles"
+202201,7.00,705.00,1124,"Fabricación de puertas, ventanas y estructuras de madera para la construcción. Carpintería de obras",15,ACTIVIDADES INDUSTRIALES,96,"Industria de la madera y productos de madera, de corcho, paja y materiales trenzables, excepto muebles"
+202202,7.00,705.00,1125,Fabricación de viviendas prefabricadas de madera,15,ACTIVIDADES INDUSTRIALES,96,"Industria de la madera y productos de madera, de corcho, paja y materiales trenzables, excepto muebles"
+202910,7.00,875.00,1132,"Fabricación y comercialización al por mayor de productos de madera, corcho, caña y mimbre, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,96,"Industria de la madera y productos de madera, de corcho, paja y materiales trenzables, excepto muebles"
+182009.2,8.40,1140.00,1114,Confección de artículos de piel (excluidas las prendas de vestir),15,ACTIVIDADES INDUSTRIALES,94,"Industria del cuero, productos y sucedáneos de cuero y pieles (excepto calzados y prendas de vestir)"
+191100,8.40,705.00,1115,"Curtido, acabado, repujado, charolado y terminado del cuero. Curtiembres y talleres de acabado",15,ACTIVIDADES INDUSTRIALES,94,"Industria del cuero, productos y sucedáneos de cuero y pieles (excepto calzados y prendas de vestir)"
+191200,8.40,895.00,1116,"Fabricación de productos de cuero y sucedáneos de cuero (excepto calzado y prendas vestir). Incluye maletas, bolsos de mano y similares, artículos de talabartería y de cuero n.c.p.",15,ACTIVIDADES INDUSTRIALES,94,"Industria del cuero, productos y sucedáneos de cuero y pieles (excepto calzados y prendas de vestir)"
+191300,8.40,875.00,1117,"Fabricación y comercialización al por mayor de productos de cuero, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,94,"Industria del cuero, productos y sucedáneos de cuero y pieles (excepto calzados y prendas de vestir)"
+182009.1,8.40,705.00,1113,"Preparación, decoloración y teñido de pieles",15,ACTIVIDADES INDUSTRIALES,94,"Industria del cuero, productos y sucedáneos de cuero y pieles (excepto calzados y prendas de vestir)"
+160092,12.60,1825.00,1076,"Elaboración y comercialización al por mayor de cigarrillos, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,91,Industria del tabaco
+160091,12.60,1825.00,1075,Fabricación de cigarrillos,15,ACTIVIDADES INDUSTRIALES,91,Industria del tabaco
+160099,12.60,1825.00,1077,Fabricación de otros productos de tabaco,15,ACTIVIDADES INDUSTRIALES,91,Industria del tabaco
+271009,7.00,705.00,1210,"Fabricación en industrias básicas de productos de hierro y acero n.c.p. (Incluye alambre, cañerías, tuberías, )en general",15,ACTIVIDADES INDUSTRIALES,107,Industrias básicas de hierro y acero
+271010,7.00,875.00,1211,"Fabricación y comercialización al por mayor de productos de hierro y acero, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,107,Industrias básicas de hierro y acero
+271001,7.00,705.00,1208,"Fundición en hornos y acerías. Producción de lingotes, planchas o barras",15,ACTIVIDADES INDUSTRIALES,107,Industrias básicas de hierro y acero
+271002,7.00,705.00,1209,"Laminación y estirado. Laminadoras. Cortes, doblado y plegado de chapas /o aceros",15,ACTIVIDADES INDUSTRIALES,107,Industrias básicas de hierro y acero
+272010,7.00,705.00,1212,Elaboración de aluminio primario y semielaborados de aluminio,15,ACTIVIDADES INDUSTRIALES,108,Industrias básicas de metales no ferrosos incluyendo metales preciosos
+273300,7.00,875.00,1216,"Fabricación y comercialización al por mayor de metales no ferrosos y metales preciosos, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,108,Industrias básicas de metales no ferrosos incluyendo metales preciosos
+273100,7.00,705.00,1214,Fundición de hierro y acero,15,ACTIVIDADES INDUSTRIALES,108,Industrias básicas de metales no ferrosos incluyendo metales preciosos
+273200,7.00,705.00,1215,Fundición de metales no ferrosos,15,ACTIVIDADES INDUSTRIALES,108,Industrias básicas de metales no ferrosos incluyendo metales preciosos
+272090,7.00,705.00,1213,Producción de metales no ferrosos n.c.p. y sus semielaborados,15,ACTIVIDADES INDUSTRIALES,108,Industrias básicas de metales no ferrosos incluyendo metales preciosos
+155120.1,7.00,895.00,1063,Destilación de alcoholes excepto el etílico,15,ACTIVIDADES INDUSTRIALES,90,Industrias de bebidas
+155110,8.40,895.00,1062,Destilación de alcohol etílico,15,ACTIVIDADES INDUSTRIALES,90,Industrias de bebidas
+155120.2,8.40,895.00,1064,"Destilación, rectificación y mezcla de bebidas alcohólicas (incluye whisky, coñac, ron)",15,ACTIVIDADES INDUSTRIALES,90,Industrias de bebidas
+155499,8.40,895.00,1073,Elaboración de bebidas n.c.p.,15,ACTIVIDADES INDUSTRIALES,90,Industrias de bebidas
+155420,9.50,895.00,1070,"Elaboración de bebidas no alcohólicas (incluye bebidas refrescantes, gaseosas, excepto jugos o jarabes para diluir)",15,ACTIVIDADES INDUSTRIALES,90,Industrias de bebidas
+155490.2,8.40,895.00,1072,Elaboración de jugos envasados para diluir,15,ACTIVIDADES INDUSTRIALES,90,Industrias de bebidas
+155300,9.50,895.00,1067,"Elaboración de malta, cerveza y bebidas malteadas",15,ACTIVIDADES INDUSTRIALES,90,Industrias de bebidas
+155290,8.40,895.00,1066,Elaboración de sidras y bebidas fermentadas excepto las malteadas,15,ACTIVIDADES INDUSTRIALES,90,Industrias de bebidas
+155412,8.40,450.00,1069,Elaboración de soda,15,ACTIVIDADES INDUSTRIALES,90,Industrias de bebidas
+155210,8.40,895.00,1065,Elaboración de vinos,15,ACTIVIDADES INDUSTRIALES,90,Industrias de bebidas
+155500,8.40,895.00,1074,"Elaboración y comercialización al por mayor de bebidas, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,90,Industrias de bebidas
+155411,8.40,895.00,1068,Embotellamiento de aguas naturales y minerales,15,ACTIVIDADES INDUSTRIALES,90,Industrias de bebidas
+155490.1,8.40,895.00,1071,Fabricación de hielo natural y jugos envasados para diluir,15,ACTIVIDADES INDUSTRIALES,90,Industrias de bebidas
+373000,8.40,455.00,1320,Desarrollo de software,15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+151191,7.00,705.00,1305,Elaboración de aceites y grasas animales no comestibles,15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+369999.2,7.00,705.00,1317,Fabricación de artículos no clasificados en otra parte,15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+369920,7.00,575.00,1313,"Fabricación de cepillos, pinceles y escobas",15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+361030,7.00,705.00,1306,"Fabricación de colchones, sommiers, almohadones y almohadas",15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+369300,7.00,455.00,1310,"Fabricación de equipos y aparatos para deporte, atletismo y camping",15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+369999.1,7.00,705.00,1316,Fabricación de equipos y artículos para gastronomía,15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+369991,7.00,705.00,1314,Fabricación de fósforos,15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+369200,7.00,455.00,1309,Fabricación de instrumentos de música,15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+369101,8.40,705.00,1307,Fabricación de joyas y artículos conexos,15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+369400,7.00,705.00,1311,Fabricación de juegos y juguetes (excepto los de caucho y plástico),15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+369910,7.00,705.00,1312,"Fabricación de lápices, lapiceras, bolígrafos, plumas estilográficas y artículos similares para oficina",15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+369102,8.40,455.00,1308,Fabricación de objetos de platería y enchapados,15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+369992,7.00,705.00,1315,Fabricación de paraguas,15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+374000,7.00,705.00,1321,Fabricación y armado de letreros y anuncios publicitarios,15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+375000,7.00,875.00,1322,"Fabricación y comercialización al por mayor de otras manufacturas, con planta industrial fuera del ejido municipal",15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+371000,7.00,455.00,1318,Reciclamiento de desperdicios y desechos metálicos,15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+372000,7.00,455.00,1319,Reciclamiento de desperdicios y desechos no metálicos,15,ACTIVIDADES INDUSTRIALES,115,Otras industrias manufactureras
+11411,7.00,705.00,964,Cultivo de algodón,14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11111,7.00,705.00,949,"Cultivo de arroz, trigo, maíz, soja y cereales forrajeros,  oleaginosas, semillas",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11229,7.00,705.00,952,"Cultivo de bulbos, brotes, raíces y hortalizas de frutos n.c.p. (incluye ají, ajo, alcaparra, berenjena, cebolla, calabaza, espárrago, frutilla, melón, pepino, pimiento, sandía, zanahoria, zapallo, zapallito)",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11421,7.00,705.00,966,Cultivo de caña de azúcar,14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11460,7.00,705.00,971,"Cultivo de especias (de hoja, de semilla, de flor y de fruto) y de plantas aromáticas y medicinales.",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11251,7.00,705.00,956,Cultivo de flores,14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11330,7.00,705.00,961,"Cultivo de frutas cítricas. (Incluye bergamota, lima, limón, mandarina, naranja, pomelo, kinoto)",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11320,7.00,705.00,960,"Cultivo de frutas de carozo. (Incluye cereza, ciruela, damasco, durazno, melón)",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11319,7.00,705.00,959,"Cultivo de frutas de pepita n.c.p. (Incluye membrillo, níspero)",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11390,7.00,705.00,963,"Cultivo de frutas n.c.p. (Incluye ananá, banana, higo, kiwi, mamón, palta, uva de mesa)",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11230,7.00,705.00,953,"Cultivo de hortalizas de hoja y de otras hortalizas frescas (incluye acelga, apio, cebolla de verdeo, choclo, coles, espinaca, lechuga, perejil, radicheta, repollo)",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11241,7.00,705.00,954,"Cultivo de legumbres frescas (incluye arveja, chaucha, haba, lupino, poroto)",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11242,7.00,705.00,955,"Cultivo de legumbres secas. (Incluye arveja, garbanzo, haba, lenteja, poroto)",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11311,7.00,705.00,958,Cultivo de manzana y pera,14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11340,7.00,705.00,962,"Cultivo de nueces y frutas secas. (Incluye almendra, avellana, castaña, nuez, pistacho)",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11210,7.00,705.00,950,"Cultivo de papa, batata y mandioca",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11252,7.00,705.00,957,Cultivo de plantas ornamentales,14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11419,7.00,705.00,965,"Cultivo de plantas para la obtención de fibras n.c.p. (Incluye abacá, cáñamo, formio, lino textil, maíz de Guinea, ramio, yute)",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11429,7.00,705.00,967,Cultivo de plantas sacaríferas n.c.p. (Incluye remolacha azucarera),14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11450,7.00,705.00,970,Cultivo de tabaco,14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11440,7.00,705.00,969,"Cultivo de té, yerba mate y otras plantas cuyas hojas se utilizan p/preparar bebidas (infusiones)",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11221,7.00,705.00,951,Cultivo de tomate,14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11430,7.00,705.00,968,Cultivo de vid para vinificar,14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11490,7.00,705.00,972,"Cultivos industriales n.c.p. (Incluye olivo para conserva, palmitos)",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11530,7.00,705.00,978,Cultivos n.c.p.,14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11520,7.00,705.00,977,"Producción de otras formas de propagación de cultivos agrícolas. (Incluye gajos, bulbos, estacas enraizadas o no, esquejes, plantines)",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11519,7.00,705.00,976,Producción de semillas de cultivos agrícolas n.c.p.,14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11513,7.00,705.00,975,"Producción de semillas de hortalizas y legumbres, flores y plantas ornamentales y árboles frutales",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11511,7.00,705.00,973,Producción de semillas híbridas de cereales y oleaginosas,14,ACTIVIDADES PRIMARIAS,80,Agricultura
+11512,7.00,705.00,974,"Producción de semillas varietales o autofecundadas de cereales, oleaginosas y forrajeras",14,ACTIVIDADES PRIMARIAS,80,Agricultura
+12230,7.00,705.00,983,"Apicultura (Incluye la producción de miel, jalea real, polen, propóleo).",14,ACTIVIDADES PRIMARIAS,81,Cría de animales
+12242,7.00,705.00,985,Cría de animales para la obtención de pelos,14,ACTIVIDADES PRIMARIAS,81,Cría de animales
+12241,7.00,705.00,984,Cría de animales para la obtención de pieles y cueros,14,ACTIVIDADES PRIMARIAS,81,Cría de animales
+12243,7.00,705.00,986,Cría de animales para la obtención de plumas,14,ACTIVIDADES PRIMARIAS,81,Cría de animales
+12290,7.00,705.00,987,"Cría de animales y obtención de productos de origen animal, n.c.p. (Incluye ciervo, conejo -excepto para pelos-, gato, gusano de seda, lombriz, pájaro, perro, rana, animales para experimentación, caracoles vivos, frescos, congelados y secos -excepto marino-, cera de insectos excepto la de abeja)",14,ACTIVIDADES PRIMARIAS,81,Cría de animales
+12211,7.00,705.00,980,Cría de aves para producción de carne,14,ACTIVIDADES PRIMARIAS,81,Cría de animales
+12212,7.00,705.00,981,Cría de aves para producción de huevos,14,ACTIVIDADES PRIMARIAS,81,Cría de animales
+12111,7.00,705.00,979,"Cría de ganado (incluye ovino, bovino, equino, caprino)",14,ACTIVIDADES PRIMARIAS,81,Cría de animales
+12220,7.00,705.00,982,Producción de huevos,14,ACTIVIDADES PRIMARIAS,81,Cría de animales
+142900,7.00,895.00,1007,"Explotación de minas y canteras n.c.p. (Incluye amianto, baritina, cuarzo, diatomita, piedra pómez, ágata, agua marina, amatista, cristal de roca, rodocrosita, topacio, corindón, feldespato, mica, zeolita, perlita, granulado volcánico, puzolana, toba, talco, vermiculita, tosca, grafito)",14,ACTIVIDADES PRIMARIAS,87,Explotación de Canteras y Extracción de Minerales no Metálicos no clasificados en otra parte
+142110,7.00,895.00,1004,"Extracción de minerales para la fabricación de abonos excepto turba. (Incluye guano, silvita, silvinita y otras sales de potasio naturales)",14,ACTIVIDADES PRIMARIAS,87,Explotación de Canteras y Extracción de Minerales no Metálicos no clasificados en otra parte
+142120,7.00,895.00,1005,"Extracción de minerales para la fabricación de productos químicos. (Incluye azufre, boracita e hidroboracita, calcita, celestina, colemanita, fluorita, litio y sales de litio naturales, sulfato de aluminio, sulfato de hierro, sulfato de magnesio, sulfato de sodio, ocres, tinkal, ulexita, asfaltita, laterita)",14,ACTIVIDADES PRIMARIAS,87,Explotación de Canteras y Extracción de Minerales no Metálicos no clasificados en otra parte
+142200,7.00,895.00,1006,Extracción de sal en salinas y de roca,14,ACTIVIDADES PRIMARIAS,87,Explotación de Canteras y Extracción de Minerales no Metálicos no clasificados en otra parte
+112000,7.00,895.00,995,"Actividades de servicios relacionadas con la extracción de petróleo y gas, excepto las actividades de prospección",14,ACTIVIDADES PRIMARIAS,84,"Explotación de Minas de Carbón, Petróleo Crudo y Gas Natural"
+111000,7.00,895.00,994,"Extracción de petróleo crudo y gas natural (Incluye gas natural licuado y gaseoso, arenas alquitraníferas, esquistos bituminosos o lutitas, aceites de petróleo y de minerales bituminosos, petróleo, coque de petróleo)",14,ACTIVIDADES PRIMARIAS,84,"Explotación de Minas de Carbón, Petróleo Crudo y Gas Natural"
+101000,7.00,895.00,993,"Extracción y aglomeración de carbón (Incluye la producción de hulla no aglomerada, antracita, carbón bituminoso no aglomerado, briquetas, ovoides y combustibles sólidos análogos a base de hulla)",14,ACTIVIDADES PRIMARIAS,84,"Explotación de Minas de Carbón, Petróleo Crudo y Gas Natural"
+131000,7.00,895.00,997,"Extracción de minerales de hierro. (Incluye hematitas, limonitas, magnetitas, siderita)",14,ACTIVIDADES PRIMARIAS,85,Extracción de Minerales Metálicos
+132000,7.00,895.00,998,"Extracción de minerales metalíferos no ferrosos, excepto minerales de uranio y torio. (Incluye aluminio, cobre, estaño, manganeso, níquel, oro, plata, plomo, volframio, antimonio, bismuto, cinc, molibdeno, titanio, circonio, niobio, tántalo, vanadio, cromo, cobalto)",14,ACTIVIDADES PRIMARIAS,85,Extracción de Minerales Metálicos
+120000,7.00,895.00,996,Extracción de minerales y concentrados de uranio y torio,14,ACTIVIDADES PRIMARIAS,85,Extracción de Minerales Metálicos
+141400,7.00,895.00,1003,"Extracción de arcilla y caolín. (Incluye andalucita, arcillas, bentonita, caolín, pirofilita, silimanita, mulita, tierra de chamota o de dinas)",14,ACTIVIDADES PRIMARIAS,86,"Extracción de Piedra, piedra Caliza, Arcilla y Arena"
+141300,7.00,895.00,1002,"Extracción de arenas, canto rodado y triturados pétreos. (Incluye arena para construcción, arena silícea, otras arenas naturales, canto rodado, dolomita triturada, granito triturado, piedra partida y otros triturados pétreos)",14,ACTIVIDADES PRIMARIAS,86,"Extracción de Piedra, piedra Caliza, Arcilla y Arena"
+141200,7.00,895.00,1001,"Extracción de piedra caliza y yeso. (Incluye caliza, castina, conchilla, riolita, yeso natural, anhidrita)",14,ACTIVIDADES PRIMARIAS,86,"Extracción de Piedra, piedra Caliza, Arcilla y Arena"
+141100,7.00,895.00,1000,"Extracción de rocas ornamentales. (Incluye areniscas, cuarcita, dolomita, granito, mármol, piedra laja, pizarra, pórfido, serpentina)",14,ACTIVIDADES PRIMARIAS,86,"Extracción de Piedra, piedra Caliza, Arcilla y Arena"
+020130.1,7.00,705.00,999,Extracción de tierra,14,ACTIVIDADES PRIMARIAS,86,"Extracción de Piedra, piedra Caliza, Arcilla y Arena"
+14210,7.00,705.00,989,Inseminación artificial y servicios n.c.p. para mejorar la reproducción de los animales y el rendimiento de sus productos,14,ACTIVIDADES PRIMARIAS,82,Servicios agrícolas y pecuarios
+14190,7.00,705.00,988,Servicios agropecuarios no clasificados en otra parte,14,ACTIVIDADES PRIMARIAS,82,Servicios agrícolas y pecuarios
+14220,7.00,705.00,990,"Servicios contratistas de mano de obra pecuaria (incluye arreo, castración de aves, esquila de ovejas, recolección de estiércol)",14,ACTIVIDADES PRIMARIAS,82,Servicios agrícolas y pecuarios
+20310,7.00,895.00,992,Servicios forestales,14,ACTIVIDADES PRIMARIAS,83,"Silvicultura, extracción de madera y viveros"
+20130,7.00,385.00,991,Viveros,14,ACTIVIDADES PRIMARIAS,83,"Silvicultura, extracción de madera y viveros"
+642020.5,11.60,955.00,1669,Cabinas telefónicas.,22,COMUNICACIONES,142,Comunicaciones
+642099.2,15.10,13.50,1676,Comunicaciones no clasificadas en otra parte. El mínimo expresado es mensual por abonado o conectado.,22,COMUNICACIONES,142,Comunicaciones
+642020.1,10.00,1140.00,1665,"Comunicaciones por correo, telégrafo y télex",22,COMUNICACIONES,142,Comunicaciones
+642010.1,10.00,1140.00,1663,Comunicaciones por radio excepto radiodifusión y televisión (radioaficionados),22,COMUNICACIONES,142,Comunicaciones
+642020.2,25.00,13.50,1666,"Comunicaciones telefónicas. El mínimo expresado corresponde a cada abonado. (Cuando exista dos o más empresas que presten servicios diversos al mismo abonado, el mínimo mensual se asignará en forma completa al prestador “abono básico”).",22,COMUNICACIONES,142,Comunicaciones
+642020.4,21.70,5.10,1668,Comunicaciones telefónicas larga distancia no incluidos en código 642020.2. El mínimo expresado es mensual por cliente activo.,22,COMUNICACIONES,142,Comunicaciones
+642099.1,15.10,6.10,1675,Correo electrónico - Provisión de Servicios de internet. El mínimo expresado es mensual por abonado o conectado.,22,COMUNICACIONES,142,Comunicaciones
+602091.2,7.00,4510.00,1673,Emisora y productora de televisión abierta,22,COMUNICACIONES,142,Comunicaciones
+602091.1,7.00,2260.00,1672,Emisora y productora de televisión por cable,22,COMUNICACIONES,142,Comunicaciones
+642021,10.00,1140.00,1670,Estafeta postal,22,COMUNICACIONES,142,Comunicaciones
+642070,27.50,6.10,1671,Servicios complementarios de antena comunitaria de TV y circuito cerrado comunitario de TV - como la televisión satelital y por cable - regulados por Ley Nº 22285. El mínimo expresado es por abonado.,22,COMUNICACIONES,142,Comunicaciones
+642010.2,7.00,2260.00,1664,"Servicios de radiodifusión y servicios complementarios de radiodifusión, excepto “los servicios complementarios de antena comunitaria de TV y circuito cerrado comunitario de TV” regulado por la Ley",22,COMUNICACIONES,142,Comunicaciones
+642099,11.40,1140.00,1674,"Servicios de transmisión de sonido, imágenes, datos u otra información",22,COMUNICACIONES,142,Comunicaciones
+642020.3,25.00,10.50,1667,Telefonía celular. El mínimo expresado es mensual por línea abonado. En el caso de líneas corporativas se debe contabilizar a estos efectos a cada una de las líneas que integran el grupo.,22,COMUNICACIONES,142,Comunicaciones
+455000,7.60,705.00,1356,Alquiler de equipo de construcción o demolición,17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+454100,7.60,705.00,1350,"Colocación de carpintería y herrería de obra, vidrios y cerramientos",17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+452530,7.60,705.00,1343,Colocación de cubiertas asfálticas y techos,17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+454200.3,7.60,705.00,1353,Colocación de pisos y revestimientos n.c.p. (incluye plastificado de pisos),17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+454200.2,7.60,705.00,1352,"Colocación y pulido de pisos y revestimientos de mosaicos, mármol, cerámicos y similares",17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+452900.1,7.60,705.00,1345,Construcciones n.c.p.,17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+452390,7.60,705.00,1337,"Construcción o reparación de calles, puentes, aeropuertos, centrales hidroeléctricas y/u obras pesadas similares",17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+452100,7.60,705.00,1336,"Construcción, reforma y reparación de edificios (incluye viviendas unifamiliares y multifamiliares; bungalows, cabañas, casas de campo, departamento, albergues para ancianos, estudiantes, niños)",17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+452510.2,7.60,575.00,1340,Desagotes de pozos negros y/o cámaras sépticas.,17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+452510.3,7.60,575.00,1341,Desobstrucción de cañerías.,17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+453190,7.60,705.00,1347,Ejecución y mantenimiento de instalaciones eléctricas n.c.p.,17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+451100,7.60,705.00,1333,Excavación y Demolición de edificios y sus partes,17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+452520,7.60,705.00,1342,"Hormigonado, hincado de pilotes, cimentación y otros trabajos de hormigón armado",17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+453110,7.60,705.00,1346,"Instalación de ascensores, montacargas, escaleras mecánicas,",17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+453300,7.60,705.00,1348,"Instalación de gas, agua, sanitarios y equipos de climatización, con sus artefactos conexos",17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+453900,7.60,705.00,1349,"Instalaciones para edificios y obras de ingeniería civil n.c.p. (incluye aislamiento término, acústico, antivibratorio, )",17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+451900,7.60,705.00,1335,"Movimiento de suelos y preparación de terrenos para obras n.c.p. (Incluye el drenaje, remoción de rocas, excavación de zanjas para servicios públicos, alcantarillado urbano y para construcciones diversas, movimientos de tierras para hacer terraplenes o desmontes previos a la construcción de vías, autopistas, FF.CC.)",17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+452900,7.60,455.00,1344,Obras de ingeniería civil n.c.p.,17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+452510.1,7.60,455.00,1339,Perforación de pozo negro,17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+452510,7.60,705.00,1338,Perforación de pozos de agua,17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+451200,7.60,1140.00,1334,"Perforación y sondeo (excepto perforación de pozos de petróleo, de gas, de minas e hidráulicos y prospección de yacimientos de petróleo).",17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+454400,7.60,705.00,1354,"Pintura, empapelado y trabajos de decoración",17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+454200.1,7.60,705.00,1351,Revoque y enyesado de paredes y cielorrasos,17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+454900,7.60,705.00,1355,"Terminación de edificios y obras de ingeniería civil n.c.p. (Incluye trabajos de ornamentación, limpieza exterior de edificios con vapor, chorro de arena u otros métodos)",17,CONSTRUCCIÓN,118,"Construcción pesada y edificios, reforma, reparación y prestaciones relacionadas con la construcción"
+632000.4,9.30,1390.00,1662,"Depósitos , almacenamiento y venta  de  Pirotecnia, pólvora, armamento, explosivos",21,DEPÓSITO Y ALMACENAMIENTO,141,Depósito y almacenamiento
+632000.3,7.00,1140.00,1661,Depósitos y almacenamientos de alimentos no refrigerados,21,DEPÓSITO Y ALMACENAMIENTO,141,Depósito y almacenamiento
+632000.2,7.00,1140.00,1660,Depósitos y almacenamientos de alimentos refrigerados,21,DEPÓSITO Y ALMACENAMIENTO,141,Depósito y almacenamiento
+632000.1,7.60,1140.00,1659,"Depósitos y almacenamientos en general, excepto alimentos",21,DEPÓSITO Y ALMACENAMIENTO,141,Depósito y almacenamiento
+410020,7.00,705.00,1332,"Captación, purificación y distribución de agua",16,"ELECTRICIDAD, GAS Y SIMILARES",117,"Captación, purificación y distribución de agua"
+401300,0.00,185.00,1328,Distribución de energía eléctrica. El mínimo expresado es por cada 10.000 kW.,16,"ELECTRICIDAD, GAS Y SIMILARES",116,"Electricidad, gas y vapor"
+401130,0.00,112.00,1325,Generación de energía hidráulica. (Incluye la producción de energía eléctrica mediante centrales de bombeo). El mínimo expresado es por cada 10.000 kW.,16,"ELECTRICIDAD, GAS Y SIMILARES",116,"Electricidad, gas y vapor"
+401190,0.00,112.00,1326,"Generación de energía n.c.p. (Incluye la producción de energía eléctrica mediante fuentes de energía solar, biomasa, eólica, geotérmica, mareomotriz). El mínimo expresado es por cada 10.000 kW.",16,"ELECTRICIDAD, GAS Y SIMILARES",116,"Electricidad, gas y vapor"
+401110,0.00,112.00,1323,"Generación de energía térmica convencional. (Incluye la producción de energía eléctrica mediante máquinas turbo-gas, turbo vapor, ciclo combinado y turbo diesel). El mínimo expresado es por cada 10.000 kW.",16,"ELECTRICIDAD, GAS Y SIMILARES",116,"Electricidad, gas y vapor"
+401120,0.00,112.00,1324,Generación de energía térmica nuclear. (Incluye la producción de energía eléctrica mediante combustible nuclear). El mínimo expresado es por cada 10.000 kW.,16,"ELECTRICIDAD, GAS Y SIMILARES",116,"Electricidad, gas y vapor"
+402009,7.00,1140.00,1330,Producción y distribución de gases no clasificados en otra parte,16,"ELECTRICIDAD, GAS Y SIMILARES",116,"Electricidad, gas y vapor"
+402001,7.00,1140.00,1329,Producción y distribución de gas natural,16,"ELECTRICIDAD, GAS Y SIMILARES",116,"Electricidad, gas y vapor"
+403000,7.00,1140.00,1331,Suministro de vapor y agua caliente,16,"ELECTRICIDAD, GAS Y SIMILARES",116,"Electricidad, gas y vapor"
+401200,0.00,50.00,1327,Transporte y peaje de energía eléctrica. El mínimo expresado es por cada 10.000 kW.,16,"ELECTRICIDAD, GAS Y SIMILARES",116,"Electricidad, gas y vapor"
+652130,27.80,6.10,1677,Bancos. El mínimo expresado es por cada cuenta corriente y caja de ahorro (excluidas cuentas sueldo).,23,ENTIDADES FINANCIERAS,143,Establecimientos y servicios financieros
+652201,15.10,500.00,1678,Compañías de Ahorro para fines determinados. El mínimo expresado es por persona que desarrolle actividad inherente al giro del establecimiento.,23,ENTIDADES FINANCIERAS,143,Establecimientos y servicios financieros
+652202.1,16.40,635.00,1679,"Compañías Financieras, Caja de Créditos, Sociedades de Crédito para consumo comprendidas en la Ley de Entidades Financieras y autorizadas por el Banco Central de la República Argentina. El mínimo expresado es por persona que desarrolle actividad inherente al giro del establecimiento.",23,ENTIDADES FINANCIERAS,143,Establecimientos y servicios financieros
+671910,44.00,635.00,1687,Compra y Venta de títulos y Casas de Cambio. El mínimo expresado es por empleado.,23,ENTIDADES FINANCIERAS,143,Establecimientos y servicios financieros
+659920,18.90,640.00,1683,Empresas o personas dedicadas a la negociación de órdenes y tarjetas de compras y créditos (Artículo 274 del C.T.M.). El mínimo expresado es por persona que desarrolle actividad inherente al giro del establecimiento.,23,ENTIDADES FINANCIERAS,143,Establecimientos y servicios financieros
+659909,27.80,1825.00,1685,"Holding de inversión, actividades de participación, renta y venta de acciones o títulos valores.",23,ENTIDADES FINANCIERAS,143,Establecimientos y servicios financieros
+659908,27.80,1140.00,1684,Intermediarios financieros que perciban comisiones u otras retribuciones análogas o porcentajes.,23,ENTIDADES FINANCIERAS,143,Establecimientos y servicios financieros
+652202.2,44.00,635.00,1680,"Operaciones de préstamos que se efectúan a  Empresas Comerciales, Industriales, Agropecuarias o Servicios que no sean los otorgados por las entidades involucradas en los apartados anteriores. El mínimo expresado es por persona que desarrolle actividad inherente al giro del establecimiento.",23,ENTIDADES FINANCIERAS,143,Establecimientos y servicios financieros
+659900,18.90,755.00,1682,"Operaciones de préstamos y demás operaciones detalladas en el artículo 301 incisos 14, 15 y 16 del CTMV, efectuadas por asociaciones profesionales, Entidades Mutuales, gremiales o sindicales.",23,ENTIDADES FINANCIERAS,143,Establecimientos y servicios financieros
+659890,44.00,955.00,1681,Operaciones o préstamos no involucrados en los apartados anteriores,23,ENTIDADES FINANCIERAS,143,Establecimientos y servicios financieros
+659990.1,27.80,1825.00,1686,Servicios de financiación y actividades financieras n.c.p.,23,ENTIDADES FINANCIERAS,143,Establecimientos y servicios financieros
+711400,9.30,575.00,1704,Alquiler de automóviles sin chofer,27,LOCACIÓN DE BIENES MUEBLES,147,"Alquiler y arrendamiento de máquinas, autos y equipos"
+712300,11.60,915.00,1707,Alquiler de computadoras y sus equipos y máquinas de oficina cálculo y contabilidad,27,LOCACIÓN DE BIENES MUEBLES,147,"Alquiler y arrendamiento de máquinas, autos y equipos"
+713009.1,9.30,575.00,1712,Alquiler de cosas muebles n.c.p.,27,LOCACIÓN DE BIENES MUEBLES,147,"Alquiler y arrendamiento de máquinas, autos y equipos"
+711200,9.30,575.00,1702,"Alquiler de equipo de transporte para vía acuática, sin operarios ni tripulación",27,LOCACIÓN DE BIENES MUEBLES,147,"Alquiler y arrendamiento de máquinas, autos y equipos"
+711300,9.30,575.00,1703,"Alquiler de equipo de transporte para vía aérea, sin operarios ni tripulación",27,LOCACIÓN DE BIENES MUEBLES,147,"Alquiler y arrendamiento de máquinas, autos y equipos"
+711100,9.30,575.00,1701,"Alquiler de equipo de transporte para vía terrestre, sin operarios ni tripulación",27,LOCACIÓN DE BIENES MUEBLES,147,"Alquiler y arrendamiento de máquinas, autos y equipos"
+713001,9.30,575.00,1711,Alquiler de ropa en general (excepto ropa blanca),27,LOCACIÓN DE BIENES MUEBLES,147,"Alquiler y arrendamiento de máquinas, autos y equipos"
+713009.2,9.30,575.00,1713,"Alquiler de vajilla, mobiliario y elemento de fiesta",27,LOCACIÓN DE BIENES MUEBLES,147,"Alquiler y arrendamiento de máquinas, autos y equipos"
+712902,9.30,575.00,1708,Alquiler y arrendamiento de maquinaria petrolera y minera (sin personal),27,LOCACIÓN DE BIENES MUEBLES,147,"Alquiler y arrendamiento de máquinas, autos y equipos"
+712100,9.30,575.00,1705,Alquiler y arrendamiento de maquinaria y equipo agrícola (sin personal),27,LOCACIÓN DE BIENES MUEBLES,147,"Alquiler y arrendamiento de máquinas, autos y equipos"
+712909.2,9.30,575.00,1710,Alquiler y arrendamiento de maquinaria y equipo n.c.p.,27,LOCACIÓN DE BIENES MUEBLES,147,"Alquiler y arrendamiento de máquinas, autos y equipos"
+712200,9.30,575.00,1706,Alquiler y arrendamiento de maquinaria y equipo para la construcción y la industria (sin personal),27,LOCACIÓN DE BIENES MUEBLES,147,"Alquiler y arrendamiento de máquinas, autos y equipos"
+712909.1,9.30,575.00,1709,Alquiler y arrendamiento de máquinas para salones de entretenimientos,27,LOCACIÓN DE BIENES MUEBLES,147,"Alquiler y arrendamiento de máquinas, autos y equipos"
+999999,12.70,1140.00,1884,Otras actividades n.c.p.,30,OTRAS ACTIVIDADES,164,Otras actividades
+633120.3,10.50,12.00,1698,"Por cada espacio destinado a estacionamiento en la vía pública, otorgado por la Municipalidad de Córdoba bajo el régimen de concesión, ubicado dentro del perímetro señalado en el código 633120.1. El mínimo expresado es por espacio.",26,PLAYAS DE ESTACIONAMIENTO,146,Playas de estacionamiento
+633120.4,10.50,4.70,1699,"Por cada espacio destinado a estacionamiento en la vía pública, otorgado por la Municipalidad de Córdoba bajo el régimen de concesión, ubicado dentro del perímetro señalado en el código 633120.2. El mínimo expresado es por espacio.",26,PLAYAS DE ESTACIONAMIENTO,146,Playas de estacionamiento
+633120.1,42.00,180.00,1696,"Por cada espacio destinado a garajes, playas de estacionamiento, guardacoches, ubicados dentro del perímetro comprendido por las calles: Figueroa Alcorta, Marcelo T. de Alvear, Av. Pueyrredón, Manuel Estrada, Av. Poeta Lugones, Bv Perón, Sarmiento, Humberto Primo ambas aceras y ochavas. El mínimo expresado es por espacio.",26,PLAYAS DE ESTACIONAMIENTO,146,Playas de estacionamiento
+633120.5,31.50,100.00,1700,"Por cada espacio destinado a garajes, playas de estacionamiento, guardacoches, ubicados dentro del perímetro comprendido por las calles: Intendente Mestre (S), La Tablada, Oncativo, Bv. Guzmán, Bv. Mitre, Intendente Mestre (S), Rodriguez Peña, Mariano Moreno, Av. Pueyrredón, Escutti, Ayacucho, Duarte Quirós, Bolívar, 27 de Abril, Arturo M. Bas, Deán Funes, Fragueiro ambas aceras y ochavas, y los ubicados en Calles Jujuy, Sucre, Tucuman, Av. Gral. Paz, Rivera Indarte y San Martín, entre las calles Humberto Primo y La Tablada; en Calles San Martín, Salta, Pje. Scabuzzo; Maipú, Alvear y Rivadavia, Republica de Israel y San Martin, entre las calles Sarmiento y Oncativo; en Calles Fructuoso Rivera, Achaval Rodríguez y Laprida, entre calles Pje. Rafael Escuti y Marcelo T. de Alvear; en Calles San Luis, Montevideo y Bv. San Juan, entre calles Ayacucho y Marcelo T. de Alvear; Calle Dean Funes, entre A. M. Bas - Lavalleja y Marcelo T. de Alvear – Figueroa Alcorta; en Calle Lavalleja entre Deán Funes y Figueroa Alcorta; en Calles 9 de Julio, Av. Colón, Santa Rosa, La Rioja y Humberto Primo, entre calles Fragueiro y Figueroa Alcorta; y en Calle Pje. Comercio, entre La Rioja y Humberto Primo en ambas aceras. El mínimo expresado es por espacio.",26,PLAYAS DE ESTACIONAMIENTO,146,Playas de estacionamiento
+633120.2,21.00,79.00,1697,"Por cada espacio destinado a garajes, playas de estacionamiento, guardacoches, ubicados fuera del perímetro señalado en el código 633120.1 y 633120.5. El mínimo expresado es por espacio.",26,PLAYAS DE ESTACIONAMIENTO,146,Playas de estacionamiento
+743000.2,11.60,575.00,1715,Ejecución de trabajos de artículos publicitarios (diseño gráfico),28,PUBLICIDAD,148,Publicidad
+743000.7,35.00,36.00,1720,"Publicidad realizada por medio de carteles, pantallas y letreros electrónicos. El mínimo expresado corresponde al importe por metro cuadrado.",28,PUBLICIDAD,148,Publicidad
+743000.5,35.00,13.00,1718,"Publicidad realizada por medio de carteles, pantallas y paneles luminosos, iluminados, mecánicos, y/o por cualquier otro espacio publicitario. Con una superficie de 10,01 hasta 25 metros cuadrados por cartel o espacio publicitario. La cantidad de metros a declarar en éste subrubro, se refiere a la sumatoria de los metros cuadrados en uso de los carteles que se encuentran en esta categoría. El mínimo expresado corresponde al importe por metro cuadrado.",28,PUBLICIDAD,148,Publicidad
+743000.4,35.00,10.00,1717,"Publicidad realizada por medio de carteles, pantallas y paneles luminosos, iluminados, mecánicos, y/o por cualquier otro espacio publicitario. Con una superficie de 2,01 hasta 10 metros cuadrados por cartel o espacio publicitario. La cantidad de metros a declarar en este subrubro, se refiere a la sumatoria de los metros cuadrados en uso de los carteles que se encuentran en esta categoría. El mínimo expresado corresponde al importe por metro cuadrado.",28,PUBLICIDAD,148,Publicidad
+743000.3,35.00,8.00,1716,"Publicidad realizada por medio de carteles, pantallas y paneles luminosos, iluminados, mecánicos, y/o por cualquier otro espacio publicitario. Con una superficie de hasta 2 metros cuadrados por cartel o espacio publicitario. La cantidad de metros a declarar en este subrubro, se refiere a la sumatoria de los metros cuadrados en uso de los carteles que se encuentran en esta categoría. El mínimo expresado corresponde al importe por metro cuadrado.",28,PUBLICIDAD,148,Publicidad
+743000.6,35.00,19.00,1719,"Publicidad realizada por medio de carteles, pantallas y paneles luminosos, iluminados, mecánicos, y/o por cualquier otro espacio publicitario. Con una superficie de más de 25 metros cuadrados por cartel o espacio publicitario. La cantidad de metros a declarar en este subrubro, se refiere a la sumatoria de los metros cuadrados en uso de los carteles que se encuentran en esta categoría. El mínimo expresado corresponde al importe por metro cuadrado.",28,PUBLICIDAD,148,Publicidad
+743000.1,14.00,1460.00,1714,Servicios de publicidad,28,PUBLICIDAD,148,Publicidad
+502300,7.00,455.00,1359,"Instalación y reparación de lunetas y ventanillas, sistema de climatización, grabado de cristales de automotores, polarizados,",18,REPARACIONES Y MANTENIMIENTO,119,Mantenimiento y reparación de automotores y motocicletas
+502700,7.00,455.00,1364,Lavadero de autos,18,REPARACIONES Y MANTENIMIENTO,119,Mantenimiento y reparación de automotores y motocicletas
+505000.1,7.40,575.00,1369,Lubricentros,18,REPARACIONES Y MANTENIMIENTO,119,Mantenimiento y reparación de automotores y motocicletas
+502920,7.00,455.00,1365,Mantenimiento y reparación de frenos de automotores,18,REPARACIONES Y MANTENIMIENTO,119,Mantenimiento y reparación de automotores y motocicletas
+502220,7.00,455.00,1358,"Reparación de automotores y motocicletas (amortiguadores, alineación de dirección, balanceo de ruedas, llantas)",18,REPARACIONES Y MANTENIMIENTO,119,Mantenimiento y reparación de automotores y motocicletas
+502990,7.60,455.00,1367,"Reparación de automotores y motocicletas (motores y mecánica integral; incluidos carburador, radiador,  y Servicio de Auxilio y Remolque de automotores). Incluye instalación de equipos de G.N.C.",18,REPARACIONES Y MANTENIMIENTO,119,Mantenimiento y reparación de automotores y motocicletas
+504020,7.00,455.00,1368,Reparación de bicicletas y rodados infantiles,18,REPARACIONES Y MANTENIMIENTO,119,Mantenimiento y reparación de automotores y motocicletas
+502500,7.00,455.00,1362,"Reparaciones eléctricas de automotores (incluyendo tableros, instrumental y reparación o recarga de baterías)",18,REPARACIONES Y MANTENIMIENTO,119,Mantenimiento y reparación de automotores y motocicletas
+502921,7.00,455.00,1366,Servicio de cerrajería,18,REPARACIONES Y MANTENIMIENTO,119,Mantenimiento y reparación de automotores y motocicletas
+502400.2,7.00,575.00,1361,Servicio de tapicería (excluido p/automotores),18,REPARACIONES Y MANTENIMIENTO,119,Mantenimiento y reparación de automotores y motocicletas
+502600,7.00,455.00,1363,Taller de chapa y pintura de automotores,18,REPARACIONES Y MANTENIMIENTO,119,Mantenimiento y reparación de automotores y motocicletas
+502210,7.00,455.00,1357,Taller de gomería. Incluye las que poseen anexos de recapados,18,REPARACIONES Y MANTENIMIENTO,119,Mantenimiento y reparación de automotores y motocicletas
+502400.1,7.00,455.00,1360,Tapizado y retapizado de automotores,18,REPARACIONES Y MANTENIMIENTO,119,Mantenimiento y reparación de automotores y motocicletas
+526200,7.00,575.00,1371,Reparación de aparatos eléctricos de uso doméstico y personal,18,REPARACIONES Y MANTENIMIENTO,120,Reparación de artículos personales y del hogar y/u otros
+526100,7.00,385.00,1370,Reparación de calzado y otros artículos de cuero,18,REPARACIONES Y MANTENIMIENTO,120,Reparación de artículos personales y del hogar y/u otros
+526909.2,7.00,575.00,1375,Reparación de muebles de madera (carpintería de madera),18,REPARACIONES Y MANTENIMIENTO,120,Reparación de artículos personales y del hogar y/u otros
+526909.1,7.00,575.00,1374,Reparación de muebles metálicos (carpintería),18,REPARACIONES Y MANTENIMIENTO,120,Reparación de artículos personales y del hogar y/u otros
+526901,7.00,575.00,1373,Reparación de relojes y joyas,18,REPARACIONES Y MANTENIMIENTO,120,Reparación de artículos personales y del hogar y/u otros
+526909.4,7.00,575.00,1377,Reparaciones de armas de fuego,18,REPARACIONES Y MANTENIMIENTO,120,Reparación de artículos personales y del hogar y/u otros
+526909.3,7.00,575.00,1376,Reparaciones y afinaciones de instrumentos musicales,18,REPARACIONES Y MANTENIMIENTO,120,Reparación de artículos personales y del hogar y/u otros
+526201,7.00,575.00,1372,Reparación y mantenimiento de ascensores,18,REPARACIONES Y MANTENIMIENTO,120,Reparación de artículos personales y del hogar y/u otros
+526909.5,7.00,575.00,1378,Servicio de reparación n.c.p.,18,REPARACIONES Y MANTENIMIENTO,120,Reparación de artículos personales y del hogar y/u otros
+662040,13.70,650.00,1690,Agente de seguros y servicios relacionados con seguros n.c.p.,24,SEGUROS,144,Seguros
+662030,15.80,755.00,1689,Aseguradora de riesgo de trabajo (A.R.T.),24,SEGUROS,144,Seguros
+662020,15.80,635.00,1688,"Seguros (Cooperativa, Mutual y compañía privada). Reaseguros. El mínimo expresado es por persona que desarrolle actividad inherente al giro del establecimiento.",24,SEGUROS,144,Seguros
+552114.13,22.00,5090.00,1746,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría, y restaurantes con una superficie habilitada de mas de 300 m2. Ubicados dentro del perímetro comprendido por las calles: Bv. Illia, Tránsito Cáceres de Allende, Av. Poeta Lugones, Bv. Chacabuco, Bolivia, Ituzaingo, Venezuela, Richardson, Av. Vélez Sarsfield, Av. Pueyrredón, Av. Marcelo T. De Alvear, Bv San Juan, ambas aceras y ochavas.",29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552114.11,22.00,2705.00,1744,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría, y restaurantes con una superficie habilitada desde 101 m2 hasta 200 m2. Ubicados dentro del perímetro comprendido por las calles: Bv. Illia, Tránsito Cáceres de Allende, Av. Poeta Lugones, Bv. Chacabuco, Bolivia, Ituzaingo, Venezuela, Richardson, Av. Vélez Sarsfield, Av. Pueyrredón, Av. Marcelo T. De Alvear, Bv San Juan, ambas aceras y ochavas.",29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552114.12,22.00,4060.00,1745,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría, y restaurantes con una superficie habilitada desde 201 m2 hasta 300 m2. Ubicados dentro del perímetro comprendido por las calles: Bv. Illia, Tránsito Cáceres de Allende, Av. Poeta Lugones, Bv. Chacabuco, Bolivia, Ituzaingo, Venezuela, Richardson, Av. Vélez Sarsfield, Av. Pueyrredón, Av. Marcelo T. De Alvear, Bv San Juan, ambas aceras y ochavas.",29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552114.10,22.00,1585.00,1743,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría, y restaurantes con una superficie habilitada hasta 100 m2. Ubicados dentro del perímetro comprendido por las calles: Bv. Illia, Tránsito Cáceres de Allende, Av. Poeta Lugones, Bv. Chacabuco, Bolivia, Ituzaingo, Venezuela, Richardson, Av. Vélez Sarsfield, Av. Pueyrredón, Av. Marcelo T. De Alvear, Bv San Juan, ambas aceras y ochavas.",29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552114.9,15.80,1515.00,1742,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes. Ubicados dentro de shoppings, grandes centros comerciales y patios de comida.",29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552115.2,22.00,3395.00,1748,"Bar con música, sin espectáculo público, instalado dentro del perímetro y tramos establecidos por el Art. 157° de la presente.",29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552115.1,22.00,2260.00,1747,"Bar con música, sin espectáculo público, instalado fuera del perímetro y tramos establecidos por el Art. 157° de la presente.",29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552271,7.00,575.00,1751,Heladeras en la vía pública,29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552120,7.00,575.00,1749,Heladería,29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552114.8,15.80,2440.00,1741,"- Perímetro comprendido por las calles Av. Marcelo T. De Alvear, Av. Figueroa Alcorta; Humberto Primero, Sarmiento, Av. Maipú, Chacabuco, Corrientes y Av. Duarte Quirós, ambas aceras y ochavas, y los ubicados en Calles Chacabuco,  Ituzaingó, Buenos Aires e Independencia, entre las calles Bv. Arturo Illia y Corrientes, en ambas aceras; en Calles Independencia, Obispo Trejo, Av. Vélez Sarsfield y Marcelo T de Alvear, entre las calles Bv. San Juan y Av. Duarte Quirós, en ambas aceras.
+- Perímetro comprendido por las calles: Rodríguez Peña; Isabel La Católica, Jujuy, Jerónimo Cortez, Fragueiro, Jerónimo Luis de Cabrera,  Lavalleja, Faustino Allende, ambas aceras y ochavas.
+- Perímetro comprendido por las calles: Catamarca, Viamonte, 25 De Mayo y Ovidio Lagos, ambas aceras y ochavas.
+- Sobre Avenida Rafael Nuñez entre el Nº 3700 hasta el Nº 5000, ambas aceras y ochavas.
+- Sobre Av. Del Dante, ambas aceras y ochavas.
+- Sobre Av. Concepción Arenales, ambas aceras y ochavas.",29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552210,10.50,575.00,1750,"Provisión de comidas preparadas, racionamiento de alimentos en cocido (incluye el servicio de catering, el suministro de confituras y comidas para banquetes, bodas, fiestas y otras celebraciones).",29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+701010.1,8.40,575.00,1758,Salón de Fiestas (expendio de confituras y comidas para consumo en el lugar),29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+701010.2,7.00,575.00,1759,Salón de Fiestas Infantiles con expendio de confituras y comidas,29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552290.3,8.40,575.00,1754,"Sandwichería, elaboración y ventas por menor, sin servicios de mesas",29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552290.1,7.00,385.00,1752,"Servicios de elaboración propia o por terceros y venta para llevar y entrega a domicilio de alimentos perecederos calientes, fríos o congelados, sin sucursales, con superficie habilitada de hasta 50 m2",29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552290.4,8.40,1585.00,1755,"Servicios de elaboración propia o por terceros y venta para llevar y entrega a domicilio de alimentos perecederos calientes, fríos o congelados, sin sucursales, con superficie habilitada de hasta 50 m2. Ubicados dentro del perímetro comprendido por las calles: Bv. San Juan, Bv. Illía, Tránsito Cáceres de Allende, Av. Poeta Lugones, Bv. Chacabuco, Bolivia, Ituzaingó, Venezuela, Richardson, Av. Vélez Sársfield, Av. Pueyrredón, Marcelo T. De Alvear.",29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552290.2,7.00,575.00,1753,"Servicios de elaboración propia o por terceros y venta para llevar y entrega a domicilio de alimentos perecederos calientes, fríos o congelados, sin sucursales, con superficie habilitada de más de 50 m2",29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552290.5,8.40,2260.00,1756,"Servicios de elaboración propia o por terceros y venta para llevar y entrega a domicilio de alimentos perecederos calientes, fríos o congelados, sin sucursales, con superficie habilitada de más de 50 m2. Ubicados dentro del perímetro comprendido por las calles: Bv. San Juan, Bv. Illía, Tránsito Cáceres de Allende, Av. Poeta Lugones, Bv. Chacabuco, Bolivia, Ituzaingó, Venezuela, Richardson, Av. Vélez Sársfield, Av. Pueyrredón, Marcelo T. De Alvear.",29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552290.6,7.00,385.00,1757,"Servicios de elaboración propia y venta de milanesas, sin sucursales, con superficie habilitada de hasta 50 m2.",29,SERVICIOS,154,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2. Ubicados dentro de los siguientes perímetros:"
+552114.6,15.80,1640.00,1739,"- Perímetro comprendido por las calles Av. Marcelo T. De Alvear, Av. Figueroa Alcorta; Humberto Primero, Sarmiento, Av. Maipú, Chacabuco, Corrientes y Av. Duarte Quirós, ambas aceras y ochavas, y los ubicados en Calles Chacabuco,  Ituzaingó, Buenos Aires e Independencia, entre las calles Bv. Arturo Illia y Corrientes, en ambas aceras; en Calles Independencia, Obispo Trejo, Av. Vélez Sarsfield y Marcelo T de Alvear, entre las calles Bv. San Juan y Av. Duarte Quirós, en ambas aceras.
+- Perímetro comprendido por las calles: Rodríguez Peña; Isabel La Católica, Jujuy, Jerónimo Cortez, Fragueiro, Jerónimo Luis de Cabrera,  Lavalleja, Faustino Allende, ambas aceras y ochavas.
+- Perímetro comprendido por las calles: Catamarca, Viamonte, 25 De Mayo y Ovidio Lagos, ambas aceras y ochavas.
+- Sobre Avenida Rafael Nuñez entre el Nº 3700 hasta el Nº 5000, ambas aceras y ochavas.
+- Sobre Av. Del Dante, ambas aceras y ochavas.
+- Sobre Av. Concepción Arenales, ambas aceras y ochavas.",29,SERVICIOS,152,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada desde 101 m2 a 200 m2. Ubicados dentro de los siguientes perímetros:"
+552114.7,15.80,2055.00,1740,"- Perímetro comprendido por las calles Av. Marcelo T. De Alvear, Av. Figueroa Alcorta; Humberto Primero, Sarmiento, Av. Maipú, Chacabuco, Corrientes y Av. Duarte Quirós, ambas aceras y ochavas, y los ubicados en Calles Chacabuco,  Ituzaingó, Buenos Aires e Independencia, entre las calles Bv. Arturo Illia y Corrientes, en ambas aceras; en Calles Independencia, Obispo Trejo, Av. Vélez Sarsfield y Marcelo T de Alvear, entre las calles Bv. San Juan y Av. Duarte Quirós, en ambas aceras.
+- Perímetro comprendido por las calles: Rodríguez Peña; Isabel La Católica, Jujuy, Jerónimo Cortez, Fragueiro, Jerónimo Luis de Cabrera, Lavalleja, Faustino Allende, ambas aceras y ochavas.
+- Perímetro comprendido por las calles: Catamarca, Viamonte, 25 De Mayo y Ovidio Lagos, ambas aceras y ochavas.
+- Sobre Avenida Rafael Nuñez entre el Nº 3700 hasta el Nº 5000, ambas aceras y ochavas.
+- Sobre Av. Del Dante, ambas aceras y ochavas.
+- Sobre Av. Concepción Arenales, ambas aceras y ochavas.",29,SERVICIOS,153,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada desde 201 m2 a 300 m2. Ubicados dentro de los siguientes perímetros:"
+552114.5,15.80,1230.00,1738,"- Perímetro comprendido por las calles Av. Marcelo T. de Alvear, Av. Figueroa Alcorta; Humberto Primero, Sarmiento, Av. Maipú, Chacabuco, Corrientes y Av. Duarte Quirós, ambas aceras y ochavas, y los ubicados en Calles Chacabuco, Ituzaingó, Buenos Aires e Independencia, entre las calles Bv. Arturo Illia y Corrientes, en ambas aceras; en Calles Independencia, Obispo Trejo y Av. Vélez Sarsfield y Marcelo T. de Alvear,  entre las calles Bv. San Juan y Av. Duarte Quirós, en ambas aceras.
+- Perímetro comprendido por las calles: Rodríguez Peña; Isabel La Católica, Jujuy, Jerónimo Cortez, Fragueiro, Jerónimo Luis de Cabrera,  Lavalleja, Faustino Allende, ambas aceras y ochavas.
+- Perímetro comprendido por las calles: Catamarca, Viamonte, 25 De Mayo y Ovidio Lagos, ambas aceras y ochavas.
+- Sobre Avenida Rafael Nuñez entre el Nº 3700 hasta el Nº 5000,  ambas aceras y ochavas.
+- Sobre Av. Del Dante, ambas aceras y ochavas.
+- Sobre Av. Concepción Arenales, ambas aceras y ochavas.",29,SERVICIOS,151,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada hasta 100 m2. Ubicados dentro de los siguientes perímetros:"
+552114.4,8.40,1355.00,1737,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada de más de 300 m2",29,SERVICIOS,150,"Expendio de comidas y bebidas en restaurante, cafés y con servicio de mesa y mostrador"
+552114.2,8.40,915.00,1735,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada desde 101 m2 a 200 m2",29,SERVICIOS,150,"Expendio de comidas y bebidas en restaurante, cafés y con servicio de mesa y mostrador"
+552114.3,8.40,1140.00,1736,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada desde 201 m2 a 300 m2",29,SERVICIOS,150,"Expendio de comidas y bebidas en restaurante, cafés y con servicio de mesa y mostrador"
+552114.1,8.40,690.00,1734,"Bar, confiterías, pizzerías, lomiterías, empanaderías, parrilla, trattoría y restaurantes con una superficie habilitada hasta 100 m2",29,SERVICIOS,150,"Expendio de comidas y bebidas en restaurante, cafés y con servicio de mesa y mostrador"
+801000.4,7.00,575.00,1783,Enseñanza privada (otras),29,SERVICIOS,156,Instrucción y Enseñanza
+801000.3,7.00,575.00,1782,Enseñanza privada (únicamente planes oficiales),29,SERVICIOS,156,Instrucción y Enseñanza
+809000.3,7.00,575.00,1791,Escuela de conductores,29,SERVICIOS,156,Instrucción y Enseñanza
+801000.1,7.00,575.00,1780,Escuela de enseñanza privada pre-primaria,29,SERVICIOS,156,Instrucción y Enseñanza
+801000.2,7.00,575.00,1781,Escuela de enseñanza privada. Primaria (EGB),29,SERVICIOS,156,Instrucción y Enseñanza
+802100.1,7.00,575.00,1786,Escuela de enseñanza privada. Secundaria (Polimodal),29,SERVICIOS,156,Instrucción y Enseñanza
+802100.2,7.00,575.00,1787,Escuela de enseñanza privada. Terciaria,29,SERVICIOS,156,Instrucción y Enseñanza
+809000.4,7.00,575.00,1792,Escuela de natación,29,SERVICIOS,156,Instrucción y Enseñanza
+809000.5,7.00,575.00,1793,Escuela de yoga terapia,29,SERVICIOS,156,Instrucción y Enseñanza
+809000.2,7.00,575.00,1790,Escuela para discapacitados mentales y físicos,29,SERVICIOS,156,Instrucción y Enseñanza
+809000.1,7.00,575.00,1789,Instituto de enseñanza,29,SERVICIOS,156,Instrucción y Enseñanza
+801090,7.00,575.00,1785,Jardín de infantes primer ciclo. Guardería,29,SERVICIOS,156,Instrucción y Enseñanza
+801040,7.00,575.00,1784,Jardín de infantes segundo ciclo,29,SERVICIOS,156,Instrucción y Enseñanza
+809050,10.50,39.50,1794,Servicios de acceso a navegación y otros canales de uso de internet. Entretenimientos; juegos en red y en consolas (cyber y similares). El mínimo expresado corresponde a cada puesto conectado a un sistema de red con o sin acceso a internet.,29,SERVICIOS,156,Instrucción y Enseñanza
+803200,7.00,575.00,1788,Universidad privada,29,SERVICIOS,156,Instrucción y Enseñanza
+924922,31.50,1980.00,1850,"Hasta 5 juegos
+De 6 a 10 juegos
+De 11 a 20 juegos
+De 21 a 33 juegos
+Más de 33 juegos; por juego.",29,SERVICIOS,161,"Negocios con juegos electrónicos, mecánicos o similares por local habilitado, conforme a las siguientes escalas y mínimos:"
+924990,10.50,725.00,1851,Sala de entretenimiento,29,SERVICIOS,161,"Negocios con juegos electrónicos, mecánicos o similares por local habilitado, conforme a las siguientes escalas y mínimos:"
+924992,10.50,575.00,1852,"Servicio de diversión. Alquiler de botes, kayaks, bicicletas para el agua",29,SERVICIOS,161,"Negocios con juegos electrónicos, mecánicos o similares por local habilitado, conforme a las siguientes escalas y mínimos:"
+551222.8,10.50,425.00,1729,"Alojamiento y/o alquiler temporario de departamentos, casas amobladas y/o similar. El mínimo expresado es por cada departamento y/o habitación.",29,SERVICIOS,149,"Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento"
+551229.4,10.50,160.00,1733,"Appart-hotel, por unidad, departamento y casa. El mínimo expresado es por cada uno.",29,SERVICIOS,149,"Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento"
+551210,26.30,5630.00,1721,"Casas amuebladas o alojamiento por hora; el importe mínimo a tributar por mes por las actividades comprendidas en el presente código, surgirá de multiplicar la tarifa más alta fijada en el mes para el turno de 2 hs. por la cantidad de habitaciones construidas por el coeficiente 3. El régimen de tarifas que establezcan las casas amuebladas o alojamiento por hora deberá comunicarse a la Dirección General de Recursos tributarios con 10 días de anticipación y bajo declaración jurada especificando las tarifas de los distintos turnos incluido el de 2 hs. y el número de cada una de las habitaciones sujetas a las mismas. Las tarifas incluidas en la declaración jurada deberán exhibirse al usuario en el interior de la habitación mediante impresos avisados por la Dirección General de Recursos Tributarios. Cuando no se estableciera tarifa para los turnos de 2 hs. la Dirección General de Recursos Tributarios determinará su equivalente.",29,SERVICIOS,149,"Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento"
+551222.5,10.50,48.00,1726,Hostería categoría 2 y 1 estrellas. El mínimo expresado es por cada habitación.,29,SERVICIOS,149,"Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento"
+551222.4,10.50,61.00,1725,Hostería categoría 3 estrellas. El mínimo expresado es por cada habitación.,29,SERVICIOS,149,"Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento"
+551222.7,10.50,51.00,1728,Hotel categoría 1 estrella. El mínimo expresado es por cada habitación.,29,SERVICIOS,149,"Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento"
+551222.3,10.50,61.00,1724,Hotel categoría 2 estrellas. El mínimo expresado es por cada habitación.,29,SERVICIOS,149,"Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento"
+551222.6,10.50,79.00,1727,Hotel categoría 3 estrellas. El mínimo expresado es por cada habitación.,29,SERVICIOS,149,"Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento"
+551222.2,10.50,110.00,1723,Hotel categoría 4 estrellas. El mínimo expresado es por cada habitación.,29,SERVICIOS,149,"Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento"
+551222.1,10.50,146.00,1722,Hotel categoría 5 estrellas. El mínimo expresado es por cada habitación.,29,SERVICIOS,149,"Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento"
+551229.2,10.50,120.00,1731,Motel categoría 1 y 2 estrellas. El mínimo expresado es por cada habitación.,29,SERVICIOS,149,"Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento"
+551229.1,10.50,160.00,1730,Motel categoría 3 estrellas. El mínimo expresado es por cada habitación.,29,SERVICIOS,149,"Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento"
+551229.3,10.50,50.00,1732,"Residenciales, hospedajes y otros lugares de alojamiento sin discriminar rubros, no clasificados en otra parte. El mínimo expresado es por cada habitación.",29,SERVICIOS,149,"Servicio de alojamiento, comida y hospedaje en hoteles y otros lugares de alojamiento"
+924920.2,12.60,385.00,1848,"Cancha de bowling y minigolf, por cada una",29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+921990.2,18.90,900.00,1836,"Centros de entretenimiento familiar, entendiendo por tales aquellos establecimientos con juegos de parque, mecánicos, electrónicos o similares que posean menos del 30% de los mismos en calidad de videojuegos",29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+924110.1,10.50,575.00,1838,Club social y deportivo,29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+921981,10.50,690.00,1830,Ferias y exposiciones,29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+924110.8,10.50,575.00,1845,Gimnasios,29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+921989,10.50,575.00,1833,Jardín zoológico.,29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+924920.1,12.60,385.00,1847,"Juego de pool, minipool y otros juegos de mesa y por cada mesa",29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+921990.1,15.80,495.00,1835,"Juegos Mecánicos, con capacidad mayor a 2 personas
+El mínimo expresado es por cada juego.",29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+924110.7,10.50,575.00,1844,Natatorios,29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+921982,0.00,265.00,1831,Ocupantes de stands o puestos de venta en eventos temporales o transitorios pagaran por día y por anticipado el mínimo expresado.,29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+921993,18.90,7515.00,1837,"Otros servicios de esparcimiento, ubicados dentro del perímetro comprendido por las calles Bv. San Juan, Bv. Illia, Tránsito Cáceres de Allende, Av. Poeta Lugones, Bv. Chacabuco, Bolivia, Ituzaingó, Venezuela, Richardson, Av. Vélez Sársfield, Av. Pueyrredón, Marcelo T de Alvear .",29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+921912,10.50,1825.00,1829,Por cada cabina individual de exhibición condicionada.,29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+924120,10.50,575.00,1846,Producción de espectáculos deportivos,29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+924920.3,10.50,575.00,1849,Salón de juegos infantiles,29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+924110.6,10.50,575.00,1843,Servicio de práctica deportiva n.c.p.,29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+924110.3,10.50,575.00,1840,Servicio de prácticas deportivas. Canchas de fútbol,29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+924110.4,10.50,1140.00,1841,Servicio de prácticas deportivas. Canchas de golf,29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+924110.2,10.50,575.00,1839,"Servicio de prácticas deportivas, canchas de paddle y tenis",29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+924110.5,10.50,575.00,1842,Servicio de prácticas deportivas. Polígonos de tiro,29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+921983,14.00,4510.00,1832,Servicios de diversión prestados en bares nocturnos.,29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+921990,10.50,4060.00,1834,Servicios de diversión y esparcimiento n.c.p.,29,SERVICIOS,160,"Servicios de diversión, esparcimiento, cultural y deportivos"
+930100.2,7.00,385.00,1854,Lavandería automática. Alquiler de máquinas lavadoras y secadoras de ropa en general,29,SERVICIOS,162,"Servicios de lavandería, establecimientos de limpieza y teñido"
+930100.3,7.00,650.00,1855,Receptoría de lavandería tintorería,29,SERVICIOS,162,"Servicios de lavandería, establecimientos de limpieza y teñido"
+930100.1,7.00,575.00,1853,Tintorería,29,SERVICIOS,162,"Servicios de lavandería, establecimientos de limpieza y teñido"
+900010.1,7.00,575.00,1810,Servicio de recolección y transporte de residuos convencionales (domiciliarios - orgánicos e inorgánicos reciclables - generados por actividad comercial o industrial que no deriven de procesos productivos),29,SERVICIOS,158,Servicios de saneamiento y similares
+900010.2,7.40,575.00,1811,Servicio de recolección y transporte de residuos no convencionales (industriales – peligrosos),29,SERVICIOS,158,Servicios de saneamiento y similares
+900010.3,7.40,575.00,1812,Servicio de recolección y transporte de residuos no convencionales (patógenos),29,SERVICIOS,158,Servicios de saneamiento y similares
+900010.4,7.40,575.00,1813,Servicio de recolección y transporte de residuos no convencionales (restos de obras y demoliciones),29,SERVICIOS,158,Servicios de saneamiento y similares
+900020,7.00,575.00,1814,"Servicios de depuración de aguas residuales, alcantarillado y cloacas",29,SERVICIOS,158,Servicios de saneamiento y similares
+900090,7.00,575.00,1815,Servicios de saneamiento n.c.p.,29,SERVICIOS,158,Servicios de saneamiento y similares
+749400.1,11.60,900.00,1765,Estudio fotográfico. Laboratorio,29,SERVICIOS,155,Servicios empresariales
+749400.2,11.60,900.00,1766,Estudios fotográficos. Fotografía comercial,29,SERVICIOS,155,Servicios empresariales
+749910.1,16.80,1140.00,1771,Servicio de Consultaría en Informática y suministro programas de informática (software),29,SERVICIOS,155,Servicios empresariales
+749600,7.60,575.00,1767,Servicio de fotocopiado. Fotocopiadoras,29,SERVICIOS,155,Servicios empresariales
+749910.3,16.80,1140.00,1773,Servicio de Informática n.c.p.,29,SERVICIOS,155,Servicios empresariales
+749300,16.80,1140.00,1764,Servicio de limpieza,29,SERVICIOS,155,Servicios empresariales
+911004,12.00,1140.00,1779,"Servicio de logística, conservación  y/o depósito de alimentos y/o bebidas.",29,SERVICIOS,155,Servicios empresariales
+911003,12.00,1140.00,1778,"Servicio de logística, guarda y custodia de archivos.",29,SERVICIOS,155,Servicios empresariales
+749800,15.80,1140.00,1769,Servicio de mantenimiento de espacios verdes. Parquización.,29,SERVICIOS,155,Servicios empresariales
+743009,12.10,575.00,1761,Servicio de mensajería y cadetería,29,SERVICIOS,155,Servicios empresariales
+743002,13.70,575.00,1760,Servicio de oficina de cobranzas,29,SERVICIOS,155,Servicios empresariales
+749700,16.80,1140.00,1768,"Servicio de organización integral de eventos y servicios conexos propios (catering, propalación, )",29,SERVICIOS,155,Servicios empresariales
+749910.2,16.80,1140.00,1772,Servicio de Procesamiento de datos y/o relacionados con base de datos,29,SERVICIOS,155,Servicios empresariales
+749290,16.80,1140.00,1763,Servicio de seguridad,29,SERVICIOS,155,Servicios empresariales
+749910,16.80,1140.00,1770,Servicio de Web Hosting,29,SERVICIOS,155,Servicios empresariales
+749930,15.30,840.00,1774,"Servicios brindados para terceros por call center, contact center, y Atención al Cliente. Servicios brindados mediante tecnología perteneciente al área de comunicaciones. Se incluyen todos los servicios relacionados con el asesoramiento y auxilio técnico de venta de productos y servicios y de captura, procesamiento y comunicación de transacciones nacionales e internacionales",29,SERVICIOS,155,Servicios empresariales
+911002,16.80,1140.00,1777,Servicios de gestión y administración de fideicomisos.,29,SERVICIOS,155,Servicios empresariales
+911000,16.80,1140.00,1775,Servicios prestados a las empresas no clasificados en otra parte,29,SERVICIOS,155,Servicios empresariales
+911001,16.80,1520.00,1776,"Servicios prestados a las empresas por profesionales liberales organizados en forma de sociedad regulada por ley, o cuando posean sucursal",29,SERVICIOS,155,Servicios empresariales
+749210,12.10,1140.00,1762,"Transporte de valores, documentación y similares",29,SERVICIOS,155,Servicios empresariales
+930102,15.80,1140.00,1866,Cámaras frigoríficas y lugares destinados a la conservación de pieles.,29,SERVICIOS,163,Servicios personales n.c.p.
+930990.5,8.40,900.00,1883,Cama solar,29,SERVICIOS,163,Servicios personales n.c.p.
+930202.2,8.40,460.00,1871,Cosmetología,29,SERVICIOS,163,Servicios personales n.c.p.
+930202.5,8.40,460.00,1874,Depilación,29,SERVICIOS,163,Servicios personales n.c.p.
+930990.3,8.40,460.00,1881,Distribución de gacetillas,29,SERVICIOS,163,Servicios personales n.c.p.
+930300.1,8.40,690.00,1875,Empresa de pompas fúnebres (cochería servicios fúnebres),29,SERVICIOS,163,Servicios personales n.c.p.
+930300.2,8.40,690.00,1876,Empresa de pompas fúnebres (servicios por abono),29,SERVICIOS,163,Servicios personales n.c.p.
+930910,8.40,460.00,1878,Instituto de higiene y estética corporal,29,SERVICIOS,163,Servicios personales n.c.p.
+930202.3,8.40,385.00,1872,Manicura,29,SERVICIOS,163,Servicios personales n.c.p.
+930202.4,8.40,385.00,1873,Pedicura,29,SERVICIOS,163,Servicios personales n.c.p.
+852000.2,7.00,575.00,1863,Peluquería canina,29,SERVICIOS,163,Servicios personales n.c.p.
+930201.2,7.00,575.00,1869,Peluquerías instaladas dentro del perímetro y tramos establecidos por el Art. 157° de la presente,29,SERVICIOS,163,Servicios personales n.c.p.
+930201.1,7.00,460.00,1868,Peluquerías instaladas fuera del perímetro y tramos establecidos por el Art. 157° de la presente,29,SERVICIOS,163,Servicios personales n.c.p.
+809091.2,0.00,0.00,1858,Profesional independiente Colegiado.,29,SERVICIOS,163,Servicios personales n.c.p.
+809091.3,0.00,0.00,1859,Profesional independiente No Colegiado.,29,SERVICIOS,163,Servicios personales n.c.p.
+930103,21.00,1140.00,1867,"Rematadoras y sociedades dedicadas al remate que no sean remates-ferias, excepto de arte",29,SERVICIOS,163,Servicios personales n.c.p.
+930300.3,8.40,690.00,1877,Salas velatorias,29,SERVICIOS,163,Servicios personales n.c.p.
+930202.1,8.40,460.00,1870,Salón de belleza,29,SERVICIOS,163,Servicios personales n.c.p.
+930990.1,8.40,460.00,1879,Servicios de agencias de matrimonio,29,SERVICIOS,163,Servicios personales n.c.p.
+930990.2,8.40,460.00,1880,Servicios de gestoría del automotor,29,SERVICIOS,163,Servicios personales n.c.p.
+852000.1,7.00,575.00,1862,Servicios de guardería de animales (excepto caballerizas y studs),29,SERVICIOS,163,Servicios personales n.c.p.
+852000.4,7.00,575.00,1865,Servicios médicos para animales,29,SERVICIOS,163,Servicios personales n.c.p.
+930990.4,8.40,460.00,1882,Servicios personales diversos n.c.p.,29,SERVICIOS,163,Servicios personales n.c.p.
+809090,7.00,575.00,1856,Servicios prestados al público no clasificados en otra parte,29,SERVICIOS,163,Servicios personales n.c.p.
+809092,7.00,240.00,1860,Servicios prestados por monotributistas de manera habitual al Estado Municipal.,29,SERVICIOS,163,Servicios personales n.c.p.
+809093,16.00,290.00,1861,Servicios prestados por monotributistas de manera no habitual al Estado Municipal.,29,SERVICIOS,163,Servicios personales n.c.p.
+809091,7.00,630.00,1857,"Servicios prestados por profesionales en el ejercicio individual de su profesión, organizados en forma de sociedad regulada por ley, o cuando posean sucursal.",29,SERVICIOS,163,Servicios personales n.c.p.
+852000.3,7.00,575.00,1864,Servicios profesionales relacionados con la agronomía (sociedad de profesionales),29,SERVICIOS,163,Servicios personales n.c.p.
+851120.1,7.00,575.00,1796,"Geriátricos, hogares de día, residencias de adultos mayores y similares.",29,SERVICIOS,157,Servicios relacionados con la salud humana
+851300.1,7.00,575.00,1802,Mecánico dental,29,SERVICIOS,157,Servicios relacionados con la salud humana
+851700.2,7.00,9.50,1807,Obras Sociales por Servicios relacionados con la salud humana – Afiliados Adherentes. El mínimo expresado corresponde a cada afiliado.,29,SERVICIOS,157,Servicios relacionados con la salud humana
+851700.1,0.00,0.00,1806,Obras Sociales por Servicios relacionados con la salud humana – Afiliados dentro de marco legal obligatorio.,29,SERVICIOS,157,Servicios relacionados con la salud humana
+851210,7.00,575.00,1799,"Servicios de atención ambulatoria. (Incluye las actividades de consultorios médicos de establecimientos sin internación, consultorios de guardia para resolver urgencias médicas, vacunatorios, centros del primer nivel de atención,  Los servicios de cirugía ambulatoria, tales como cirugía plástica, oftalmológica, artroscopia, electrocoagulación, lipoaspiración).",29,SERVICIOS,157,Servicios relacionados con la salud humana
+851220,7.00,575.00,1800,Servicios de atención domiciliaria programada. (Incluye las actividades llevadas a cabo en establecimientos que ofrecen atención por módulos a domicilio y actividades de agentes sanitarios relacionados con la prevención y educación para la salud).,29,SERVICIOS,157,Servicios relacionados con la salud humana
+851400,7.00,575.00,1803,"Servicios de diagnósticos. (Incluye las actividades de laboratorios de análisis clínicos y patológicos, centros de diagnóstico por imágenes, centros de endoscopía, de electrodiagnóstico, consultorios de hemodinamia)",29,SERVICIOS,157,Servicios relacionados con la salud humana
+851600,7.00,575.00,1805,Servicios de emergencias y traslados,29,SERVICIOS,157,Servicios relacionados con la salud humana
+851120.2,7.00,575.00,1797,"Servicios de hospital de día. (Incluye las actividades de tratamiento que no necesitan hospitalización a tiempo completo, tales como tratamientos oncológicos; infectológicos; dialíticos; atención de la salud mental; atención pediátrica; atención gerontológica)",29,SERVICIOS,157,Servicios relacionados con la salud humana
+851110,7.00,575.00,1795,Servicios de internación,29,SERVICIOS,157,Servicios relacionados con la salud humana
+851800,8.40,890.00,1808,Servicios de Medicina Laboral,29,SERVICIOS,157,Servicios relacionados con la salud humana
+851500,7.00,575.00,1804,"Servicios de tratamiento. (Incluye las actividades de centros de cobaltoterapia, de radiología convencional, de acelerador lineal de rehabilitación física, de psicoterapia, de hemoterapia, de rehabilitación psíquica, unidades de hemodiálisis, centros de medicina nuclear)",29,SERVICIOS,157,Servicios relacionados con la salud humana
+851190,7.00,575.00,1798,Servicios hospitalarios n.c.p.,29,SERVICIOS,157,Servicios relacionados con la salud humana
+851300,7.00,575.00,1801,Servicios odontológicos.,29,SERVICIOS,157,Servicios relacionados con la salud humana
+851900,7.00,575.00,1809,Servicios relacionados con la salud humana n.c.p.,29,SERVICIOS,157,Servicios relacionados con la salud humana
+713009.3,7.00,575.00,1816,Alquiler de video películas y video juegos,29,SERVICIOS,159,"Servicios relacionados con películas, radio, TV, obras y espectáculos teatrales y musicales"
+921420,7.00,385.00,1827,Autores compositores y artistas,29,SERVICIOS,159,"Servicios relacionados con películas, radio, TV, obras y espectáculos teatrales y musicales"
+921200.2,13.70,2260.00,1821,"Cinematógrafos, con más de dos salas de exhibición",29,SERVICIOS,159,"Servicios relacionados con películas, radio, TV, obras y espectáculos teatrales y musicales"
+921200.1,13.70,2260.00,1820,Cines. Exhibición de películas cinematográficas (excepto condicionadas),29,SERVICIOS,159,"Servicios relacionados con películas, radio, TV, obras y espectáculos teatrales y musicales"
+921200.3,52.50,5630.00,1822,Cines. Exhibición de películas condicionadas,29,SERVICIOS,159,"Servicios relacionados con películas, radio, TV, obras y espectáculos teatrales y musicales"
+921220,12.60,690.00,1823,Despachante de aduana y balanceadores,29,SERVICIOS,159,"Servicios relacionados con películas, radio, TV, obras y espectáculos teatrales y musicales"
+921120,7.00,2260.00,1818,Distribución y alquiler de películas cinematográficas,29,SERVICIOS,159,"Servicios relacionados con películas, radio, TV, obras y espectáculos teatrales y musicales"
+921301,7.00,1140.00,1824,Emisora y productora de radio de AM,29,SERVICIOS,159,"Servicios relacionados con películas, radio, TV, obras y espectáculos teatrales y musicales"
+921302,7.00,1140.00,1825,Emisora y productora de radio de FM,29,SERVICIOS,159,"Servicios relacionados con películas, radio, TV, obras y espectáculos teatrales y musicales"
+921130,7.00,2260.00,1819,Laboratorios cinematográficos,29,SERVICIOS,159,"Servicios relacionados con películas, radio, TV, obras y espectáculos teatrales y musicales"
+921110,7.00,2260.00,1817,Producción de películas cinematográficas y de televisión,29,SERVICIOS,159,"Servicios relacionados con películas, radio, TV, obras y espectáculos teatrales y musicales"
+921430,7.00,385.00,1828,Servicios relacionados con espectáculos teatrales - por honorarios y comisiones,29,SERVICIOS,159,"Servicios relacionados con películas, radio, TV, obras y espectáculos teatrales y musicales"
+921410,7.00,385.00,1826,Teatro. Espectáculos teatrales y musicales,29,SERVICIOS,159,"Servicios relacionados con películas, radio, TV, obras y espectáculos teatrales y musicales"
+701090.4,8.40,690.00,1694,"Administración de Consorcios, Urbanizaciones Residenciales Especiales, Barrios Cerrados y similares",25,SERVICIOS INMOBILIARIOS,145,Servicios inmobiliarios
+701090.2,10.50,690.00,1692,"Administración, locación, sublocación de inmuebles de terceros.",25,SERVICIOS INMOBILIARIOS,145,Servicios inmobiliarios
+702000.1,10.50,6010.00,1695,Compra Venta de Bienes Inmuebles,25,SERVICIOS INMOBILIARIOS,145,Servicios inmobiliarios
+701090.3,10.50,690.00,1693,"Locación de bienes inmuebles propios – Excepto locación temporaria con fines turísticos, descanso o similares de la Ley Nacional Nº 27.221.",25,SERVICIOS INMOBILIARIOS,145,Servicios inmobiliarios
+701090.1,9.90,690.00,1691,Venta de inmuebles Propios,25,SERVICIOS INMOBILIARIOS,145,Servicios inmobiliarios
+632003,7.00,705.00,1651,Agencias aéreas. Servicios conexos propios,20,TRANSPORTE,140,Servicios conexos con los de transporte
+632004,15.80,705.00,1652,Agencias aéreas. Servicios por comisión,20,TRANSPORTE,140,Servicios conexos con los de transporte
+634110,15.80,705.00,1657,Agencias de turismo y servicios conexos (por comisiones),20,TRANSPORTE,140,Servicios conexos con los de transporte
+634100,7.00,705.00,1656,Agencias de turismo y servicios conexos propios,20,TRANSPORTE,140,Servicios conexos con los de transporte
+633110,7.00,11260.00,1653,Peajes,20,TRANSPORTE,140,Servicios conexos con los de transporte
+633190,7.00,705.00,1654,Servicios complementarios para el transporte terrestre n.c.p.,20,TRANSPORTE,140,Servicios conexos con los de transporte
+635000,12.60,705.00,1658,Servicios de gestión y logística para el transporte de mercaderías (incluye agentes de carga internacional),20,TRANSPORTE,140,Servicios conexos con los de transporte
+633390,7.00,705.00,1655,Servicios relacionados con el transporte aéreo n.c.p.,20,TRANSPORTE,140,Servicios conexos con los de transporte
+622001,8.00,4210.00,1650,Servicios de explotación en terminal aeroportuaria,20,TRANSPORTE,139,Transporte aéreo
+622000,7.40,11260.00,1649,"Transporte aéreo, de pasajeros y cargas",20,TRANSPORTE,139,Transporte aéreo
+602110,7.00,575.00,1638,Servicio de mudanzas,20,TRANSPORTE,138,Transporte terrestre
+602220,10.50,1825.00,1643,Servicio de radiotaxi,20,TRANSPORTE,138,Transporte terrestre
+602190,7.90,1140.00,1640,"Transporte automotores de carga y encomienda a corta, media y larga distancia",20,TRANSPORTE,138,Transporte terrestre
+602250,2.00,575.00,1647,Transporte de pasajeros de larga distancia,20,TRANSPORTE,138,Transporte terrestre
+602220.1,10.50,1825.00,1644,Transporte de pasajeros por Remises. La agencia tributará,20,TRANSPORTE,138,Transporte terrestre
+602230,2.00,415.00,1645,Transporte escolar,20,TRANSPORTE,138,Transporte terrestre
+601100,2.00,11260.00,1637,Transporte ferroviario,20,TRANSPORTE,138,Transporte terrestre
+602210.2,2.00,4510.00,1642,Transporte interurbano de pasajeros,20,TRANSPORTE,138,Transporte terrestre
+603100,7.00,575.00,1648,Transporte por oleoductos y gasoductos,20,TRANSPORTE,138,Transporte terrestre
+602240,8.00,705.00,1646,"Transporte privado n.c.p. (excepto taxis, remis, transporte escolar, alquiler de auto)",20,TRANSPORTE,138,Transporte terrestre
+602180,7.00,575.00,1639,Transporte urbano de cargas n.c.p. (incluye fletes),20,TRANSPORTE,138,Transporte terrestre
+602210.1,2.00,5260.00,1641,Transporte urbano de pasajeros,20,TRANSPORTE,138,Transporte terrestre

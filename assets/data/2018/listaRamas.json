@@ -1,110 +1,104 @@
 [
     {
-        "ID": 1, 
-        "Promedio alicuota": 9.291860465116283, 
-        "Promedio minimo": 1750.4089147286822, 
+        "ID": 19,
+        "Promedio alicuota": 9.291860465116283,
+        "Promedio minimo": 1750.4089147286822,
         "nombre": "ACTIVIDADES COMERCIALES"
-    }, 
+    },
     {
-        "ID": 2, 
-        "Promedio alicuota": 7.172063492063496, 
-        "Promedio minimo": 733.3650793650794, 
+        "ID": 15,
+        "Promedio alicuota": 7.172063492063496,
+        "Promedio minimo": 733.3650793650794,
         "nombre": "ACTIVIDADES INDUSTRIALES"
-    }, 
+    },
     {
-        "ID": 3, 
-        "Promedio alicuota": 7.0, 
-        "Promedio minimo": 747.8813559322034, 
+        "ID": 14,
+        "Promedio alicuota": 7.0,
+        "Promedio minimo": 747.8813559322034,
         "nombre": "ACTIVIDADES PRIMARIAS"
-    }, 
+    },
     {
-        "ID": 4, 
-        "Promedio alicuota": 14.528571428571428, 
-        "Promedio minimo": 1042.8428571428572, 
+        "ID": 22,
+        "Promedio alicuota": 14.528571428571428,
+        "Promedio minimo": 1042.8428571428572,
         "nombre": "COMUNICACIONES"
-    }, 
+    },
     {
-        "ID": 5, 
-        "Promedio alicuota": 7.599999999999997, 
-        "Promedio minimo": 691.4583333333334, 
+        "ID": 17,
+        "Promedio alicuota": 7.599999999999997,
+        "Promedio minimo": 691.4583333333334,
         "nombre": "CONSTRUCCI\u00d3N"
-    }, 
+    },
     {
-        "ID": 6, 
-        "Promedio alicuota": 7.725, 
-        "Promedio minimo": 1202.5, 
+        "ID": 21,
+        "Promedio alicuota": 7.725,
+        "Promedio minimo": 1202.5,
         "nombre": "DEP\u00d3SITO Y ALMACENAMIENTO"
-    }, 
+    },
     {
-        "ID": 7, 
-        "Promedio alicuota": 2.8, 
-        "Promedio minimo": 480.8, 
+        "ID": 16,
+        "Promedio alicuota": 2.8,
+        "Promedio minimo": 480.8,
         "nombre": "ELECTRICIDAD, GAS Y SIMILARES"
-    }, 
+    },
     {
-        "ID": 8, 
-        "Promedio alicuota": 28.409090909090914, 
-        "Promedio minimo": 868.2818181818183, 
+        "ID": 23,
+        "Promedio alicuota": 28.409090909090914,
+        "Promedio minimo": 868.2818181818183,
         "nombre": "ENTIDADES FINANCIERAS"
-    }, 
+    },
     {
-        "ID": 9, 
-        "Promedio alicuota": 9.476923076923075, 
-        "Promedio minimo": 601.1538461538462, 
+        "ID": 27,
+        "Promedio alicuota": 9.476923076923075,
+        "Promedio minimo": 601.1538461538462,
         "nombre": "LOCACI\u00d3N DE BIENES MUEBLES"
-    }, 
+    },
     {
-        "ID": 10, 
-        "Promedio alicuota": 12.7, 
-        "Promedio minimo": 1140.0, 
+        "ID": 30,
+        "Promedio alicuota": 12.7,
+        "Promedio minimo": 1140.0,
         "nombre": "OTRAS ACTIVIDADES"
-    }, 
+    },
     {
-        "ID": 11, 
-        "Promedio alicuota": 23.1, 
-        "Promedio minimo": 75.14, 
+        "ID": 26,
+        "Promedio alicuota": 23.1,
+        "Promedio minimo": 75.14,
         "nombre": "PLAYAS DE ESTACIONAMIENTO"
-    }, 
+    },
     {
-        "ID": 12, 
-        "Promedio alicuota": 28.657142857142855, 
-        "Promedio minimo": 303.0, 
+        "ID": 28,
+        "Promedio alicuota": 28.657142857142855,
+        "Promedio minimo": 303.0,
         "nombre": "PUBLICIDAD"
-    }, 
+    },
     {
-        "ID": 13, 
-        "Promedio alicuota": 7.045454545454546, 
-        "Promedio minimo": 506.3636363636364, 
+        "ID": 18,
+        "Promedio alicuota": 7.045454545454546,
+        "Promedio minimo": 506.3636363636364,
         "nombre": "REPARACIONES Y MANTENIMIENTO"
-    }, 
+    },
     {
-        "ID": 14, 
-        "Promedio alicuota": 15.1, 
-        "Promedio minimo": 680.0, 
+        "ID": 24,
+        "Promedio alicuota": 15.1,
+        "Promedio minimo": 680.0,
         "nombre": "SEGUROS"
-    }, 
+    },
     {
-        "ID": 15, 
-        "Promedio alicuota": 10.602469135802473, 
-        "Promedio minimo": 969.324074074074, 
+        "ID": 29,
+        "Promedio alicuota": 10.60184049079755,
+        "Promedio minimo": 963.6196319018405,
         "nombre": "SERVICIOS"
-    }, 
+    },
     {
-        "ID": 16, 
-        "Promedio alicuota": 10.5, 
-        "Promedio minimo": 39.5, 
-        "nombre": " juegos en red y en consolas (cyber y similares). El m\u00ednimo expresado corresponde a cada puesto conectado a un sistema de red con o sin acceso a internet."
-    }, 
-    {
-        "ID": 17, 
-        "Promedio alicuota": 9.959999999999999, 
-        "Promedio minimo": 1754.0, 
+        "ID": 25,
+        "Promedio alicuota": 9.959999999999999,
+        "Promedio minimo": 1754.0,
         "nombre": "SERVICIOS INMOBILIARIOS"
-    }, 
+    },
     {
-        "ID": 18, 
-        "Promedio alicuota": 7.386363636363637, 
-        "Promedio minimo": 2768.409090909091, 
+        "ID": 20,
+        "Promedio alicuota": 7.386363636363637,
+        "Promedio minimo": 2768.409090909091,
         "nombre": "TRANSPORTE"
     }
 ]
